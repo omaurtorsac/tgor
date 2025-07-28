@@ -1,0 +1,481 @@
+Clase,Pieza,Superficie_1,Superficie_2,Tamaño_cavidad_mm,Estado_cavidad,Técnica,Tipo_resina,Índice_contracción_%,Peso_resina_inicial_mg,Peso_sobrante_mg,Margen_cavo_mm,Ajuste_margen
+III,6,Mesial,,2.11,Con tejido remanente,Bulk,Fluida,2.51,89.08,9.68,0.96,Sobreobturado
+III,6,Mesial,,4.65,Limpia,Bulk,Compuesta,3.56,90.59,17.48,1.59,Equiobturado
+III,6,Mesial,,4.83,Limpia,Bulk,Compuesta,1.08,117.3,2.32,1.84,Equiobturado
+III,6,Mesial,,1.8,Limpia,Estratificación,Fluida,1.49,70.13,1.47,0.88,Subobturado
+III,6,Mesial,,4.88,Con tejido remanente,Bulk,Compuesta,3.06,82.87,14.32,0.88,Equiobturado
+III,6,Mesial,,2.7,Limpia,Bulk,Con fibra de vidrio,2.91,56.86,0.92,1.56,Subobturado
+III,6,Mesial,,4.78,Con tejido remanente,Estratificación,Con fibra de vidrio,4.46,71.03,14.17,0.9,Subobturado
+III,6,Mesial,,4.95,Limpia,Estratificación,Compuesta,4.89,88.55,11.07,1.78,Subobturado
+III,6,Mesial,,3.27,Con tejido remanente,Bulk,Fluida,3.05,102.57,7.59,1.47,Subobturado
+III,6,Mesial,,1.7,Limpia,Bulk,Con fibra de vidrio,4.63,115.17,17.9,1.14,Equiobturado
+III,6,Mesial,,4.87,Limpia,Bulk,Compuesta,1.18,59.96,6.01,0.64,Subobturado
+III,6,Mesial,,1.11,Limpia,Bulk,Con fibra de vidrio,3.06,52.91,0.92,1.19,Equiobturado
+III,6,Mesial,,4.44,Con tejido remanente,Bulk,Bulk,2.71,104.72,20.51,1.1,Equiobturado
+III,6,Mesial,,4.19,Limpia,Bulk,Bulk,3.25,99.94,18.75,1.14,Sobreobturado
+III,6,Mesial,,2.21,Con tejido remanente,Bulk,Compuesta,1.53,57.86,2.35,1.28,Sobreobturado
+III,6,Mesial,,3.39,Limpia,Bulk,Con fibra de vidrio,4.08,71.62,2.25,1.93,Subobturado
+III,6,Mesial,,4.36,Limpia,Estratificación,Compuesta,2.68,77.18,11.58,0.98,Sobreobturado
+III,6,Mesial,,2.74,Con tejido remanente,Bulk,Compuesta,4.59,80.75,6.3,1.55,Sobreobturado
+III,6,Mesial,,1.25,Limpia,Bulk,Fluida,4.0,52.52,7.1,0.53,Equiobturado
+III,6,Mesial,,2.34,Limpia,Bulk,Bulk,2.42,81.51,15.66,1.31,Subobturado
+III,6,Distal,,4.9,Limpia,Estratificación,Bulk,2.5,102.68,3.91,0.82,Subobturado
+III,6,Distal,,1.0,Limpia,Bulk,Bulk,3.85,77.96,12.17,1.09,Subobturado
+III,6,Distal,,4.19,Limpia,Estratificación,Fluida,1.0,63.67,6.09,1.32,Subobturado
+III,6,Distal,,2.0,Con tejido remanente,Estratificación,Con fibra de vidrio,3.95,54.05,6.01,1.58,Sobreobturado
+III,6,Distal,,3.95,Limpia,Bulk,Con fibra de vidrio,1.93,99.99,5.34,0.6,Sobreobturado
+III,6,Distal,,2.83,Limpia,Estratificación,Bulk,2.94,119.73,18.64,1.77,Equiobturado
+III,6,Distal,,4.02,Con tejido remanente,Bulk,Compuesta,1.19,105.67,0.84,1.14,Sobreobturado
+III,6,Distal,,2.69,Con tejido remanente,Estratificación,Compuesta,4.69,83.0,6.87,1.64,Sobreobturado
+III,6,Distal,,1.77,Limpia,Estratificación,Con fibra de vidrio,3.67,80.32,15.95,1.04,Equiobturado
+III,6,Distal,,4.91,Limpia,Estratificación,Fluida,3.13,71.09,7.89,1.72,Sobreobturado
+III,6,Distal,,3.76,Limpia,Bulk,Con fibra de vidrio,3.66,101.44,0.23,1.3,Equiobturado
+III,6,Distal,,1.72,Limpia,Estratificación,Compuesta,1.84,104.74,4.76,0.82,Sobreobturado
+III,6,Distal,,2.77,Limpia,Estratificación,Bulk,4.66,105.63,18.01,1.92,Sobreobturado
+III,6,Distal,,3.46,Limpia,Bulk,Bulk,1.1,92.62,2.09,1.67,Sobreobturado
+III,6,Distal,,4.6,Con tejido remanente,Estratificación,Fluida,3.23,82.79,8.2,1.12,Equiobturado
+III,6,Distal,,1.79,Con tejido remanente,Estratificación,Bulk,4.08,65.58,7.08,0.56,Subobturado
+III,6,Distal,,2.8,Con tejido remanente,Estratificación,Compuesta,2.61,57.87,9.84,1.72,Subobturado
+III,6,Distal,,2.13,Limpia,Bulk,Bulk,3.13,81.24,8.42,1.88,Equiobturado
+III,6,Distal,,2.23,Con tejido remanente,Bulk,Bulk,4.81,96.93,19.31,0.65,Subobturado
+III,6,Distal,,2.33,Con tejido remanente,Bulk,Fluida,4.74,100.52,5.75,0.94,Sobreobturado
+III,7,Mesial,,1.85,Con tejido remanente,Bulk,Fluida,4.04,91.01,12.19,1.38,Equiobturado
+III,7,Mesial,,1.25,Con tejido remanente,Bulk,Con fibra de vidrio,4.63,80.09,7.13,1.62,Equiobturado
+III,7,Mesial,,2.2,Limpia,Bulk,Bulk,1.72,105.48,16.63,1.49,Subobturado
+III,7,Mesial,,1.08,Con tejido remanente,Estratificación,Bulk,1.98,58.49,7.42,1.56,Subobturado
+III,7,Mesial,,3.19,Limpia,Bulk,Fluida,4.22,51.21,4.1,1.29,Sobreobturado
+III,7,Mesial,,2.87,Con tejido remanente,Estratificación,Bulk,4.19,87.22,3.92,0.58,Subobturado
+III,7,Mesial,,2.81,Limpia,Bulk,Compuesta,1.29,117.38,14.45,0.77,Equiobturado
+III,7,Mesial,,3.73,Con tejido remanente,Bulk,Compuesta,1.48,72.32,3.41,0.82,Equiobturado
+III,7,Mesial,,3.51,Con tejido remanente,Estratificación,Fluida,4.08,109.49,16.29,0.51,Equiobturado
+III,7,Mesial,,1.85,Con tejido remanente,Estratificación,Con fibra de vidrio,2.47,95.94,7.29,1.51,Subobturado
+III,7,Mesial,,3.18,Con tejido remanente,Bulk,Compuesta,3.83,66.83,0.23,0.89,Equiobturado
+III,7,Mesial,,4.49,Limpia,Estratificación,Compuesta,2.0,50.29,5.83,1.98,Equiobturado
+III,7,Mesial,,4.29,Limpia,Estratificación,Bulk,3.26,98.31,1.46,1.49,Subobturado
+III,7,Mesial,,4.05,Con tejido remanente,Estratificación,Bulk,1.72,69.38,7.94,1.53,Subobturado
+III,7,Mesial,,1.01,Con tejido remanente,Estratificación,Bulk,4.91,53.03,4.64,0.67,Equiobturado
+III,7,Mesial,,1.12,Limpia,Estratificación,Con fibra de vidrio,1.43,69.44,12.12,1.67,Sobreobturado
+III,7,Mesial,,4.86,Con tejido remanente,Bulk,Con fibra de vidrio,3.09,99.2,13.92,0.54,Sobreobturado
+III,7,Mesial,,2.87,Limpia,Estratificación,Compuesta,3.81,62.81,4.51,1.22,Subobturado
+III,7,Mesial,,2.82,Limpia,Bulk,Compuesta,2.97,105.21,5.81,1.11,Sobreobturado
+III,7,Mesial,,1.31,Con tejido remanente,Bulk,Fluida,2.43,79.31,5.46,1.54,Equiobturado
+III,7,Distal,,3.58,Limpia,Bulk,Fluida,1.7,54.76,4.94,1.56,Equiobturado
+III,7,Distal,,4.08,Limpia,Bulk,Compuesta,2.91,110.65,12.62,0.86,Subobturado
+III,7,Distal,,1.3,Limpia,Estratificación,Con fibra de vidrio,2.83,66.73,8.63,1.76,Subobturado
+III,7,Distal,,2.84,Limpia,Estratificación,Con fibra de vidrio,4.72,83.55,13.37,1.63,Subobturado
+III,7,Distal,,1.98,Con tejido remanente,Bulk,Fluida,1.05,95.9,15.47,1.7,Sobreobturado
+III,7,Distal,,3.42,Limpia,Bulk,Bulk,4.93,112.59,7.51,0.82,Subobturado
+III,7,Distal,,2.83,Limpia,Estratificación,Fluida,3.55,102.0,3.18,1.84,Equiobturado
+III,7,Distal,,3.49,Limpia,Bulk,Con fibra de vidrio,1.24,85.09,9.24,1.53,Equiobturado
+III,7,Distal,,2.27,Limpia,Bulk,Bulk,1.8,82.25,1.09,0.59,Sobreobturado
+III,7,Distal,,1.4,Con tejido remanente,Bulk,Compuesta,2.22,95.11,2.16,0.92,Subobturado
+III,7,Distal,,3.13,Con tejido remanente,Bulk,Fluida,1.94,90.49,1.93,1.19,Subobturado
+III,7,Distal,,1.01,Con tejido remanente,Estratificación,Bulk,1.38,119.05,17.25,2.0,Subobturado
+III,7,Distal,,1.88,Limpia,Estratificación,Con fibra de vidrio,4.02,90.74,9.34,1.59,Equiobturado
+III,7,Distal,,2.15,Limpia,Bulk,Con fibra de vidrio,2.15,113.94,18.63,1.85,Subobturado
+III,7,Distal,,2.39,Limpia,Estratificación,Con fibra de vidrio,4.78,50.28,6.96,0.74,Equiobturado
+III,7,Distal,,2.86,Con tejido remanente,Estratificación,Con fibra de vidrio,1.04,106.33,13.73,1.88,Sobreobturado
+III,7,Distal,,3.95,Limpia,Estratificación,Compuesta,4.82,53.64,5.76,1.89,Sobreobturado
+III,7,Distal,,1.16,Con tejido remanente,Estratificación,Compuesta,4.56,87.86,5.09,1.5,Subobturado
+III,7,Distal,,3.42,Con tejido remanente,Estratificación,Fluida,4.58,105.91,6.42,1.93,Equiobturado
+III,7,Distal,,1.29,Con tejido remanente,Bulk,Fluida,3.78,67.51,10.03,0.54,Subobturado
+III,8,Mesial,,4.19,Limpia,Estratificación,Compuesta,3.85,62.26,9.23,1.3,Sobreobturado
+III,8,Mesial,,3.47,Limpia,Bulk,Bulk,1.63,65.42,8.16,1.4,Sobreobturado
+III,8,Mesial,,3.54,Limpia,Bulk,Bulk,2.75,112.18,19.37,0.72,Equiobturado
+III,8,Mesial,,3.56,Limpia,Estratificación,Compuesta,3.94,72.91,1.06,1.48,Subobturado
+III,8,Mesial,,4.28,Con tejido remanente,Estratificación,Compuesta,2.54,104.4,7.6,1.87,Subobturado
+III,8,Mesial,,1.26,Con tejido remanente,Estratificación,Fluida,3.71,103.2,13.36,1.46,Subobturado
+III,8,Mesial,,2.02,Con tejido remanente,Bulk,Compuesta,4.68,86.71,15.7,1.59,Sobreobturado
+III,8,Mesial,,2.01,Limpia,Estratificación,Bulk,2.15,88.44,1.62,1.06,Subobturado
+III,8,Mesial,,2.27,Limpia,Estratificación,Con fibra de vidrio,4.15,53.23,0.91,0.55,Sobreobturado
+III,8,Mesial,,3.16,Limpia,Estratificación,Bulk,2.04,101.26,11.42,0.66,Equiobturado
+III,8,Mesial,,1.43,Con tejido remanente,Estratificación,Con fibra de vidrio,2.59,66.89,13.21,0.59,Subobturado
+III,8,Mesial,,2.92,Con tejido remanente,Bulk,Compuesta,4.6,87.73,4.19,1.9,Sobreobturado
+III,8,Mesial,,2.14,Con tejido remanente,Bulk,Con fibra de vidrio,2.67,95.87,9.0,1.53,Equiobturado
+III,8,Mesial,,4.88,Con tejido remanente,Estratificación,Con fibra de vidrio,2.11,104.8,20.91,1.82,Subobturado
+III,8,Mesial,,4.28,Limpia,Estratificación,Compuesta,4.46,94.51,16.95,1.96,Equiobturado
+III,8,Mesial,,1.95,Limpia,Estratificación,Bulk,3.29,98.37,7.82,0.85,Sobreobturado
+III,8,Mesial,,3.01,Limpia,Bulk,Bulk,1.85,101.85,18.38,0.6,Equiobturado
+III,8,Mesial,,4.13,Limpia,Estratificación,Fluida,1.65,52.07,6.5,1.31,Subobturado
+III,8,Mesial,,3.79,Con tejido remanente,Estratificación,Fluida,1.9,77.45,4.84,1.38,Sobreobturado
+III,8,Mesial,,2.15,Limpia,Bulk,Bulk,2.42,118.87,3.38,1.9,Sobreobturado
+III,8,Distal,,3.61,Con tejido remanente,Bulk,Fluida,3.42,85.26,11.24,0.76,Equiobturado
+III,8,Distal,,4.67,Con tejido remanente,Estratificación,Con fibra de vidrio,1.81,81.5,0.53,0.76,Equiobturado
+III,8,Distal,,1.61,Limpia,Estratificación,Compuesta,3.22,108.5,16.39,1.77,Sobreobturado
+III,8,Distal,,1.54,Con tejido remanente,Estratificación,Compuesta,4.07,119.88,23.62,0.85,Sobreobturado
+III,8,Distal,,4.24,Limpia,Estratificación,Con fibra de vidrio,4.35,57.9,7.36,1.68,Equiobturado
+III,8,Distal,,1.58,Con tejido remanente,Estratificación,Bulk,3.2,105.37,18.73,1.7,Subobturado
+III,8,Distal,,2.24,Limpia,Bulk,Compuesta,3.58,76.48,12.32,0.81,Subobturado
+III,8,Distal,,2.64,Con tejido remanente,Bulk,Bulk,3.68,68.84,7.29,1.06,Equiobturado
+III,8,Distal,,2.1,Limpia,Estratificación,Con fibra de vidrio,2.11,73.63,10.99,0.56,Equiobturado
+III,8,Distal,,2.97,Con tejido remanente,Estratificación,Compuesta,3.25,106.3,19.87,0.99,Equiobturado
+III,8,Distal,,1.44,Con tejido remanente,Estratificación,Compuesta,2.77,70.1,4.35,1.29,Equiobturado
+III,8,Distal,,1.01,Limpia,Bulk,Compuesta,2.02,78.64,4.64,1.92,Sobreobturado
+III,8,Distal,,3.0,Con tejido remanente,Estratificación,Bulk,1.87,73.99,14.53,1.78,Subobturado
+III,8,Distal,,3.57,Limpia,Estratificación,Con fibra de vidrio,1.08,116.92,22.13,0.75,Sobreobturado
+III,8,Distal,,4.4,Con tejido remanente,Bulk,Bulk,3.73,66.94,0.37,1.36,Equiobturado
+III,8,Distal,,4.63,Limpia,Bulk,Bulk,4.85,109.16,18.73,0.88,Subobturado
+III,8,Distal,,3.61,Limpia,Estratificación,Fluida,3.5,57.04,9.11,1.53,Equiobturado
+III,8,Distal,,4.74,Con tejido remanente,Estratificación,Con fibra de vidrio,2.88,112.38,10.78,1.65,Sobreobturado
+III,8,Distal,,2.6,Limpia,Bulk,Compuesta,2.62,100.74,16.56,0.56,Sobreobturado
+III,8,Distal,,4.51,Limpia,Estratificación,Con fibra de vidrio,1.68,91.93,6.76,1.21,Subobturado
+III,9,Mesial,,3.13,Limpia,Bulk,Fluida,4.42,69.65,9.86,1.48,Equiobturado
+III,9,Mesial,,3.4,Limpia,Estratificación,Compuesta,2.07,114.1,21.35,1.2,Subobturado
+III,9,Mesial,,1.11,Limpia,Bulk,Con fibra de vidrio,3.84,86.09,4.93,1.13,Subobturado
+III,9,Mesial,,4.79,Con tejido remanente,Estratificación,Con fibra de vidrio,2.59,62.96,3.47,1.0,Subobturado
+III,9,Mesial,,4.04,Limpia,Estratificación,Con fibra de vidrio,4.6,62.33,0.97,0.54,Subobturado
+III,9,Mesial,,4.5,Limpia,Estratificación,Fluida,1.68,67.84,3.0,1.86,Sobreobturado
+III,9,Mesial,,1.77,Limpia,Bulk,Con fibra de vidrio,3.61,67.53,11.09,1.09,Subobturado
+III,9,Mesial,,2.21,Limpia,Bulk,Fluida,2.76,74.57,12.0,0.69,Subobturado
+III,9,Mesial,,1.27,Limpia,Estratificación,Fluida,2.12,61.88,11.82,1.46,Equiobturado
+III,9,Mesial,,1.36,Con tejido remanente,Estratificación,Compuesta,2.34,83.73,3.57,1.3,Subobturado
+III,9,Mesial,,3.64,Limpia,Estratificación,Con fibra de vidrio,3.09,91.47,13.98,0.75,Sobreobturado
+III,9,Mesial,,4.6,Limpia,Bulk,Bulk,1.88,87.58,1.81,1.57,Subobturado
+III,9,Mesial,,3.08,Con tejido remanente,Estratificación,Fluida,4.62,117.18,5.68,1.85,Equiobturado
+III,9,Mesial,,2.47,Limpia,Estratificación,Fluida,3.77,79.66,14.21,1.72,Subobturado
+III,9,Mesial,,1.53,Limpia,Estratificación,Compuesta,2.23,118.18,19.98,1.33,Equiobturado
+III,9,Mesial,,2.52,Limpia,Estratificación,Compuesta,2.36,96.95,9.73,1.32,Equiobturado
+III,9,Mesial,,1.0,Con tejido remanente,Estratificación,Compuesta,4.45,103.6,2.72,1.53,Equiobturado
+III,9,Mesial,,3.95,Limpia,Bulk,Con fibra de vidrio,3.48,116.95,22.17,0.93,Sobreobturado
+III,9,Mesial,,2.01,Limpia,Estratificación,Con fibra de vidrio,1.36,75.48,1.58,1.2,Subobturado
+III,9,Mesial,,4.79,Con tejido remanente,Bulk,Compuesta,3.81,84.43,9.74,1.37,Equiobturado
+III,9,Distal,,4.62,Limpia,Estratificación,Bulk,2.93,89.87,10.04,1.1,Subobturado
+III,9,Distal,,1.03,Limpia,Bulk,Bulk,3.72,69.37,12.03,1.79,Subobturado
+III,9,Distal,,4.98,Con tejido remanente,Bulk,Fluida,4.39,117.51,0.21,1.04,Equiobturado
+III,9,Distal,,2.72,Con tejido remanente,Bulk,Bulk,1.41,93.71,11.06,1.33,Subobturado
+III,9,Distal,,3.33,Con tejido remanente,Estratificación,Compuesta,4.06,114.7,4.61,1.91,Subobturado
+III,9,Distal,,2.11,Limpia,Bulk,Bulk,2.05,54.68,8.16,1.81,Sobreobturado
+III,9,Distal,,4.74,Limpia,Bulk,Con fibra de vidrio,2.02,106.6,7.6,0.57,Equiobturado
+III,9,Distal,,1.7,Limpia,Bulk,Compuesta,1.9,118.53,7.47,1.75,Equiobturado
+III,9,Distal,,3.16,Limpia,Estratificación,Fluida,4.32,75.96,3.92,1.89,Equiobturado
+III,9,Distal,,4.03,Limpia,Bulk,Fluida,4.34,65.45,7.16,1.84,Subobturado
+III,9,Distal,,4.89,Con tejido remanente,Bulk,Fluida,2.67,52.85,0.37,1.32,Sobreobturado
+III,9,Distal,,2.19,Con tejido remanente,Bulk,Compuesta,3.2,79.88,7.13,0.99,Sobreobturado
+III,9,Distal,,1.82,Limpia,Bulk,Fluida,4.18,74.13,7.47,1.09,Sobreobturado
+III,9,Distal,,4.13,Limpia,Estratificación,Bulk,3.2,56.44,3.59,1.11,Subobturado
+III,9,Distal,,3.65,Con tejido remanente,Bulk,Compuesta,3.49,89.59,0.37,0.65,Sobreobturado
+III,9,Distal,,3.82,Limpia,Bulk,Compuesta,4.67,119.08,1.37,1.9,Equiobturado
+III,9,Distal,,2.34,Con tejido remanente,Estratificación,Con fibra de vidrio,3.55,93.91,11.23,0.62,Equiobturado
+III,9,Distal,,3.39,Con tejido remanente,Bulk,Fluida,1.25,86.0,0.66,0.8,Subobturado
+III,9,Distal,,3.25,Limpia,Estratificación,Fluida,4.99,60.25,0.67,1.84,Sobreobturado
+III,9,Distal,,2.54,Limpia,Estratificación,Bulk,3.67,109.79,14.68,0.59,Subobturado
+III,10,Mesial,,3.85,Con tejido remanente,Bulk,Fluida,4.5,101.44,7.74,0.53,Subobturado
+III,10,Mesial,,2.37,Con tejido remanente,Bulk,Con fibra de vidrio,4.55,54.39,4.44,1.25,Equiobturado
+III,10,Mesial,,2.54,Limpia,Bulk,Bulk,1.5,56.18,0.11,1.75,Equiobturado
+III,10,Mesial,,1.92,Con tejido remanente,Bulk,Compuesta,4.2,73.86,10.37,1.62,Equiobturado
+III,10,Mesial,,3.44,Con tejido remanente,Estratificación,Bulk,3.43,81.75,0.98,1.01,Equiobturado
+III,10,Mesial,,1.92,Con tejido remanente,Estratificación,Fluida,4.39,101.61,14.06,0.95,Sobreobturado
+III,10,Mesial,,2.79,Limpia,Estratificación,Con fibra de vidrio,4.09,67.57,9.87,1.08,Subobturado
+III,10,Mesial,,1.91,Limpia,Estratificación,Fluida,2.39,50.6,5.39,0.89,Sobreobturado
+III,10,Mesial,,1.43,Con tejido remanente,Bulk,Compuesta,4.02,115.13,5.58,0.69,Equiobturado
+III,10,Mesial,,3.91,Con tejido remanente,Bulk,Fluida,4.83,78.26,13.83,1.3,Equiobturado
+III,10,Mesial,,4.84,Limpia,Estratificación,Con fibra de vidrio,3.21,66.03,9.35,1.35,Subobturado
+III,10,Mesial,,3.13,Con tejido remanente,Bulk,Con fibra de vidrio,2.43,62.23,9.16,0.5,Sobreobturado
+III,10,Mesial,,1.4,Con tejido remanente,Estratificación,Compuesta,3.64,111.63,20.26,1.11,Sobreobturado
+III,10,Mesial,,2.63,Limpia,Estratificación,Bulk,3.63,82.12,14.11,0.7,Equiobturado
+III,10,Mesial,,3.93,Con tejido remanente,Estratificación,Bulk,3.37,113.19,15.58,1.4,Sobreobturado
+III,10,Mesial,,3.92,Con tejido remanente,Estratificación,Compuesta,2.15,102.61,15.06,1.27,Sobreobturado
+III,10,Mesial,,1.89,Limpia,Bulk,Bulk,2.48,118.08,4.55,1.64,Equiobturado
+III,10,Mesial,,1.35,Con tejido remanente,Bulk,Con fibra de vidrio,4.46,70.04,2.28,0.61,Sobreobturado
+III,10,Mesial,,3.62,Limpia,Bulk,Bulk,3.3,117.53,22.86,1.42,Subobturado
+III,10,Mesial,,1.39,Con tejido remanente,Bulk,Bulk,3.93,77.77,4.44,1.88,Subobturado
+III,10,Distal,,2.98,Limpia,Estratificación,Compuesta,1.12,66.7,8.45,1.85,Sobreobturado
+III,10,Distal,,1.26,Limpia,Estratificación,Bulk,4.21,82.21,4.19,1.72,Subobturado
+III,10,Distal,,3.78,Con tejido remanente,Bulk,Compuesta,1.95,76.75,10.65,1.67,Sobreobturado
+III,10,Distal,,4.66,Limpia,Bulk,Fluida,3.89,94.39,17.63,1.52,Sobreobturado
+III,10,Distal,,3.49,Con tejido remanente,Bulk,Con fibra de vidrio,4.82,115.99,0.64,0.58,Sobreobturado
+III,10,Distal,,3.86,Limpia,Bulk,Fluida,3.23,62.53,9.55,0.81,Sobreobturado
+III,10,Distal,,3.66,Limpia,Bulk,Compuesta,4.56,109.75,19.32,1.71,Sobreobturado
+III,10,Distal,,1.78,Limpia,Bulk,Con fibra de vidrio,2.5,114.13,4.36,1.53,Sobreobturado
+III,10,Distal,,3.94,Limpia,Bulk,Compuesta,4.7,97.36,6.07,1.18,Equiobturado
+III,10,Distal,,1.47,Limpia,Estratificación,Bulk,3.66,57.85,3.89,1.56,Sobreobturado
+III,10,Distal,,1.31,Limpia,Bulk,Fluida,2.22,76.9,9.87,1.58,Subobturado
+III,10,Distal,,2.51,Limpia,Estratificación,Con fibra de vidrio,1.53,52.34,8.49,1.7,Equiobturado
+III,10,Distal,,4.41,Con tejido remanente,Bulk,Bulk,1.37,51.97,6.8,1.29,Sobreobturado
+III,10,Distal,,2.84,Con tejido remanente,Bulk,Fluida,4.64,111.34,6.37,0.92,Sobreobturado
+III,10,Distal,,3.0,Limpia,Bulk,Fluida,1.04,87.84,5.02,0.83,Sobreobturado
+III,10,Distal,,4.1,Con tejido remanente,Estratificación,Bulk,4.07,73.95,10.01,0.59,Sobreobturado
+III,10,Distal,,3.77,Con tejido remanente,Bulk,Bulk,4.89,86.56,14.92,0.97,Equiobturado
+III,10,Distal,,4.37,Con tejido remanente,Bulk,Con fibra de vidrio,1.85,114.81,4.72,0.6,Equiobturado
+III,10,Distal,,3.59,Con tejido remanente,Bulk,Bulk,4.24,98.68,13.53,0.72,Equiobturado
+III,10,Distal,,4.05,Limpia,Bulk,Fluida,1.91,111.63,11.8,1.93,Equiobturado
+III,11,Mesial,,3.48,Con tejido remanente,Bulk,Bulk,1.89,64.45,8.15,0.54,Equiobturado
+III,11,Mesial,,2.64,Con tejido remanente,Estratificación,Compuesta,1.67,77.62,2.16,1.88,Sobreobturado
+III,11,Mesial,,2.1,Limpia,Estratificación,Bulk,4.38,94.33,14.19,1.45,Subobturado
+III,11,Mesial,,4.26,Con tejido remanente,Bulk,Compuesta,3.12,74.36,11.1,1.85,Equiobturado
+III,11,Mesial,,2.02,Limpia,Bulk,Con fibra de vidrio,1.15,56.99,4.98,1.89,Equiobturado
+III,11,Mesial,,2.59,Limpia,Bulk,Fluida,1.13,74.59,10.7,1.82,Subobturado
+III,11,Mesial,,3.59,Con tejido remanente,Estratificación,Bulk,4.91,78.68,1.77,0.65,Subobturado
+III,11,Mesial,,2.08,Con tejido remanente,Estratificación,Fluida,4.24,98.49,19.38,1.44,Sobreobturado
+III,11,Mesial,,1.69,Limpia,Bulk,Bulk,2.5,119.79,23.87,0.96,Subobturado
+III,11,Mesial,,2.62,Con tejido remanente,Estratificación,Con fibra de vidrio,3.94,102.29,3.15,0.52,Equiobturado
+III,11,Mesial,,1.65,Limpia,Bulk,Con fibra de vidrio,3.67,68.92,12.52,1.47,Subobturado
+III,11,Mesial,,2.07,Con tejido remanente,Bulk,Fluida,4.26,112.85,9.41,1.66,Subobturado
+III,11,Mesial,,2.46,Limpia,Estratificación,Fluida,4.16,99.56,9.42,1.72,Subobturado
+III,11,Mesial,,3.93,Con tejido remanente,Bulk,Con fibra de vidrio,2.95,86.16,9.75,1.4,Equiobturado
+III,11,Mesial,,2.56,Limpia,Estratificación,Fluida,1.24,86.73,3.79,1.36,Sobreobturado
+III,11,Mesial,,4.04,Limpia,Estratificación,Bulk,4.5,102.19,12.53,1.96,Sobreobturado
+III,11,Mesial,,2.97,Limpia,Estratificación,Bulk,1.07,59.28,11.78,0.59,Equiobturado
+III,11,Mesial,,2.87,Con tejido remanente,Estratificación,Compuesta,2.71,68.42,9.4,1.26,Equiobturado
+III,11,Mesial,,4.87,Con tejido remanente,Bulk,Fluida,4.14,65.83,9.84,1.68,Sobreobturado
+III,11,Mesial,,1.01,Limpia,Estratificación,Bulk,4.78,72.95,9.85,1.46,Equiobturado
+III,11,Distal,,2.66,Con tejido remanente,Estratificación,Con fibra de vidrio,3.73,103.83,10.23,0.78,Equiobturado
+III,11,Distal,,2.38,Con tejido remanente,Bulk,Fluida,2.45,102.45,3.45,1.12,Equiobturado
+III,11,Distal,,3.61,Limpia,Estratificación,Bulk,3.17,96.91,10.37,1.61,Subobturado
+III,11,Distal,,2.7,Con tejido remanente,Bulk,Compuesta,3.66,103.19,17.36,1.75,Subobturado
+III,11,Distal,,1.23,Con tejido remanente,Bulk,Fluida,2.36,91.85,3.0,1.41,Equiobturado
+III,11,Distal,,1.89,Limpia,Bulk,Compuesta,3.33,97.03,1.53,0.84,Sobreobturado
+III,11,Distal,,3.98,Limpia,Bulk,Bulk,3.63,100.3,14.52,0.77,Equiobturado
+III,11,Distal,,1.69,Limpia,Estratificación,Compuesta,1.19,107.96,5.46,1.1,Equiobturado
+III,11,Distal,,2.09,Con tejido remanente,Estratificación,Fluida,1.51,118.22,6.0,1.17,Equiobturado
+III,11,Distal,,2.07,Limpia,Bulk,Con fibra de vidrio,2.38,99.64,16.77,1.7,Sobreobturado
+III,11,Distal,,3.29,Con tejido remanente,Estratificación,Compuesta,1.31,95.09,2.37,1.07,Subobturado
+III,11,Distal,,1.1,Con tejido remanente,Estratificación,Fluida,3.0,72.31,0.63,1.22,Sobreobturado
+III,11,Distal,,3.51,Limpia,Estratificación,Compuesta,3.99,99.45,0.41,0.54,Sobreobturado
+III,11,Distal,,1.61,Con tejido remanente,Bulk,Compuesta,4.41,78.75,8.69,1.83,Equiobturado
+III,11,Distal,,1.42,Con tejido remanente,Bulk,Bulk,4.54,99.7,19.46,1.35,Equiobturado
+III,11,Distal,,1.52,Limpia,Estratificación,Con fibra de vidrio,2.95,64.03,12.08,1.89,Subobturado
+III,11,Distal,,4.55,Limpia,Bulk,Compuesta,4.6,77.09,2.84,2.0,Sobreobturado
+III,11,Distal,,3.3,Con tejido remanente,Bulk,Bulk,1.38,112.45,1.46,1.07,Equiobturado
+III,11,Distal,,1.11,Con tejido remanente,Estratificación,Con fibra de vidrio,3.12,118.7,3.68,0.54,Equiobturado
+III,11,Distal,,4.14,Con tejido remanente,Bulk,Fluida,3.32,52.07,4.99,0.84,Subobturado
+III,22,Mesial,,1.62,Con tejido remanente,Estratificación,Compuesta,4.88,105.62,4.44,1.18,Sobreobturado
+III,22,Mesial,,2.48,Limpia,Bulk,Con fibra de vidrio,4.27,91.48,4.18,1.07,Equiobturado
+III,22,Mesial,,1.97,Limpia,Bulk,Con fibra de vidrio,4.51,70.21,1.35,1.63,Equiobturado
+III,22,Mesial,,4.0,Con tejido remanente,Estratificación,Compuesta,1.54,78.52,0.08,0.51,Sobreobturado
+III,22,Mesial,,2.42,Con tejido remanente,Estratificación,Fluida,1.96,81.82,6.3,0.53,Sobreobturado
+III,22,Mesial,,3.2,Limpia,Estratificación,Con fibra de vidrio,4.84,94.35,4.49,1.52,Sobreobturado
+III,22,Mesial,,2.18,Limpia,Bulk,Bulk,2.06,89.3,16.63,0.62,Subobturado
+III,22,Mesial,,2.85,Limpia,Estratificación,Bulk,1.01,75.9,10.18,1.75,Sobreobturado
+III,22,Mesial,,2.46,Limpia,Estratificación,Con fibra de vidrio,1.9,65.13,4.56,1.49,Sobreobturado
+III,22,Mesial,,4.51,Con tejido remanente,Estratificación,Bulk,1.89,98.39,0.21,1.46,Sobreobturado
+III,22,Mesial,,2.39,Limpia,Bulk,Fluida,3.25,62.93,9.35,0.63,Subobturado
+III,22,Mesial,,3.3,Limpia,Bulk,Con fibra de vidrio,1.87,89.67,10.48,0.65,Sobreobturado
+III,22,Mesial,,4.21,Limpia,Estratificación,Bulk,3.17,69.75,7.19,1.3,Equiobturado
+III,22,Mesial,,4.03,Con tejido remanente,Bulk,Bulk,2.23,96.24,2.78,0.75,Equiobturado
+III,22,Mesial,,2.99,Limpia,Estratificación,Bulk,2.21,69.08,9.46,0.93,Sobreobturado
+III,22,Mesial,,1.33,Limpia,Bulk,Bulk,3.44,87.38,11.58,1.92,Equiobturado
+III,22,Mesial,,3.74,Limpia,Estratificación,Compuesta,4.44,57.77,3.2,1.51,Equiobturado
+III,22,Mesial,,4.32,Limpia,Bulk,Con fibra de vidrio,4.96,53.01,5.16,1.99,Equiobturado
+III,22,Mesial,,3.13,Limpia,Bulk,Fluida,3.68,108.97,10.75,1.2,Sobreobturado
+III,22,Mesial,,3.54,Limpia,Bulk,Fluida,2.07,79.91,9.75,1.88,Sobreobturado
+III,22,Distal,,1.78,Limpia,Bulk,Con fibra de vidrio,3.92,53.47,7.15,1.12,Sobreobturado
+III,22,Distal,,3.71,Limpia,Estratificación,Fluida,3.17,114.26,11.33,0.52,Subobturado
+III,22,Distal,,2.78,Limpia,Bulk,Bulk,3.64,89.96,7.4,1.76,Equiobturado
+III,22,Distal,,1.1,Limpia,Estratificación,Compuesta,3.28,57.06,7.4,0.53,Sobreobturado
+III,22,Distal,,1.49,Con tejido remanente,Estratificación,Fluida,1.64,95.19,1.55,1.74,Subobturado
+III,22,Distal,,2.73,Limpia,Bulk,Fluida,2.96,74.68,7.56,1.24,Equiobturado
+III,22,Distal,,4.44,Con tejido remanente,Bulk,Con fibra de vidrio,3.53,75.5,13.67,1.62,Sobreobturado
+III,22,Distal,,2.2,Con tejido remanente,Bulk,Compuesta,3.85,90.68,13.78,1.17,Sobreobturado
+III,22,Distal,,4.08,Con tejido remanente,Bulk,Compuesta,4.53,74.12,12.65,1.02,Subobturado
+III,22,Distal,,4.67,Con tejido remanente,Estratificación,Bulk,1.81,119.22,11.94,0.58,Subobturado
+III,22,Distal,,4.53,Limpia,Bulk,Fluida,2.35,70.98,6.65,1.54,Equiobturado
+III,22,Distal,,2.34,Con tejido remanente,Bulk,Fluida,2.61,106.58,2.09,1.63,Sobreobturado
+III,22,Distal,,2.5,Con tejido remanente,Estratificación,Con fibra de vidrio,3.13,90.5,17.38,1.21,Sobreobturado
+III,22,Distal,,3.67,Limpia,Bulk,Bulk,2.1,77.56,2.49,1.21,Subobturado
+III,22,Distal,,3.98,Limpia,Bulk,Bulk,1.23,79.17,12.74,1.97,Equiobturado
+III,22,Distal,,3.72,Con tejido remanente,Estratificación,Fluida,4.24,91.18,2.35,1.37,Subobturado
+III,22,Distal,,4.91,Limpia,Estratificación,Compuesta,2.24,73.12,4.2,1.06,Subobturado
+III,22,Distal,,4.52,Limpia,Bulk,Compuesta,3.95,59.61,3.99,0.6,Equiobturado
+III,22,Distal,,4.35,Con tejido remanente,Bulk,Fluida,2.93,101.7,1.03,1.51,Subobturado
+III,22,Distal,,3.11,Con tejido remanente,Bulk,Bulk,2.49,94.91,16.22,1.08,Equiobturado
+III,23,Mesial,,3.08,Con tejido remanente,Estratificación,Fluida,4.66,55.64,10.05,1.08,Subobturado
+III,23,Mesial,,2.99,Limpia,Estratificación,Compuesta,4.22,55.09,2.89,1.79,Subobturado
+III,23,Mesial,,4.77,Con tejido remanente,Bulk,Compuesta,4.91,51.32,3.67,1.94,Subobturado
+III,23,Mesial,,1.92,Con tejido remanente,Estratificación,Compuesta,3.4,55.02,7.6,1.43,Equiobturado
+III,23,Mesial,,3.05,Con tejido remanente,Estratificación,Fluida,1.02,105.55,11.65,1.96,Equiobturado
+III,23,Mesial,,4.41,Limpia,Bulk,Compuesta,1.28,57.53,5.35,1.63,Equiobturado
+III,23,Mesial,,4.92,Limpia,Estratificación,Fluida,3.68,102.57,1.13,1.4,Sobreobturado
+III,23,Mesial,,1.21,Con tejido remanente,Estratificación,Con fibra de vidrio,4.18,106.8,13.35,1.04,Equiobturado
+III,23,Mesial,,1.89,Limpia,Bulk,Fluida,1.19,92.71,6.52,0.55,Equiobturado
+III,23,Mesial,,1.65,Limpia,Estratificación,Con fibra de vidrio,3.27,116.45,18.45,1.42,Subobturado
+III,23,Mesial,,1.6,Limpia,Bulk,Compuesta,3.47,74.67,6.46,0.71,Subobturado
+III,23,Mesial,,1.03,Con tejido remanente,Estratificación,Fluida,1.14,115.55,0.68,0.51,Equiobturado
+III,23,Mesial,,2.07,Limpia,Bulk,Bulk,4.91,68.97,1.28,1.08,Equiobturado
+III,23,Mesial,,1.13,Limpia,Estratificación,Fluida,4.97,91.38,11.2,1.87,Subobturado
+III,23,Mesial,,2.51,Limpia,Bulk,Con fibra de vidrio,3.54,70.84,2.35,1.68,Sobreobturado
+III,23,Mesial,,3.43,Con tejido remanente,Bulk,Con fibra de vidrio,4.68,115.94,11.74,1.84,Equiobturado
+III,23,Mesial,,3.93,Limpia,Bulk,Bulk,2.39,92.98,8.08,1.47,Sobreobturado
+III,23,Mesial,,2.11,Limpia,Bulk,Con fibra de vidrio,3.75,79.87,10.2,1.73,Sobreobturado
+III,23,Mesial,,3.61,Limpia,Bulk,Con fibra de vidrio,4.13,96.81,8.43,1.56,Sobreobturado
+III,23,Mesial,,1.71,Limpia,Bulk,Compuesta,3.24,50.67,3.87,1.02,Sobreobturado
+III,23,Distal,,3.83,Con tejido remanente,Bulk,Fluida,2.2,88.43,5.45,0.8,Equiobturado
+III,23,Distal,,3.37,Con tejido remanente,Estratificación,Bulk,3.81,60.05,0.18,0.77,Equiobturado
+III,23,Distal,,1.3,Limpia,Bulk,Compuesta,1.66,106.03,15.44,1.3,Sobreobturado
+III,23,Distal,,3.81,Con tejido remanente,Estratificación,Bulk,1.73,114.37,4.82,1.38,Subobturado
+III,23,Distal,,1.28,Con tejido remanente,Estratificación,Compuesta,1.94,53.14,8.54,1.3,Sobreobturado
+III,23,Distal,,4.25,Con tejido remanente,Estratificación,Compuesta,1.44,90.1,4.19,1.9,Sobreobturado
+III,23,Distal,,2.88,Limpia,Bulk,Fluida,2.85,104.3,0.03,0.99,Equiobturado
+III,23,Distal,,2.96,Con tejido remanente,Estratificación,Compuesta,3.2,58.7,3.09,1.19,Sobreobturado
+III,23,Distal,,4.77,Limpia,Estratificación,Compuesta,2.23,85.05,13.0,0.51,Equiobturado
+III,23,Distal,,3.38,Con tejido remanente,Estratificación,Compuesta,3.07,51.52,4.74,0.93,Equiobturado
+III,23,Distal,,3.55,Con tejido remanente,Estratificación,Bulk,4.06,105.24,20.85,1.26,Sobreobturado
+III,23,Distal,,1.97,Limpia,Estratificación,Bulk,4.92,60.89,4.68,0.78,Subobturado
+III,23,Distal,,1.18,Limpia,Bulk,Con fibra de vidrio,2.4,54.31,0.95,0.8,Equiobturado
+III,23,Distal,,4.11,Con tejido remanente,Bulk,Bulk,3.28,72.14,4.81,0.7,Sobreobturado
+III,23,Distal,,4.78,Con tejido remanente,Bulk,Bulk,3.31,50.98,0.56,1.2,Equiobturado
+III,23,Distal,,1.34,Limpia,Bulk,Compuesta,1.98,89.96,0.14,1.69,Equiobturado
+III,23,Distal,,1.46,Limpia,Estratificación,Fluida,3.61,92.83,18.56,1.17,Subobturado
+III,23,Distal,,2.91,Limpia,Estratificación,Con fibra de vidrio,1.41,79.86,11.87,1.43,Sobreobturado
+III,23,Distal,,4.85,Con tejido remanente,Estratificación,Compuesta,2.26,63.34,6.9,1.84,Subobturado
+III,23,Distal,,2.7,Limpia,Estratificación,Fluida,3.48,52.1,6.36,0.92,Subobturado
+III,24,Mesial,,4.7,Con tejido remanente,Estratificación,Bulk,3.32,68.72,2.19,1.0,Equiobturado
+III,24,Mesial,,4.46,Limpia,Estratificación,Fluida,2.38,104.92,19.25,1.35,Subobturado
+III,24,Mesial,,1.82,Limpia,Estratificación,Compuesta,1.92,74.95,4.73,1.52,Subobturado
+III,24,Mesial,,4.93,Con tejido remanente,Bulk,Con fibra de vidrio,1.43,88.56,11.41,1.85,Subobturado
+III,24,Mesial,,2.7,Con tejido remanente,Estratificación,Fluida,4.65,108.96,16.57,1.59,Subobturado
+III,24,Mesial,,2.5,Limpia,Bulk,Con fibra de vidrio,1.28,68.66,2.21,1.95,Equiobturado
+III,24,Mesial,,3.8,Con tejido remanente,Estratificación,Fluida,1.92,111.05,9.23,0.62,Sobreobturado
+III,24,Mesial,,2.62,Limpia,Bulk,Compuesta,4.25,78.8,4.3,1.92,Subobturado
+III,24,Mesial,,1.95,Con tejido remanente,Bulk,Compuesta,3.28,110.88,18.87,1.59,Equiobturado
+III,24,Mesial,,1.02,Limpia,Estratificación,Bulk,2.0,50.15,5.53,1.58,Subobturado
+III,24,Mesial,,3.63,Limpia,Bulk,Compuesta,2.03,65.3,12.32,0.97,Equiobturado
+III,24,Mesial,,1.74,Limpia,Estratificación,Fluida,4.25,100.43,9.77,1.87,Subobturado
+III,24,Mesial,,4.94,Limpia,Bulk,Con fibra de vidrio,4.14,79.71,6.66,1.63,Equiobturado
+III,24,Mesial,,4.93,Limpia,Bulk,Bulk,4.05,116.37,15.05,0.65,Equiobturado
+III,24,Mesial,,4.39,Con tejido remanente,Estratificación,Bulk,1.9,71.13,7.03,0.58,Sobreobturado
+III,24,Mesial,,1.54,Limpia,Bulk,Fluida,2.85,71.4,9.77,1.96,Subobturado
+III,24,Mesial,,3.43,Con tejido remanente,Estratificación,Fluida,1.37,77.79,1.38,1.2,Equiobturado
+III,24,Mesial,,2.53,Limpia,Estratificación,Bulk,3.99,78.88,10.89,1.89,Sobreobturado
+III,24,Mesial,,1.24,Con tejido remanente,Bulk,Con fibra de vidrio,3.34,50.57,2.92,0.58,Equiobturado
+III,24,Mesial,,3.93,Limpia,Bulk,Compuesta,2.22,70.29,8.09,1.79,Sobreobturado
+III,24,Distal,,3.32,Limpia,Estratificación,Bulk,1.3,115.75,2.81,1.24,Subobturado
+III,24,Distal,,4.0,Con tejido remanente,Estratificación,Bulk,4.39,73.91,12.15,1.56,Sobreobturado
+III,24,Distal,,3.49,Limpia,Bulk,Compuesta,3.72,90.79,8.27,0.5,Equiobturado
+III,24,Distal,,1.45,Limpia,Bulk,Con fibra de vidrio,3.93,54.39,4.26,1.56,Sobreobturado
+III,24,Distal,,2.58,Limpia,Estratificación,Con fibra de vidrio,1.67,97.15,3.8,0.62,Sobreobturado
+III,24,Distal,,1.67,Limpia,Estratificación,Compuesta,2.08,94.99,7.89,1.89,Sobreobturado
+III,24,Distal,,2.56,Con tejido remanente,Estratificación,Bulk,2.66,76.16,1.85,1.94,Sobreobturado
+III,24,Distal,,2.65,Limpia,Estratificación,Con fibra de vidrio,1.38,119.44,13.56,1.54,Sobreobturado
+III,24,Distal,,4.34,Limpia,Estratificación,Fluida,4.25,94.33,1.27,1.35,Equiobturado
+III,24,Distal,,2.53,Con tejido remanente,Estratificación,Fluida,3.17,96.02,3.51,1.78,Sobreobturado
+III,24,Distal,,3.29,Con tejido remanente,Estratificación,Con fibra de vidrio,1.71,62.3,4.19,0.99,Sobreobturado
+III,24,Distal,,4.33,Con tejido remanente,Estratificación,Con fibra de vidrio,4.5,64.42,4.04,0.89,Equiobturado
+III,24,Distal,,1.65,Con tejido remanente,Estratificación,Compuesta,3.81,87.79,6.25,1.17,Equiobturado
+III,24,Distal,,3.15,Con tejido remanente,Bulk,Fluida,1.6,61.5,1.82,0.57,Equiobturado
+III,24,Distal,,2.01,Con tejido remanente,Estratificación,Fluida,3.2,93.8,11.9,1.95,Subobturado
+III,24,Distal,,3.49,Con tejido remanente,Bulk,Con fibra de vidrio,4.79,81.08,5.29,0.91,Sobreobturado
+III,24,Distal,,2.33,Con tejido remanente,Bulk,Con fibra de vidrio,4.05,58.13,2.02,1.89,Equiobturado
+III,24,Distal,,2.03,Con tejido remanente,Bulk,Con fibra de vidrio,4.79,103.78,14.68,0.8,Sobreobturado
+III,24,Distal,,1.56,Con tejido remanente,Bulk,Compuesta,4.66,103.0,9.09,1.22,Equiobturado
+III,24,Distal,,2.23,Con tejido remanente,Bulk,Con fibra de vidrio,1.11,73.46,4.37,1.33,Equiobturado
+III,25,Mesial,,1.72,Con tejido remanente,Bulk,Compuesta,4.07,69.71,9.24,0.75,Subobturado
+III,25,Mesial,,1.76,Limpia,Bulk,Bulk,3.37,102.88,0.25,0.56,Subobturado
+III,25,Mesial,,1.75,Limpia,Bulk,Compuesta,3.94,119.95,15.5,1.69,Equiobturado
+III,25,Mesial,,4.49,Con tejido remanente,Bulk,Bulk,1.24,119.6,15.68,1.47,Sobreobturado
+III,25,Mesial,,3.25,Con tejido remanente,Estratificación,Bulk,2.6,106.1,20.96,1.84,Sobreobturado
+III,25,Mesial,,1.28,Con tejido remanente,Estratificación,Bulk,3.96,118.66,20.2,1.83,Subobturado
+III,25,Mesial,,4.48,Limpia,Estratificación,Bulk,4.72,103.77,3.21,1.12,Sobreobturado
+III,25,Mesial,,2.67,Limpia,Bulk,Bulk,1.09,62.82,5.78,0.66,Sobreobturado
+III,25,Mesial,,1.32,Limpia,Estratificación,Fluida,4.8,68.61,4.79,0.58,Equiobturado
+III,25,Mesial,,2.81,Con tejido remanente,Estratificación,Con fibra de vidrio,1.05,59.03,6.79,1.51,Equiobturado
+III,25,Mesial,,1.32,Limpia,Bulk,Compuesta,1.53,91.4,8.73,1.29,Subobturado
+III,25,Mesial,,3.27,Limpia,Bulk,Con fibra de vidrio,3.63,71.6,2.21,1.65,Equiobturado
+III,25,Mesial,,1.8,Con tejido remanente,Bulk,Compuesta,4.87,116.68,19.84,1.16,Subobturado
+III,25,Mesial,,4.94,Limpia,Bulk,Bulk,2.96,65.3,7.21,1.82,Sobreobturado
+III,25,Mesial,,4.61,Limpia,Bulk,Compuesta,1.47,110.0,20.07,1.38,Subobturado
+III,25,Mesial,,3.77,Con tejido remanente,Bulk,Fluida,1.81,70.42,12.84,1.64,Equiobturado
+III,25,Mesial,,3.92,Limpia,Bulk,Con fibra de vidrio,3.7,74.47,5.86,0.73,Sobreobturado
+III,25,Mesial,,3.09,Limpia,Bulk,Compuesta,2.92,82.18,3.84,1.63,Subobturado
+III,25,Mesial,,2.34,Con tejido remanente,Bulk,Bulk,2.2,117.89,18.67,1.05,Sobreobturado
+III,25,Mesial,,1.34,Con tejido remanente,Bulk,Bulk,4.48,115.81,15.63,1.44,Sobreobturado
+III,25,Distal,,2.79,Con tejido remanente,Bulk,Fluida,1.08,58.24,8.63,0.88,Sobreobturado
+III,25,Distal,,4.45,Limpia,Estratificación,Bulk,2.95,110.76,2.57,1.61,Sobreobturado
+III,25,Distal,,4.89,Limpia,Bulk,Fluida,3.72,67.22,12.43,1.98,Equiobturado
+III,25,Distal,,4.42,Limpia,Estratificación,Bulk,4.01,61.43,6.92,0.62,Sobreobturado
+III,25,Distal,,1.23,Limpia,Bulk,Fluida,4.52,56.0,8.59,1.12,Sobreobturado
+III,25,Distal,,4.66,Con tejido remanente,Estratificación,Bulk,1.07,94.15,1.44,0.54,Sobreobturado
+III,25,Distal,,1.3,Con tejido remanente,Estratificación,Con fibra de vidrio,3.27,102.64,2.38,1.21,Subobturado
+III,25,Distal,,3.42,Con tejido remanente,Bulk,Con fibra de vidrio,3.3,112.55,13.92,1.58,Sobreobturado
+III,25,Distal,,4.29,Limpia,Bulk,Bulk,1.02,118.36,12.93,1.13,Subobturado
+III,25,Distal,,2.4,Limpia,Estratificación,Con fibra de vidrio,1.26,74.04,14.42,1.05,Subobturado
+III,25,Distal,,3.37,Limpia,Bulk,Compuesta,2.65,116.59,1.07,0.7,Sobreobturado
+III,25,Distal,,1.71,Con tejido remanente,Bulk,Fluida,2.87,79.94,12.11,1.98,Subobturado
+III,25,Distal,,3.06,Con tejido remanente,Estratificación,Con fibra de vidrio,4.63,71.64,4.35,0.66,Sobreobturado
+III,25,Distal,,4.95,Con tejido remanente,Estratificación,Compuesta,2.52,61.74,10.97,1.24,Equiobturado
+III,25,Distal,,2.82,Limpia,Estratificación,Bulk,3.46,105.47,6.73,1.87,Equiobturado
+III,25,Distal,,1.16,Con tejido remanente,Bulk,Con fibra de vidrio,3.75,112.91,16.86,0.9,Subobturado
+III,25,Distal,,2.51,Con tejido remanente,Bulk,Fluida,2.16,110.36,14.59,1.18,Sobreobturado
+III,25,Distal,,4.08,Limpia,Bulk,Bulk,4.64,57.53,10.73,1.92,Equiobturado
+III,25,Distal,,2.47,Limpia,Estratificación,Con fibra de vidrio,1.34,81.06,1.94,0.96,Equiobturado
+III,25,Distal,,2.36,Con tejido remanente,Bulk,Compuesta,2.44,99.17,1.73,1.34,Subobturado
+III,26,Mesial,,1.67,Limpia,Estratificación,Con fibra de vidrio,3.55,111.21,20.03,0.84,Sobreobturado
+III,26,Mesial,,3.51,Con tejido remanente,Estratificación,Compuesta,1.09,103.76,16.31,0.85,Sobreobturado
+III,26,Mesial,,4.64,Limpia,Bulk,Fluida,3.98,58.23,8.12,1.87,Sobreobturado
+III,26,Mesial,,2.07,Limpia,Bulk,Fluida,2.47,101.92,17.31,1.94,Equiobturado
+III,26,Mesial,,4.16,Limpia,Estratificación,Bulk,2.12,80.35,2.91,1.27,Subobturado
+III,26,Mesial,,3.98,Con tejido remanente,Estratificación,Fluida,2.73,84.48,13.82,1.63,Sobreobturado
+III,26,Mesial,,2.91,Con tejido remanente,Bulk,Compuesta,1.5,66.99,13.05,0.79,Subobturado
+III,26,Mesial,,2.37,Con tejido remanente,Estratificación,Con fibra de vidrio,1.08,69.55,7.44,0.98,Equiobturado
+III,26,Mesial,,2.29,Con tejido remanente,Estratificación,Con fibra de vidrio,1.31,116.72,18.95,1.72,Subobturado
+III,26,Mesial,,2.87,Con tejido remanente,Estratificación,Compuesta,1.53,84.19,13.29,1.79,Subobturado
+III,26,Mesial,,1.55,Limpia,Bulk,Compuesta,4.58,118.85,0.84,1.7,Sobreobturado
+III,26,Mesial,,2.09,Con tejido remanente,Estratificación,Con fibra de vidrio,2.73,74.39,4.77,1.39,Equiobturado
+III,26,Mesial,,4.13,Limpia,Estratificación,Bulk,4.26,94.52,14.41,1.49,Equiobturado
+III,26,Mesial,,3.31,Limpia,Estratificación,Fluida,4.99,58.84,8.72,1.95,Subobturado
+III,26,Mesial,,3.25,Limpia,Estratificación,Bulk,2.74,65.72,12.48,1.85,Sobreobturado
+III,26,Mesial,,2.51,Con tejido remanente,Bulk,Compuesta,4.25,83.01,14.46,1.9,Sobreobturado
+III,26,Mesial,,4.31,Con tejido remanente,Bulk,Bulk,2.55,63.07,10.09,0.82,Subobturado
+III,26,Mesial,,2.99,Con tejido remanente,Bulk,Fluida,4.64,114.58,20.44,1.51,Equiobturado
+III,26,Mesial,,3.84,Con tejido remanente,Estratificación,Con fibra de vidrio,3.82,84.83,12.09,1.33,Subobturado
+III,26,Mesial,,2.67,Limpia,Estratificación,Bulk,1.98,85.94,8.62,1.51,Sobreobturado
+III,26,Distal,,1.06,Limpia,Estratificación,Bulk,1.22,84.85,1.13,1.75,Sobreobturado
+III,26,Distal,,3.94,Limpia,Bulk,Fluida,3.25,106.08,14.73,0.6,Subobturado
+III,26,Distal,,1.5,Con tejido remanente,Estratificación,Fluida,2.74,117.45,0.81,1.16,Sobreobturado
+III,26,Distal,,1.8,Limpia,Bulk,Con fibra de vidrio,3.7,102.71,7.85,1.41,Sobreobturado
+III,26,Distal,,1.95,Limpia,Bulk,Con fibra de vidrio,1.27,81.88,5.03,1.36,Equiobturado
+III,26,Distal,,1.25,Con tejido remanente,Bulk,Con fibra de vidrio,2.33,62.57,9.82,1.91,Equiobturado
+III,26,Distal,,1.89,Con tejido remanente,Bulk,Bulk,3.86,81.6,11.74,1.06,Equiobturado
+III,26,Distal,,2.05,Limpia,Estratificación,Fluida,3.86,102.21,5.21,1.98,Equiobturado
+III,26,Distal,,3.87,Con tejido remanente,Bulk,Con fibra de vidrio,1.82,98.61,1.77,1.95,Equiobturado
+III,26,Distal,,3.78,Limpia,Estratificación,Fluida,3.07,77.54,3.9,1.71,Equiobturado
+III,26,Distal,,1.92,Limpia,Bulk,Fluida,4.87,88.81,1.94,1.51,Subobturado
+III,26,Distal,,1.91,Limpia,Bulk,Bulk,4.46,94.43,16.01,0.81,Sobreobturado
+III,26,Distal,,2.52,Limpia,Bulk,Bulk,1.24,101.84,9.97,1.96,Sobreobturado
+III,26,Distal,,3.03,Con tejido remanente,Estratificación,Con fibra de vidrio,3.68,116.29,4.28,1.84,Sobreobturado
+III,26,Distal,,1.71,Con tejido remanente,Estratificación,Con fibra de vidrio,1.09,115.08,18.31,1.45,Equiobturado
+III,26,Distal,,4.1,Limpia,Estratificación,Bulk,3.32,84.49,6.91,1.89,Sobreobturado
+III,26,Distal,,3.19,Limpia,Estratificación,Fluida,4.42,115.95,12.55,1.17,Sobreobturado
+III,26,Distal,,2.4,Limpia,Bulk,Con fibra de vidrio,4.8,91.2,5.06,1.09,Equiobturado
+III,26,Distal,,4.04,Con tejido remanente,Bulk,Compuesta,3.77,54.79,8.55,1.23,Subobturado
+III,26,Distal,,2.58,Con tejido remanente,Bulk,Compuesta,3.54,115.36,18.65,0.71,Subobturado
+III,27,Mesial,,3.0,Con tejido remanente,Bulk,Bulk,2.67,89.87,17.01,1.8,Subobturado
+III,27,Mesial,,1.26,Con tejido remanente,Bulk,Con fibra de vidrio,1.63,77.55,10.1,0.66,Equiobturado
+III,27,Mesial,,4.21,Con tejido remanente,Estratificación,Con fibra de vidrio,2.21,114.48,4.23,1.41,Equiobturado
+III,27,Mesial,,2.14,Con tejido remanente,Estratificación,Compuesta,1.47,91.24,1.76,0.71,Sobreobturado
+III,27,Mesial,,3.89,Limpia,Bulk,Bulk,2.31,68.14,4.42,1.84,Sobreobturado
+III,27,Mesial,,4.74,Con tejido remanente,Bulk,Bulk,3.6,87.35,6.62,0.7,Equiobturado
+III,27,Mesial,,2.42,Limpia,Bulk,Compuesta,2.62,91.07,6.08,1.7,Sobreobturado
+III,27,Mesial,,2.56,Limpia,Estratificación,Bulk,4.84,57.66,7.97,1.44,Equiobturado
+III,27,Mesial,,2.19,Limpia,Bulk,Fluida,1.06,92.57,16.02,1.84,Sobreobturado
+III,27,Mesial,,4.31,Con tejido remanente,Estratificación,Fluida,4.03,95.16,12.63,1.96,Equiobturado
+III,27,Mesial,,1.53,Limpia,Estratificación,Bulk,1.84,101.43,20.26,0.65,Subobturado
+III,27,Mesial,,1.82,Limpia,Estratificación,Compuesta,3.27,72.77,10.25,0.77,Equiobturado
+III,27,Mesial,,2.23,Limpia,Bulk,Con fibra de vidrio,1.51,104.1,14.18,1.27,Subobturado
+III,27,Mesial,,2.74,Con tejido remanente,Estratificación,Compuesta,2.22,108.55,0.79,1.54,Sobreobturado
+III,27,Mesial,,3.31,Limpia,Bulk,Fluida,3.09,55.5,9.77,1.69,Subobturado
+III,27,Mesial,,4.32,Con tejido remanente,Estratificación,Bulk,3.57,68.73,2.88,1.28,Equiobturado
+III,27,Mesial,,3.24,Con tejido remanente,Bulk,Bulk,2.75,103.85,14.06,0.61,Sobreobturado
+III,27,Mesial,,1.06,Con tejido remanente,Bulk,Compuesta,1.41,78.56,6.6,1.64,Sobreobturado
+III,27,Mesial,,4.35,Limpia,Estratificación,Bulk,2.65,99.27,1.32,1.85,Equiobturado
+III,27,Mesial,,3.48,Con tejido remanente,Bulk,Fluida,4.69,101.25,3.84,1.05,Equiobturado
+III,27,Distal,,4.52,Limpia,Bulk,Compuesta,3.24,52.85,10.35,1.6,Subobturado
+III,27,Distal,,1.77,Limpia,Bulk,Con fibra de vidrio,1.49,104.97,7.27,1.32,Subobturado
+III,27,Distal,,1.21,Con tejido remanente,Bulk,Fluida,2.84,107.29,2.73,1.22,Subobturado
+III,27,Distal,,1.62,Limpia,Estratificación,Fluida,2.45,62.05,5.45,0.57,Equiobturado
+III,27,Distal,,4.64,Con tejido remanente,Bulk,Con fibra de vidrio,3.71,72.34,6.43,0.66,Equiobturado
+III,27,Distal,,4.77,Con tejido remanente,Estratificación,Fluida,1.01,83.91,15.92,1.03,Equiobturado
+III,27,Distal,,3.26,Limpia,Bulk,Compuesta,2.65,105.44,10.67,0.92,Sobreobturado
+III,27,Distal,,2.24,Con tejido remanente,Bulk,Fluida,1.08,109.16,9.85,1.06,Sobreobturado
+III,27,Distal,,4.49,Limpia,Bulk,Fluida,4.99,65.25,9.67,1.67,Sobreobturado
+III,27,Distal,,1.9,Con tejido remanente,Estratificación,Fluida,4.69,93.72,10.54,1.05,Subobturado
+III,27,Distal,,3.99,Limpia,Estratificación,Con fibra de vidrio,2.34,60.45,3.95,0.95,Subobturado
+III,27,Distal,,2.4,Limpia,Estratificación,Con fibra de vidrio,3.97,83.9,4.47,0.69,Subobturado
+III,27,Distal,,4.84,Limpia,Estratificación,Con fibra de vidrio,2.56,116.7,17.66,0.69,Subobturado
+III,27,Distal,,4.39,Con tejido remanente,Bulk,Con fibra de vidrio,4.49,65.36,8.31,0.71,Subobturado
+III,27,Distal,,4.9,Limpia,Bulk,Compuesta,3.95,53.2,4.67,1.44,Subobturado
+III,27,Distal,,3.27,Con tejido remanente,Estratificación,Fluida,4.11,55.8,8.77,1.39,Sobreobturado
+III,27,Distal,,1.99,Con tejido remanente,Estratificación,Fluida,3.15,79.09,10.85,1.67,Equiobturado
+III,27,Distal,,3.47,Limpia,Estratificación,Compuesta,3.06,59.05,5.97,0.69,Subobturado
+III,27,Distal,,1.5,Con tejido remanente,Estratificación,Con fibra de vidrio,2.16,58.75,8.41,0.83,Sobreobturado
+III,27,Distal,,4.67,Con tejido remanente,Bulk,Bulk,2.81,90.72,14.35,1.67,Sobreobturado
