@@ -1,0 +1,2101 @@
+Clase,Pieza,Superficie_1,Superficie_2,Tamanio_cavidad_mm,Estado_cavidad,Tecnica,Tipo_resina,Indice_contraccion_%,Peso_resina_inicial_mg,Peso_sobrante_mg,Margen_cavo_mm,Ajuste_margen
+I,19,Oclusal,ninguna,2.97,con_tejido,Estratificacion,Con fibra de vidrio,1.0,109.1,7.24,2.68,Subobturado
+I,32,Bucal,ninguna,4.11,limpia,Bulk,Bulk,1.5,66.74,5.61,4.11,Equiobturado
+I,7,Lingual,ninguna,3.85,limpia,Estratificacion,Fluida,3.5,112.07,8.74,3.13,Subobturado
+I,15,Lingual,ninguna,3.15,con_tejido,Estratificacion,Bulk,1.5,82.9,9.27,2.49,Subobturado
+I,30,Lingual,ninguna,4.83,con_tejido,Estratificacion,Fluida,3.5,73.34,11.12,4.81,Equiobturado
+I,18,Oclusal,ninguna,5.0,con_tejido,Bulk,Compuesta,2.0,118.87,5.41,4.76,Subobturado
+I,19,Bucal,ninguna,3.83,limpia,Bulk,Con fibra de vidrio,1.0,93.1,11.18,3.71,Equiobturado
+I,1,Oclusal,ninguna,1.61,limpia,Bulk,Bulk,1.5,91.06,15.14,1.58,Subobturado
+I,15,Bucal,ninguna,4.92,con_tejido,Bulk,Fluida,3.5,103.93,8.79,4.57,Subobturado
+I,30,Oclusal,ninguna,1.49,limpia,Bulk,Bulk,1.5,61.17,9.93,1.88,Sobreobturado
+I,5,Lingual,ninguna,4.26,con_tejido,Bulk,Fluida,3.5,119.27,15.09,4.09,Equiobturado
+I,31,Lingual,ninguna,3.17,con_tejido,Bulk,Bulk,1.5,114.34,5.48,3.28,Equiobturado
+I,8,Lingual,ninguna,1.78,limpia,Bulk,Fluida,3.5,88.34,8.1,1.92,Sobreobturado
+I,5,Bucal,ninguna,1.91,con_tejido,Bulk,Fluida,3.5,105.88,1.08,2.09,Equiobturado
+I,26,Bucal,ninguna,2.43,con_tejido,Bulk,Compuesta,2.0,115.47,1.6,1.95,Subobturado
+I,14,Oclusal,ninguna,1.61,limpia,Estratificacion,Fluida,3.5,86.63,12.46,1.71,Equiobturado
+I,22,Lingual,ninguna,2.82,con_tejido,Bulk,Bulk,1.5,102.43,8.28,2.73,Subobturado
+I,5,Lingual,ninguna,3.34,con_tejido,Bulk,Bulk,1.5,72.39,7.95,2.97,Subobturado
+I,15,Lingual,ninguna,1.63,limpia,Bulk,Con fibra de vidrio,1.0,99.0,16.9,1.73,Sobreobturado
+I,2,Oclusal,ninguna,3.59,limpia,Estratificacion,Bulk,1.5,101.41,19.95,3.69,Equiobturado
+I,22,Bucal,ninguna,2.41,con_tejido,Estratificacion,Bulk,1.5,92.15,2.26,1.94,Subobturado
+I,9,Bucal,ninguna,1.91,limpia,Bulk,Compuesta,2.0,71.21,11.8,1.1,Subobturado
+I,2,Bucal,ninguna,3.38,con_tejido,Bulk,Con fibra de vidrio,1.0,97.83,5.32,4.14,Sobreobturado
+I,5,Lingual,ninguna,3.61,limpia,Estratificacion,Compuesta,2.0,116.2,5.44,3.57,Equiobturado
+I,29,Oclusal,ninguna,4.99,con_tejido,Estratificacion,Compuesta,2.0,111.05,4.15,5.53,Sobreobturado
+I,22,Lingual,ninguna,3.22,limpia,Estratificacion,Fluida,3.5,107.37,20.69,3.3,Equiobturado
+I,28,Bucal,ninguna,2.14,limpia,Bulk,Compuesta,2.0,116.86,17.19,2.22,Sobreobturado
+I,21,Lingual,ninguna,3.08,con_tejido,Bulk,Bulk,1.5,117.73,12.99,3.11,Sobreobturado
+I,25,Bucal,ninguna,1.19,con_tejido,Estratificacion,Bulk,1.5,86.63,11.25,1.35,Sobreobturado
+I,19,Lingual,ninguna,1.32,limpia,Bulk,Fluida,3.5,96.5,0.91,2.28,Sobreobturado
+I,5,Bucal,ninguna,3.61,con_tejido,Estratificacion,Fluida,3.5,103.24,13.81,3.41,Subobturado
+I,20,Lingual,ninguna,2.57,limpia,Estratificacion,Con fibra de vidrio,1.0,61.66,10.17,2.13,Subobturado
+I,32,Bucal,ninguna,2.63,con_tejido,Estratificacion,Bulk,1.5,79.15,10.62,3.04,Sobreobturado
+I,28,Bucal,ninguna,1.28,con_tejido,Bulk,Fluida,3.5,107.77,16.71,1.47,Equiobturado
+I,29,Bucal,ninguna,3.81,limpia,Estratificacion,Bulk,1.5,93.93,8.57,4.66,Sobreobturado
+I,25,Lingual,ninguna,4.12,con_tejido,Estratificacion,Con fibra de vidrio,1.0,101.22,14.07,4.39,Sobreobturado
+I,5,Lingual,ninguna,1.69,limpia,Estratificacion,Bulk,1.5,73.66,4.11,1.65,Equiobturado
+I,32,Bucal,ninguna,3.67,limpia,Estratificacion,Compuesta,2.0,98.91,9.3,3.06,Subobturado
+I,16,Bucal,ninguna,2.79,con_tejido,Estratificacion,Compuesta,2.0,70.26,3.2,2.67,Equiobturado
+I,5,Lingual,ninguna,1.8,con_tejido,Bulk,Bulk,1.5,113.82,6.29,1.87,Sobreobturado
+I,4,Bucal,ninguna,4.45,con_tejido,Estratificacion,Fluida,3.5,114.19,12.97,3.56,Subobturado
+I,18,Lingual,ninguna,1.55,limpia,Bulk,Con fibra de vidrio,1.0,114.45,0.48,1.7,Equiobturado
+I,17,Oclusal,ninguna,1.02,con_tejido,Estratificacion,Con fibra de vidrio,1.0,76.32,12.02,1.19,Sobreobturado
+I,13,Oclusal,ninguna,2.76,limpia,Bulk,Bulk,1.5,119.32,12.07,2.86,Equiobturado
+I,11,Bucal,ninguna,3.57,con_tejido,Estratificacion,Con fibra de vidrio,1.0,73.23,9.22,3.53,Equiobturado
+I,12,Lingual,ninguna,1.37,limpia,Estratificacion,Con fibra de vidrio,1.0,85.92,1.76,1.54,Equiobturado
+I,8,Lingual,ninguna,3.3,limpia,Bulk,Fluida,3.5,64.7,8.56,3.95,Sobreobturado
+I,1,Bucal,ninguna,3.41,limpia,Estratificacion,Compuesta,2.0,96.56,4.71,2.44,Subobturado
+I,32,Bucal,ninguna,1.91,con_tejido,Bulk,Compuesta,2.0,73.9,7.49,1.85,Equiobturado
+I,27,Lingual,ninguna,3.44,limpia,Bulk,Bulk,1.5,71.91,3.23,2.94,Subobturado
+I,21,Lingual,ninguna,2.41,con_tejido,Bulk,Fluida,3.5,114.46,13.58,2.49,Equiobturado
+I,12,Bucal,ninguna,4.59,con_tejido,Estratificacion,Compuesta,2.0,106.58,17.09,5.1,Sobreobturado
+I,32,Bucal,ninguna,4.46,con_tejido,Bulk,Fluida,3.5,64.26,2.3,3.75,Subobturado
+I,6,Bucal,ninguna,3.47,limpia,Bulk,Bulk,1.5,61.79,10.87,2.67,Subobturado
+I,8,Lingual,ninguna,2.09,con_tejido,Bulk,Con fibra de vidrio,1.0,71.12,5.0,2.91,Sobreobturado
+I,21,Lingual,ninguna,4.34,limpia,Bulk,Fluida,3.5,82.62,9.64,4.12,Subobturado
+I,9,Lingual,ninguna,1.88,limpia,Bulk,Bulk,1.5,86.49,1.22,1.79,Equiobturado
+I,8,Lingual,ninguna,1.54,con_tejido,Bulk,Compuesta,2.0,99.88,10.5,1.42,Equiobturado
+I,16,Bucal,ninguna,3.72,limpia,Bulk,Fluida,3.5,99.02,17.85,3.0,Subobturado
+I,16,Bucal,ninguna,2.86,limpia,Estratificacion,Fluida,3.5,104.81,5.81,2.68,Subobturado
+I,28,Oclusal,ninguna,3.46,limpia,Bulk,Bulk,1.5,105.92,1.91,3.79,Sobreobturado
+I,13,Oclusal,ninguna,2.85,limpia,Bulk,Fluida,3.5,92.63,2.11,3.75,Sobreobturado
+I,11,Bucal,ninguna,2.57,con_tejido,Estratificacion,Con fibra de vidrio,1.0,92.04,7.26,1.61,Subobturado
+I,16,Oclusal,ninguna,1.63,con_tejido,Estratificacion,Compuesta,2.0,69.72,7.2,2.29,Sobreobturado
+I,13,Lingual,ninguna,1.9,con_tejido,Bulk,Fluida,3.5,67.07,4.83,1.84,Subobturado
+I,12,Bucal,ninguna,1.99,limpia,Bulk,Compuesta,2.0,90.94,13.38,2.35,Sobreobturado
+I,12,Oclusal,ninguna,4.85,limpia,Estratificacion,Con fibra de vidrio,1.0,104.42,2.98,3.87,Subobturado
+I,6,Bucal,ninguna,4.74,con_tejido,Bulk,Con fibra de vidrio,1.0,116.91,16.3,4.43,Subobturado
+I,3,Lingual,ninguna,4.43,con_tejido,Estratificacion,Compuesta,2.0,64.03,8.81,4.78,Sobreobturado
+I,30,Oclusal,ninguna,2.86,con_tejido,Estratificacion,Fluida,3.5,93.41,11.17,3.71,Sobreobturado
+I,1,Lingual,ninguna,3.27,con_tejido,Bulk,Bulk,1.5,112.37,8.84,2.91,Subobturado
+I,10,Bucal,ninguna,5.0,limpia,Bulk,Compuesta,2.0,61.95,2.03,5.72,Sobreobturado
+I,17,Lingual,ninguna,3.82,limpia,Estratificacion,Fluida,3.5,76.69,3.11,4.52,Sobreobturado
+I,5,Bucal,ninguna,1.24,limpia,Estratificacion,Con fibra de vidrio,1.0,63.5,9.74,1.07,Subobturado
+I,5,Lingual,ninguna,4.87,con_tejido,Estratificacion,Compuesta,2.0,68.98,10.61,4.21,Subobturado
+I,30,Lingual,ninguna,4.51,limpia,Estratificacion,Compuesta,2.0,64.67,9.57,4.23,Subobturado
+I,29,Bucal,ninguna,3.01,limpia,Bulk,Compuesta,2.0,115.22,11.0,3.27,Sobreobturado
+I,14,Bucal,ninguna,1.29,con_tejido,Bulk,Fluida,3.5,79.62,9.82,1.2,Equiobturado
+I,23,Bucal,ninguna,2.36,limpia,Bulk,Bulk,1.5,103.64,8.78,2.33,Equiobturado
+I,14,Oclusal,ninguna,4.63,con_tejido,Bulk,Fluida,3.5,85.79,0.29,4.73,Equiobturado
+I,31,Oclusal,ninguna,1.38,limpia,Bulk,Compuesta,2.0,101.88,7.83,1.78,Sobreobturado
+I,23,Lingual,ninguna,3.41,limpia,Bulk,Compuesta,2.0,103.87,7.77,2.85,Subobturado
+I,17,Lingual,ninguna,3.94,con_tejido,Bulk,Con fibra de vidrio,1.0,61.14,2.61,3.43,Subobturado
+I,5,Lingual,ninguna,4.34,limpia,Estratificacion,Con fibra de vidrio,1.0,111.55,22.16,3.99,Subobturado
+I,25,Lingual,ninguna,2.48,limpia,Bulk,Fluida,3.5,107.92,16.24,1.57,Subobturado
+I,20,Lingual,ninguna,4.61,limpia,Bulk,Fluida,3.5,102.87,9.59,5.23,Sobreobturado
+I,14,Lingual,ninguna,4.44,limpia,Estratificacion,Fluida,3.5,102.21,13.41,3.63,Subobturado
+I,21,Oclusal,ninguna,1.37,limpia,Estratificacion,Fluida,3.5,83.65,7.91,1.19,Equiobturado
+I,8,Bucal,ninguna,1.4,con_tejido,Estratificacion,Compuesta,2.0,78.37,3.84,2.32,Sobreobturado
+I,25,Lingual,ninguna,2.97,con_tejido,Estratificacion,Con fibra de vidrio,1.0,79.96,9.71,3.46,Sobreobturado
+I,12,Lingual,ninguna,1.34,con_tejido,Estratificacion,Con fibra de vidrio,1.0,117.15,13.29,1.26,Equiobturado
+I,17,Bucal,ninguna,3.22,con_tejido,Bulk,Compuesta,2.0,73.24,8.21,3.16,Equiobturado
+I,8,Lingual,ninguna,4.75,con_tejido,Bulk,Con fibra de vidrio,1.0,109.11,11.57,5.63,Sobreobturado
+I,25,Lingual,ninguna,2.94,con_tejido,Estratificacion,Compuesta,2.0,66.49,7.22,3.13,Sobreobturado
+I,24,Lingual,ninguna,3.59,con_tejido,Estratificacion,Fluida,3.5,88.57,12.82,3.79,Sobreobturado
+I,28,Lingual,ninguna,2.07,limpia,Bulk,Con fibra de vidrio,1.0,68.06,10.86,1.42,Subobturado
+I,23,Bucal,ninguna,1.48,con_tejido,Estratificacion,Compuesta,2.0,117.64,11.18,1.74,Sobreobturado
+I,11,Lingual,ninguna,2.39,limpia,Estratificacion,Fluida,3.5,119.12,13.54,2.27,Equiobturado
+I,27,Bucal,ninguna,2.24,limpia,Estratificacion,Con fibra de vidrio,1.0,61.82,0.37,1.61,Subobturado
+I,19,Oclusal,ninguna,2.02,limpia,Estratificacion,Fluida,3.5,89.75,0.51,2.21,Equiobturado
+I,6,Lingual,ninguna,2.82,limpia,Bulk,Bulk,1.5,90.14,14.37,3.63,Sobreobturado
+I,25,Lingual,ninguna,2.42,limpia,Bulk,Fluida,3.5,75.88,14.58,2.5,Equiobturado
+I,28,Bucal,ninguna,2.08,con_tejido,Estratificacion,Fluida,3.5,82.54,9.37,2.4,Sobreobturado
+I,3,Lingual,ninguna,3.39,con_tejido,Estratificacion,Bulk,1.5,97.65,7.36,2.84,Subobturado
+I,15,Lingual,ninguna,4.02,limpia,Bulk,Compuesta,2.0,113.32,12.56,4.66,Sobreobturado
+I,13,Bucal,ninguna,3.76,con_tejido,Estratificacion,Bulk,1.5,83.34,10.26,3.96,Equiobturado
+I,12,Oclusal,ninguna,2.64,limpia,Bulk,Compuesta,2.0,64.83,6.99,2.51,Equiobturado
+I,1,Bucal,ninguna,2.21,con_tejido,Bulk,Compuesta,2.0,68.98,7.9,2.81,Sobreobturado
+I,24,Bucal,ninguna,4.27,limpia,Bulk,Con fibra de vidrio,1.0,100.84,15.32,3.53,Subobturado
+I,3,Bucal,ninguna,3.38,con_tejido,Estratificacion,Bulk,1.5,86.97,9.74,2.53,Subobturado
+I,13,Bucal,ninguna,2.3,limpia,Estratificacion,Con fibra de vidrio,1.0,112.87,20.95,1.33,Subobturado
+I,17,Oclusal,ninguna,2.21,limpia,Bulk,Compuesta,2.0,69.06,2.12,2.03,Equiobturado
+I,26,Bucal,ninguna,4.99,con_tejido,Bulk,Fluida,3.5,64.27,1.33,5.14,Equiobturado
+I,28,Bucal,ninguna,3.9,con_tejido,Estratificacion,Con fibra de vidrio,1.0,81.1,8.5,3.85,Equiobturado
+I,32,Bucal,ninguna,4.12,limpia,Bulk,Fluida,3.5,63.31,10.95,3.35,Subobturado
+I,17,Lingual,ninguna,1.12,con_tejido,Estratificacion,Compuesta,2.0,68.39,3.04,0.99,Equiobturado
+I,30,Oclusal,ninguna,3.22,limpia,Bulk,Fluida,3.5,102.57,1.2,3.91,Sobreobturado
+I,13,Oclusal,ninguna,3.83,con_tejido,Bulk,Fluida,3.5,109.43,16.9,3.88,Equiobturado
+I,20,Bucal,ninguna,4.28,limpia,Estratificacion,Compuesta,2.0,103.6,13.05,4.46,Equiobturado
+I,21,Bucal,ninguna,4.89,con_tejido,Bulk,Fluida,3.5,86.5,12.71,5.01,Sobreobturado
+I,15,Oclusal,ninguna,3.87,con_tejido,Bulk,Fluida,3.5,75.7,12.22,3.76,Equiobturado
+I,29,Oclusal,ninguna,1.1,con_tejido,Estratificacion,Fluida,3.5,94.63,13.98,1.43,Sobreobturado
+I,30,Lingual,ninguna,1.56,limpia,Bulk,Con fibra de vidrio,1.0,103.34,16.19,1.63,Equiobturado
+I,20,Oclusal,ninguna,1.75,con_tejido,Bulk,Bulk,1.5,70.6,3.05,1.79,Sobreobturado
+I,18,Oclusal,ninguna,1.13,con_tejido,Estratificacion,Con fibra de vidrio,1.0,96.73,6.71,0.49,Subobturado
+I,11,Lingual,ninguna,2.94,limpia,Bulk,Fluida,3.5,107.44,20.78,3.13,Equiobturado
+I,30,Oclusal,ninguna,4.52,limpia,Estratificacion,Con fibra de vidrio,1.0,107.89,1.59,4.68,Equiobturado
+I,8,Lingual,ninguna,1.31,con_tejido,Bulk,Con fibra de vidrio,1.0,94.8,5.04,1.91,Sobreobturado
+I,21,Lingual,ninguna,2.5,con_tejido,Bulk,Fluida,3.5,104.01,1.94,2.69,Equiobturado
+I,16,Lingual,ninguna,4.23,con_tejido,Bulk,Fluida,3.5,69.87,0.69,4.07,Equiobturado
+I,20,Oclusal,ninguna,2.35,limpia,Bulk,Bulk,1.5,89.85,1.1,2.1,Subobturado
+I,12,Oclusal,ninguna,2.1,limpia,Bulk,Con fibra de vidrio,1.0,86.81,15.47,1.56,Subobturado
+I,8,Lingual,ninguna,3.77,con_tejido,Bulk,Compuesta,2.0,97.96,10.17,3.48,Subobturado
+I,24,Bucal,ninguna,2.94,limpia,Estratificacion,Bulk,1.5,88.47,7.95,3.25,Sobreobturado
+I,3,Oclusal,ninguna,4.28,limpia,Estratificacion,Compuesta,2.0,88.37,4.78,4.81,Sobreobturado
+I,29,Lingual,ninguna,4.69,limpia,Estratificacion,Fluida,3.5,108.07,13.65,4.82,Equiobturado
+I,30,Oclusal,ninguna,1.37,limpia,Estratificacion,Fluida,3.5,62.7,4.76,1.56,Equiobturado
+I,20,Oclusal,ninguna,1.2,limpia,Bulk,Con fibra de vidrio,1.0,116.14,20.77,1.26,Equiobturado
+I,1,Oclusal,ninguna,4.76,con_tejido,Bulk,Con fibra de vidrio,1.0,100.06,16.41,4.96,Sobreobturado
+I,27,Bucal,ninguna,1.37,con_tejido,Estratificacion,Compuesta,2.0,82.11,12.51,0.95,Subobturado
+I,7,Bucal,ninguna,4.93,limpia,Estratificacion,Bulk,1.5,109.95,11.95,5.11,Equiobturado
+I,12,Oclusal,ninguna,3.43,con_tejido,Bulk,Con fibra de vidrio,1.0,90.8,15.9,3.59,Sobreobturado
+I,13,Oclusal,ninguna,3.71,limpia,Bulk,Compuesta,2.0,97.59,3.61,3.13,Subobturado
+I,20,Oclusal,ninguna,4.19,limpia,Estratificacion,Fluida,3.5,69.36,2.9,3.7,Subobturado
+I,8,Lingual,ninguna,3.55,limpia,Estratificacion,Con fibra de vidrio,1.0,81.28,14.21,3.52,Equiobturado
+I,32,Lingual,ninguna,4.71,limpia,Bulk,Compuesta,2.0,113.68,22.47,4.91,Equiobturado
+I,7,Bucal,ninguna,1.84,limpia,Estratificacion,Con fibra de vidrio,1.0,85.19,4.06,1.19,Subobturado
+I,17,Lingual,ninguna,1.94,limpia,Bulk,Compuesta,2.0,109.5,18.99,2.04,Sobreobturado
+I,25,Lingual,ninguna,2.14,limpia,Estratificacion,Con fibra de vidrio,1.0,69.11,12.6,2.33,Equiobturado
+I,27,Bucal,ninguna,1.11,con_tejido,Estratificacion,Con fibra de vidrio,1.0,87.02,14.53,1.76,Sobreobturado
+I,27,Lingual,ninguna,4.77,limpia,Estratificacion,Fluida,3.5,93.05,15.15,4.87,Sobreobturado
+I,23,Bucal,ninguna,3.16,con_tejido,Bulk,Fluida,3.5,115.72,8.07,3.89,Sobreobturado
+I,13,Bucal,ninguna,2.27,con_tejido,Estratificacion,Bulk,1.5,118.82,22.01,2.77,Sobreobturado
+I,21,Bucal,ninguna,4.61,con_tejido,Bulk,Bulk,1.5,77.93,14.24,4.4,Subobturado
+I,27,Lingual,ninguna,4.28,con_tejido,Estratificacion,Con fibra de vidrio,1.0,81.31,6.11,4.23,Equiobturado
+I,28,Lingual,ninguna,1.86,limpia,Bulk,Bulk,1.5,117.92,11.43,1.7,Subobturado
+I,22,Bucal,ninguna,2.23,con_tejido,Bulk,Con fibra de vidrio,1.0,111.31,12.94,2.21,Equiobturado
+I,22,Bucal,ninguna,1.56,limpia,Bulk,Compuesta,2.0,71.37,8.21,1.44,Subobturado
+I,31,Lingual,ninguna,1.03,con_tejido,Estratificacion,Con fibra de vidrio,1.0,78.26,11.69,0.98,Subobturado
+I,9,Lingual,ninguna,4.35,limpia,Estratificacion,Compuesta,2.0,67.36,6.99,4.24,Equiobturado
+I,21,Bucal,ninguna,3.6,limpia,Estratificacion,Bulk,1.5,70.38,2.56,3.69,Equiobturado
+I,3,Oclusal,ninguna,2.92,limpia,Bulk,Fluida,3.5,96.24,8.28,2.86,Equiobturado
+I,29,Lingual,ninguna,3.1,con_tejido,Bulk,Bulk,1.5,82.41,4.06,2.1,Subobturado
+I,17,Lingual,ninguna,4.81,con_tejido,Estratificacion,Compuesta,2.0,81.25,16.21,5.12,Sobreobturado
+I,16,Lingual,ninguna,1.15,con_tejido,Estratificacion,Con fibra de vidrio,1.0,65.13,5.32,2.04,Sobreobturado
+I,9,Bucal,ninguna,2.44,limpia,Bulk,Con fibra de vidrio,1.0,92.54,6.74,3.28,Sobreobturado
+I,19,Lingual,ninguna,2.22,limpia,Bulk,Con fibra de vidrio,1.0,101.69,0.05,2.81,Sobreobturado
+I,19,Lingual,ninguna,3.96,limpia,Estratificacion,Compuesta,2.0,76.96,12.54,4.94,Sobreobturado
+I,31,Bucal,ninguna,4.39,limpia,Bulk,Con fibra de vidrio,1.0,119.3,7.18,4.15,Subobturado
+I,2,Lingual,ninguna,3.22,limpia,Bulk,Con fibra de vidrio,1.0,93.38,2.66,3.02,Subobturado
+I,17,Lingual,ninguna,4.53,con_tejido,Bulk,Bulk,1.5,100.18,14.66,4.51,Equiobturado
+I,28,Lingual,ninguna,1.43,limpia,Estratificacion,Bulk,1.5,64.05,5.03,1.63,Sobreobturado
+I,13,Oclusal,ninguna,2.98,con_tejido,Bulk,Con fibra de vidrio,1.0,81.81,8.16,3.65,Sobreobturado
+I,32,Lingual,ninguna,1.45,limpia,Bulk,Con fibra de vidrio,1.0,76.94,3.75,1.38,Equiobturado
+I,20,Oclusal,ninguna,2.13,con_tejido,Estratificacion,Con fibra de vidrio,1.0,72.93,11.72,1.45,Subobturado
+I,26,Bucal,ninguna,3.5,con_tejido,Bulk,Compuesta,2.0,97.11,7.25,4.5,Sobreobturado
+I,23,Lingual,ninguna,4.64,con_tejido,Bulk,Con fibra de vidrio,1.0,74.72,1.87,4.68,Equiobturado
+I,21,Lingual,ninguna,1.51,limpia,Bulk,Bulk,1.5,80.13,10.13,1.35,Equiobturado
+I,19,Bucal,ninguna,3.65,limpia,Bulk,Bulk,1.5,65.34,12.35,3.51,Subobturado
+I,14,Oclusal,ninguna,3.51,con_tejido,Bulk,Con fibra de vidrio,1.0,104.45,10.88,3.44,Equiobturado
+I,18,Oclusal,ninguna,1.84,limpia,Estratificacion,Con fibra de vidrio,1.0,95.7,7.61,2.64,Sobreobturado
+I,27,Bucal,ninguna,4.7,con_tejido,Bulk,Con fibra de vidrio,1.0,91.76,17.18,4.53,Equiobturado
+I,9,Bucal,ninguna,1.68,limpia,Bulk,Bulk,1.5,84.35,5.84,1.57,Equiobturado
+I,31,Bucal,ninguna,4.54,limpia,Estratificacion,Compuesta,2.0,109.68,5.38,4.77,Sobreobturado
+I,4,Bucal,ninguna,3.14,con_tejido,Estratificacion,Con fibra de vidrio,1.0,94.91,15.68,3.1,Equiobturado
+I,15,Bucal,ninguna,1.29,limpia,Bulk,Bulk,1.5,87.69,17.26,1.29,Equiobturado
+I,7,Lingual,ninguna,2.47,limpia,Bulk,Con fibra de vidrio,1.0,109.4,17.9,2.65,Equiobturado
+I,26,Bucal,ninguna,3.91,limpia,Bulk,Fluida,3.5,104.91,12.39,3.61,Subobturado
+I,18,Bucal,ninguna,2.27,limpia,Estratificacion,Bulk,1.5,84.8,15.83,2.41,Sobreobturado
+I,30,Oclusal,ninguna,2.2,limpia,Bulk,Con fibra de vidrio,1.0,118.5,15.29,2.71,Sobreobturado
+I,10,Lingual,ninguna,3.3,con_tejido,Estratificacion,Fluida,3.5,87.42,3.22,2.85,Subobturado
+I,32,Oclusal,ninguna,1.45,limpia,Estratificacion,Compuesta,2.0,97.95,13.72,0.6,Subobturado
+I,11,Lingual,ninguna,2.57,con_tejido,Bulk,Compuesta,2.0,102.5,1.71,2.38,Equiobturado
+I,24,Bucal,ninguna,3.45,con_tejido,Estratificacion,Bulk,1.5,100.9,3.04,3.66,Sobreobturado
+I,1,Oclusal,ninguna,2.21,limpia,Bulk,Bulk,1.5,104.6,10.64,2.44,Sobreobturado
+I,3,Lingual,ninguna,3.31,con_tejido,Bulk,Compuesta,2.0,110.38,6.05,2.47,Subobturado
+I,21,Lingual,ninguna,4.62,con_tejido,Bulk,Bulk,1.5,73.22,3.98,3.96,Subobturado
+I,25,Lingual,ninguna,4.95,limpia,Bulk,Fluida,3.5,110.09,8.1,4.81,Equiobturado
+I,2,Lingual,ninguna,3.64,limpia,Estratificacion,Bulk,1.5,87.9,14.41,2.8,Subobturado
+I,13,Oclusal,ninguna,2.2,limpia,Bulk,Compuesta,2.0,119.07,23.68,2.05,Equiobturado
+I,29,Oclusal,ninguna,4.92,limpia,Estratificacion,Bulk,1.5,96.97,11.78,4.8,Subobturado
+I,9,Bucal,ninguna,1.76,con_tejido,Estratificacion,Compuesta,2.0,83.67,5.24,1.67,Equiobturado
+I,13,Oclusal,ninguna,4.77,con_tejido,Estratificacion,Con fibra de vidrio,1.0,101.3,0.83,3.95,Subobturado
+I,19,Bucal,ninguna,2.65,con_tejido,Estratificacion,Compuesta,2.0,96.01,6.66,1.94,Subobturado
+I,19,Bucal,ninguna,1.25,con_tejido,Estratificacion,Fluida,3.5,96.77,0.57,1.54,Sobreobturado
+I,4,Lingual,ninguna,4.95,limpia,Estratificacion,Con fibra de vidrio,1.0,88.62,1.89,4.78,Equiobturado
+I,31,Oclusal,ninguna,2.78,con_tejido,Estratificacion,Fluida,3.5,82.86,1.43,2.21,Subobturado
+I,11,Bucal,ninguna,4.14,con_tejido,Estratificacion,Bulk,1.5,89.78,8.08,4.05,Subobturado
+I,5,Bucal,ninguna,2.01,limpia,Estratificacion,Compuesta,2.0,63.18,6.53,2.56,Sobreobturado
+I,31,Oclusal,ninguna,1.96,limpia,Estratificacion,Fluida,3.5,101.03,12.93,1.88,Equiobturado
+I,5,Bucal,ninguna,2.15,con_tejido,Estratificacion,Con fibra de vidrio,1.0,102.48,2.58,1.35,Subobturado
+I,32,Oclusal,ninguna,4.06,con_tejido,Estratificacion,Con fibra de vidrio,1.0,69.05,8.5,4.11,Equiobturado
+I,27,Bucal,ninguna,4.09,limpia,Estratificacion,Fluida,3.5,111.48,20.34,4.16,Equiobturado
+I,9,Lingual,ninguna,1.81,con_tejido,Bulk,Bulk,1.5,80.17,11.85,1.75,Equiobturado
+I,29,Bucal,ninguna,1.89,con_tejido,Estratificacion,Bulk,1.5,65.61,8.74,2.65,Sobreobturado
+I,19,Oclusal,ninguna,4.12,limpia,Estratificacion,Bulk,1.5,106.48,16.34,4.22,Equiobturado
+I,30,Bucal,ninguna,4.98,con_tejido,Estratificacion,Fluida,3.5,109.28,3.29,5.0,Equiobturado
+I,15,Oclusal,ninguna,4.12,limpia,Estratificacion,Con fibra de vidrio,1.0,87.11,7.83,4.3,Sobreobturado
+I,13,Bucal,ninguna,2.14,limpia,Estratificacion,Compuesta,2.0,85.16,7.28,2.57,Sobreobturado
+I,21,Lingual,ninguna,2.3,limpia,Estratificacion,Bulk,1.5,67.32,4.59,2.46,Equiobturado
+I,3,Oclusal,ninguna,4.91,con_tejido,Bulk,Bulk,1.5,118.03,13.8,5.17,Sobreobturado
+I,12,Bucal,ninguna,3.76,limpia,Estratificacion,Con fibra de vidrio,1.0,60.34,2.36,3.96,Sobreobturado
+I,28,Bucal,ninguna,4.14,limpia,Estratificacion,Con fibra de vidrio,1.0,94.57,4.6,3.92,Subobturado
+I,8,Lingual,ninguna,1.63,con_tejido,Bulk,Fluida,3.5,64.27,1.09,1.98,Sobreobturado
+I,31,Oclusal,ninguna,2.96,limpia,Estratificacion,Compuesta,2.0,91.66,15.05,2.8,Subobturado
+I,28,Bucal,ninguna,3.87,con_tejido,Bulk,Bulk,1.5,62.39,6.77,3.42,Subobturado
+I,23,Bucal,ninguna,3.13,con_tejido,Bulk,Con fibra de vidrio,1.0,66.73,9.75,3.27,Equiobturado
+I,26,Lingual,ninguna,4.59,limpia,Bulk,Fluida,3.5,89.77,0.55,5.42,Sobreobturado
+I,13,Lingual,ninguna,4.39,limpia,Estratificacion,Fluida,3.5,118.4,8.19,3.49,Subobturado
+I,31,Oclusal,ninguna,4.03,limpia,Bulk,Bulk,1.5,104.6,5.81,4.43,Sobreobturado
+I,14,Oclusal,ninguna,1.17,con_tejido,Estratificacion,Con fibra de vidrio,1.0,84.4,15.28,0.25,Subobturado
+I,16,Lingual,ninguna,4.96,limpia,Bulk,Fluida,3.5,99.2,6.69,4.19,Subobturado
+I,29,Oclusal,ninguna,2.78,limpia,Bulk,Compuesta,2.0,60.66,8.7,1.83,Subobturado
+I,6,Bucal,ninguna,3.27,limpia,Estratificacion,Bulk,1.5,105.94,18.42,3.21,Equiobturado
+I,19,Lingual,ninguna,2.73,limpia,Estratificacion,Con fibra de vidrio,1.0,106.02,18.48,3.51,Sobreobturado
+I,15,Lingual,ninguna,2.21,con_tejido,Bulk,Con fibra de vidrio,1.0,99.36,7.7,2.32,Equiobturado
+I,21,Oclusal,ninguna,3.08,con_tejido,Bulk,Con fibra de vidrio,1.0,105.88,13.98,3.22,Equiobturado
+I,30,Lingual,ninguna,3.73,con_tejido,Estratificacion,Bulk,1.5,79.5,10.91,4.12,Sobreobturado
+I,12,Oclusal,ninguna,4.16,limpia,Bulk,Fluida,3.5,110.37,5.03,4.44,Sobreobturado
+I,12,Oclusal,ninguna,2.58,con_tejido,Estratificacion,Compuesta,2.0,89.95,11.09,2.26,Subobturado
+I,29,Lingual,ninguna,3.32,con_tejido,Bulk,Con fibra de vidrio,1.0,86.87,4.91,3.47,Equiobturado
+I,27,Bucal,ninguna,2.89,limpia,Estratificacion,Bulk,1.5,68.74,12.48,2.78,Equiobturado
+I,3,Lingual,ninguna,2.46,con_tejido,Estratificacion,Con fibra de vidrio,1.0,73.21,13.86,2.65,Equiobturado
+I,4,Bucal,ninguna,4.55,limpia,Bulk,Bulk,1.5,100.01,0.24,5.41,Sobreobturado
+I,5,Bucal,ninguna,1.67,limpia,Estratificacion,Fluida,3.5,103.76,11.19,1.37,Subobturado
+I,20,Lingual,ninguna,2.17,limpia,Estratificacion,Con fibra de vidrio,1.0,99.24,6.77,2.1,Equiobturado
+I,25,Bucal,ninguna,2.58,limpia,Bulk,Compuesta,2.0,112.67,4.95,2.58,Equiobturado
+I,2,Oclusal,ninguna,2.87,limpia,Bulk,Bulk,1.5,68.94,0.17,2.09,Subobturado
+I,3,Lingual,ninguna,1.11,con_tejido,Bulk,Bulk,1.5,114.83,16.35,1.03,Subobturado
+I,32,Oclusal,ninguna,4.87,limpia,Bulk,Fluida,3.5,64.6,0.4,4.98,Equiobturado
+I,3,Bucal,ninguna,4.98,con_tejido,Bulk,Con fibra de vidrio,1.0,77.43,1.63,5.54,Sobreobturado
+I,11,Bucal,ninguna,4.65,con_tejido,Estratificacion,Bulk,1.5,104.86,4.53,5.54,Sobreobturado
+I,4,Lingual,ninguna,1.78,limpia,Bulk,Bulk,1.5,83.28,5.98,1.73,Equiobturado
+I,26,Lingual,ninguna,2.38,limpia,Bulk,Bulk,1.5,118.19,21.4,3.26,Sobreobturado
+I,9,Bucal,ninguna,3.15,con_tejido,Estratificacion,Con fibra de vidrio,1.0,86.99,11.52,2.43,Subobturado
+I,21,Lingual,ninguna,2.58,limpia,Bulk,Con fibra de vidrio,1.0,76.97,7.56,2.88,Sobreobturado
+I,23,Lingual,ninguna,4.13,limpia,Bulk,Bulk,1.5,117.73,8.23,4.12,Equiobturado
+I,3,Lingual,ninguna,2.5,con_tejido,Bulk,Fluida,3.5,105.68,15.68,1.53,Subobturado
+I,16,Lingual,ninguna,2.65,limpia,Bulk,Bulk,1.5,114.64,15.03,2.81,Equiobturado
+I,1,Oclusal,ninguna,2.12,limpia,Estratificacion,Con fibra de vidrio,1.0,78.99,6.27,2.95,Sobreobturado
+I,26,Bucal,ninguna,4.77,con_tejido,Bulk,Bulk,1.5,96.12,10.81,4.01,Subobturado
+I,13,Bucal,ninguna,2.9,limpia,Bulk,Bulk,1.5,93.92,2.81,2.07,Subobturado
+I,31,Bucal,ninguna,1.12,limpia,Bulk,Fluida,3.5,88.79,13.22,1.04,Equiobturado
+I,9,Bucal,ninguna,3.72,limpia,Bulk,Compuesta,2.0,102.83,11.64,3.51,Subobturado
+I,12,Lingual,ninguna,1.69,con_tejido,Estratificacion,Bulk,1.5,98.39,16.34,2.56,Sobreobturado
+I,21,Oclusal,ninguna,3.42,limpia,Bulk,Compuesta,2.0,79.15,0.61,3.33,Equiobturado
+I,26,Bucal,ninguna,1.96,limpia,Bulk,Compuesta,2.0,77.73,11.25,2.05,Sobreobturado
+I,28,Oclusal,ninguna,1.56,limpia,Bulk,Fluida,3.5,71.82,5.72,1.66,Equiobturado
+I,18,Lingual,ninguna,4.33,con_tejido,Bulk,Fluida,3.5,94.13,2.39,4.79,Sobreobturado
+I,3,Bucal,ninguna,4.3,con_tejido,Bulk,Compuesta,2.0,88.44,4.64,4.21,Subobturado
+I,18,Oclusal,ninguna,2.89,limpia,Estratificacion,Compuesta,2.0,92.58,15.41,3.28,Sobreobturado
+I,19,Bucal,ninguna,2.79,limpia,Estratificacion,Fluida,3.5,105.76,12.86,2.57,Subobturado
+I,8,Bucal,ninguna,3.82,limpia,Bulk,Compuesta,2.0,66.41,5.46,4.0,Equiobturado
+I,3,Oclusal,ninguna,3.12,limpia,Bulk,Compuesta,2.0,71.67,9.62,3.02,Subobturado
+I,16,Bucal,ninguna,1.1,con_tejido,Estratificacion,Con fibra de vidrio,1.0,105.86,10.06,1.4,Sobreobturado
+I,23,Lingual,ninguna,4.94,con_tejido,Estratificacion,Compuesta,2.0,86.09,5.86,5.36,Sobreobturado
+I,3,Bucal,ninguna,2.06,con_tejido,Estratificacion,Con fibra de vidrio,1.0,118.18,22.56,1.11,Subobturado
+I,29,Lingual,ninguna,3.17,con_tejido,Estratificacion,Fluida,3.5,113.47,17.83,3.12,Equiobturado
+I,18,Oclusal,ninguna,2.2,limpia,Estratificacion,Compuesta,2.0,98.16,9.36,3.04,Sobreobturado
+I,23,Lingual,ninguna,3.75,con_tejido,Estratificacion,Con fibra de vidrio,1.0,98.61,5.67,3.83,Equiobturado
+I,20,Bucal,ninguna,4.62,con_tejido,Bulk,Bulk,1.5,116.67,4.98,4.41,Subobturado
+I,21,Oclusal,ninguna,3.0,limpia,Estratificacion,Fluida,3.5,117.86,4.14,2.84,Equiobturado
+I,15,Oclusal,ninguna,4.86,limpia,Estratificacion,Bulk,1.5,104.67,15.7,3.97,Subobturado
+I,4,Bucal,ninguna,3.36,limpia,Estratificacion,Bulk,1.5,65.59,10.34,2.49,Subobturado
+I,13,Bucal,ninguna,4.04,con_tejido,Estratificacion,Bulk,1.5,94.21,17.26,4.76,Sobreobturado
+I,9,Lingual,ninguna,1.02,con_tejido,Estratificacion,Fluida,3.5,86.19,16.6,0.49,Subobturado
+I,30,Bucal,ninguna,2.27,limpia,Bulk,Bulk,1.5,107.09,9.83,2.15,Subobturado
+I,30,Oclusal,ninguna,2.26,con_tejido,Estratificacion,Bulk,1.5,91.42,13.09,2.92,Sobreobturado
+I,9,Bucal,ninguna,1.9,con_tejido,Bulk,Compuesta,2.0,81.07,4.51,1.58,Subobturado
+I,4,Oclusal,ninguna,1.75,con_tejido,Bulk,Compuesta,2.0,95.55,13.09,1.4,Subobturado
+I,5,Bucal,ninguna,4.72,con_tejido,Bulk,Compuesta,2.0,64.69,8.68,5.19,Sobreobturado
+I,3,Oclusal,ninguna,3.44,limpia,Estratificacion,Compuesta,2.0,97.5,6.78,2.83,Subobturado
+I,29,Lingual,ninguna,3.41,limpia,Bulk,Con fibra de vidrio,1.0,84.64,2.88,2.54,Subobturado
+I,20,Lingual,ninguna,4.29,limpia,Estratificacion,Compuesta,2.0,77.63,5.53,4.1,Equiobturado
+I,2,Bucal,ninguna,3.2,limpia,Estratificacion,Compuesta,2.0,106.59,2.57,3.96,Sobreobturado
+I,4,Bucal,ninguna,1.24,con_tejido,Bulk,Compuesta,2.0,79.75,4.81,1.75,Sobreobturado
+I,21,Lingual,ninguna,4.9,con_tejido,Bulk,Compuesta,2.0,67.37,4.85,4.2,Subobturado
+I,9,Lingual,ninguna,3.49,limpia,Estratificacion,Fluida,3.5,105.61,11.08,3.51,Sobreobturado
+I,16,Bucal,ninguna,2.98,limpia,Estratificacion,Bulk,1.5,76.31,7.66,2.43,Subobturado
+I,9,Lingual,ninguna,3.52,limpia,Bulk,Compuesta,2.0,110.11,18.31,3.66,Equiobturado
+I,13,Bucal,ninguna,1.65,con_tejido,Bulk,Con fibra de vidrio,1.0,108.4,4.56,1.29,Subobturado
+I,1,Oclusal,ninguna,2.8,limpia,Bulk,Compuesta,2.0,91.91,9.86,2.91,Equiobturado
+I,17,Bucal,ninguna,1.43,limpia,Bulk,Compuesta,2.0,110.25,17.26,0.97,Subobturado
+I,11,Bucal,ninguna,3.75,con_tejido,Estratificacion,Con fibra de vidrio,1.0,79.32,5.66,2.87,Subobturado
+I,24,Bucal,ninguna,3.77,con_tejido,Estratificacion,Compuesta,2.0,118.59,0.26,4.54,Sobreobturado
+I,17,Lingual,ninguna,1.46,limpia,Estratificacion,Con fibra de vidrio,1.0,98.27,3.42,1.01,Subobturado
+I,24,Lingual,ninguna,3.06,con_tejido,Bulk,Fluida,3.5,107.29,1.82,2.71,Subobturado
+I,20,Oclusal,ninguna,4.52,con_tejido,Estratificacion,Con fibra de vidrio,1.0,63.66,9.05,4.39,Subobturado
+I,11,Bucal,ninguna,2.34,limpia,Bulk,Compuesta,2.0,82.18,1.28,1.4,Subobturado
+I,26,Lingual,ninguna,4.81,limpia,Estratificacion,Con fibra de vidrio,1.0,69.81,6.16,5.14,Sobreobturado
+I,18,Oclusal,ninguna,1.23,limpia,Bulk,Bulk,1.5,79.41,0.02,1.18,Subobturado
+I,20,Bucal,ninguna,4.12,limpia,Estratificacion,Compuesta,2.0,88.64,0.56,3.47,Subobturado
+I,28,Bucal,ninguna,4.09,con_tejido,Bulk,Fluida,3.5,106.41,14.24,4.78,Sobreobturado
+I,16,Oclusal,ninguna,2.14,limpia,Bulk,Fluida,3.5,113.53,5.4,2.03,Subobturado
+I,10,Lingual,ninguna,3.53,limpia,Estratificacion,Compuesta,2.0,95.83,16.64,2.88,Subobturado
+I,16,Oclusal,ninguna,2.53,limpia,Estratificacion,Compuesta,2.0,117.66,23.32,1.9,Subobturado
+I,21,Lingual,ninguna,1.3,limpia,Bulk,Compuesta,2.0,96.77,17.05,2.14,Sobreobturado
+I,24,Lingual,ninguna,2.58,limpia,Bulk,Fluida,3.5,92.52,7.0,2.77,Equiobturado
+I,22,Lingual,ninguna,2.84,limpia,Bulk,Con fibra de vidrio,1.0,87.79,10.61,3.74,Sobreobturado
+I,1,Oclusal,ninguna,4.07,con_tejido,Bulk,Compuesta,2.0,84.62,2.43,3.54,Subobturado
+I,26,Bucal,ninguna,2.93,limpia,Bulk,Bulk,1.5,111.76,0.95,2.91,Subobturado
+I,15,Lingual,ninguna,2.6,con_tejido,Estratificacion,Bulk,1.5,99.54,19.2,3.16,Sobreobturado
+I,22,Lingual,ninguna,2.11,limpia,Bulk,Con fibra de vidrio,1.0,70.64,9.07,1.75,Subobturado
+I,23,Bucal,ninguna,1.27,con_tejido,Bulk,Bulk,1.5,88.36,15.4,2.18,Sobreobturado
+I,16,Lingual,ninguna,2.93,con_tejido,Bulk,Con fibra de vidrio,1.0,114.59,19.4,2.89,Subobturado
+I,19,Bucal,ninguna,1.79,con_tejido,Bulk,Con fibra de vidrio,1.0,62.92,2.72,1.8,Equiobturado
+I,11,Bucal,ninguna,4.9,limpia,Bulk,Compuesta,2.0,68.62,7.04,5.01,Equiobturado
+I,13,Oclusal,ninguna,3.51,limpia,Estratificacion,Compuesta,2.0,102.23,3.04,3.55,Equiobturado
+I,18,Lingual,ninguna,3.92,con_tejido,Bulk,Bulk,1.5,69.18,7.03,4.07,Equiobturado
+I,1,Lingual,ninguna,1.38,limpia,Estratificacion,Bulk,1.5,109.27,14.34,1.78,Sobreobturado
+I,4,Lingual,ninguna,4.55,limpia,Estratificacion,Bulk,1.5,107.07,20.2,3.91,Subobturado
+I,26,Bucal,ninguna,1.76,con_tejido,Bulk,Bulk,1.5,92.39,17.42,1.1,Subobturado
+I,21,Oclusal,ninguna,4.05,limpia,Estratificacion,Bulk,1.5,70.28,8.74,3.89,Subobturado
+I,9,Lingual,ninguna,1.41,con_tejido,Bulk,Bulk,1.5,89.83,9.04,1.91,Sobreobturado
+I,18,Lingual,ninguna,3.33,limpia,Estratificacion,Fluida,3.5,93.61,9.74,3.91,Sobreobturado
+I,11,Bucal,ninguna,4.08,limpia,Bulk,Compuesta,2.0,82.3,6.29,4.03,Subobturado
+I,26,Lingual,ninguna,2.7,limpia,Bulk,Bulk,1.5,75.72,4.79,2.24,Subobturado
+I,31,Lingual,ninguna,1.77,limpia,Estratificacion,Fluida,3.5,97.39,14.18,1.56,Subobturado
+I,1,Oclusal,ninguna,4.02,limpia,Bulk,Fluida,3.5,89.0,6.57,3.46,Subobturado
+I,3,Bucal,ninguna,3.58,con_tejido,Bulk,Fluida,3.5,81.81,1.25,3.73,Sobreobturado
+I,2,Lingual,ninguna,4.84,con_tejido,Bulk,Compuesta,2.0,76.48,7.62,5.34,Sobreobturado
+I,17,Bucal,ninguna,1.03,con_tejido,Estratificacion,Compuesta,2.0,115.22,22.63,1.74,Sobreobturado
+I,26,Lingual,ninguna,3.31,con_tejido,Bulk,Compuesta,2.0,101.54,12.82,3.48,Equiobturado
+I,13,Bucal,ninguna,1.66,con_tejido,Bulk,Con fibra de vidrio,1.0,117.31,23.32,1.01,Subobturado
+I,28,Oclusal,ninguna,4.52,con_tejido,Estratificacion,Con fibra de vidrio,1.0,85.2,14.5,3.76,Subobturado
+I,30,Bucal,ninguna,4.99,limpia,Estratificacion,Con fibra de vidrio,1.0,108.44,10.98,5.44,Sobreobturado
+I,1,Bucal,ninguna,4.53,con_tejido,Bulk,Fluida,3.5,102.61,14.4,3.61,Subobturado
+I,4,Bucal,ninguna,1.94,limpia,Bulk,Compuesta,2.0,102.61,4.87,1.86,Subobturado
+I,13,Bucal,ninguna,4.57,con_tejido,Estratificacion,Compuesta,2.0,105.58,6.49,5.13,Sobreobturado
+I,4,Bucal,ninguna,3.39,limpia,Estratificacion,Fluida,3.5,65.48,7.54,3.44,Sobreobturado
+I,30,Bucal,ninguna,2.83,limpia,Estratificacion,Compuesta,2.0,91.27,13.7,2.66,Equiobturado
+I,14,Lingual,ninguna,4.02,limpia,Estratificacion,Compuesta,2.0,103.27,4.78,3.1,Subobturado
+I,17,Lingual,ninguna,2.63,limpia,Estratificacion,Con fibra de vidrio,1.0,97.74,16.14,2.48,Equiobturado
+I,31,Lingual,ninguna,2.58,limpia,Estratificacion,Fluida,3.5,104.42,19.26,2.75,Equiobturado
+I,5,Oclusal,ninguna,3.39,limpia,Estratificacion,Con fibra de vidrio,1.0,112.21,15.99,3.31,Equiobturado
+I,6,Lingual,ninguna,1.07,con_tejido,Estratificacion,Bulk,1.5,62.83,6.61,1.2,Equiobturado
+I,9,Bucal,ninguna,3.48,limpia,Bulk,Fluida,3.5,86.84,2.91,2.56,Subobturado
+I,6,Bucal,ninguna,2.31,con_tejido,Estratificacion,Fluida,3.5,61.59,3.7,2.43,Equiobturado
+I,13,Oclusal,ninguna,2.36,con_tejido,Bulk,Bulk,1.5,102.24,9.42,2.75,Sobreobturado
+I,28,Lingual,ninguna,4.19,con_tejido,Estratificacion,Compuesta,2.0,90.0,3.02,4.05,Equiobturado
+I,8,Bucal,ninguna,4.57,limpia,Bulk,Con fibra de vidrio,1.0,72.93,3.39,4.44,Equiobturado
+I,26,Bucal,ninguna,3.16,limpia,Estratificacion,Fluida,3.5,90.77,15.59,2.96,Subobturado
+I,22,Bucal,ninguna,2.25,limpia,Bulk,Compuesta,2.0,95.15,15.0,2.46,Sobreobturado
+I,24,Bucal,ninguna,3.02,limpia,Bulk,Compuesta,2.0,104.55,12.48,2.5,Subobturado
+I,2,Bucal,ninguna,4.24,con_tejido,Bulk,Compuesta,2.0,118.65,19.16,4.69,Sobreobturado
+I,20,Bucal,ninguna,4.72,limpia,Bulk,Compuesta,2.0,84.59,10.36,4.62,Subobturado
+I,28,Lingual,ninguna,3.21,limpia,Bulk,Fluida,3.5,113.6,10.11,3.84,Sobreobturado
+I,13,Bucal,ninguna,4.08,con_tejido,Bulk,Compuesta,2.0,98.6,1.86,4.99,Sobreobturado
+I,2,Oclusal,ninguna,4.99,con_tejido,Estratificacion,Compuesta,2.0,99.37,15.23,5.27,Sobreobturado
+I,24,Lingual,ninguna,2.19,con_tejido,Bulk,Fluida,3.5,94.07,3.23,2.12,Equiobturado
+I,29,Bucal,ninguna,4.31,limpia,Estratificacion,Fluida,3.5,64.42,12.47,3.75,Subobturado
+I,16,Bucal,ninguna,2.13,con_tejido,Estratificacion,Bulk,1.5,64.83,3.9,2.32,Equiobturado
+I,12,Oclusal,ninguna,2.76,con_tejido,Estratificacion,Fluida,3.5,75.8,1.43,2.73,Equiobturado
+I,19,Lingual,ninguna,3.7,limpia,Estratificacion,Bulk,1.5,85.54,4.12,3.62,Subobturado
+I,20,Bucal,ninguna,2.68,con_tejido,Bulk,Bulk,1.5,81.33,11.82,2.03,Subobturado
+I,30,Bucal,ninguna,2.21,limpia,Estratificacion,Bulk,1.5,68.98,8.13,2.29,Equiobturado
+I,17,Oclusal,ninguna,2.77,limpia,Bulk,Compuesta,2.0,112.84,10.41,2.71,Equiobturado
+I,27,Bucal,ninguna,4.49,con_tejido,Estratificacion,Con fibra de vidrio,1.0,115.72,10.37,4.35,Equiobturado
+I,17,Bucal,ninguna,4.17,limpia,Estratificacion,Con fibra de vidrio,1.0,83.39,0.4,4.21,Equiobturado
+I,3,Oclusal,ninguna,4.87,limpia,Bulk,Bulk,1.5,119.9,11.66,4.92,Sobreobturado
+I,20,Oclusal,ninguna,1.09,con_tejido,Bulk,Compuesta,2.0,117.82,17.31,1.25,Equiobturado
+I,9,Bucal,ninguna,1.62,con_tejido,Bulk,Fluida,3.5,93.08,7.67,1.7,Equiobturado
+I,16,Lingual,ninguna,4.37,con_tejido,Estratificacion,Fluida,3.5,93.69,3.98,4.16,Subobturado
+I,28,Oclusal,ninguna,2.35,limpia,Bulk,Fluida,3.5,103.07,9.11,2.53,Equiobturado
+I,14,Lingual,ninguna,3.02,con_tejido,Estratificacion,Con fibra de vidrio,1.0,91.34,13.39,2.03,Subobturado
+I,20,Oclusal,ninguna,2.61,con_tejido,Estratificacion,Fluida,3.5,64.38,12.6,2.31,Subobturado
+I,6,Lingual,ninguna,3.56,con_tejido,Bulk,Fluida,3.5,101.86,8.99,3.76,Equiobturado
+I,31,Bucal,ninguna,1.23,limpia,Estratificacion,Bulk,1.5,64.3,2.78,1.32,Equiobturado
+I,12,Bucal,ninguna,4.71,limpia,Bulk,Bulk,1.5,118.3,6.25,4.67,Equiobturado
+I,32,Lingual,ninguna,2.41,limpia,Estratificacion,Bulk,1.5,70.68,13.53,2.59,Equiobturado
+I,5,Lingual,ninguna,2.41,limpia,Estratificacion,Fluida,3.5,73.07,1.02,2.4,Equiobturado
+I,32,Lingual,ninguna,2.67,limpia,Estratificacion,Con fibra de vidrio,1.0,93.19,4.2,2.26,Subobturado
+I,13,Lingual,ninguna,4.62,limpia,Bulk,Fluida,3.5,75.41,9.82,3.97,Subobturado
+I,8,Bucal,ninguna,2.51,limpia,Estratificacion,Fluida,3.5,119.8,4.25,2.54,Equiobturado
+I,1,Oclusal,ninguna,4.1,con_tejido,Estratificacion,Fluida,3.5,80.79,9.73,3.84,Subobturado
+I,17,Oclusal,ninguna,4.02,con_tejido,Bulk,Fluida,3.5,108.84,17.93,4.01,Equiobturado
+I,1,Lingual,ninguna,3.16,limpia,Bulk,Con fibra de vidrio,1.0,69.17,3.88,2.51,Subobturado
+I,27,Lingual,ninguna,2.98,limpia,Estratificacion,Fluida,3.5,69.2,3.19,2.47,Subobturado
+I,30,Oclusal,ninguna,4.76,con_tejido,Bulk,Compuesta,2.0,74.89,2.93,5.72,Sobreobturado
+I,11,Bucal,ninguna,3.22,limpia,Estratificacion,Bulk,1.5,105.29,0.11,2.47,Subobturado
+I,9,Bucal,ninguna,1.23,limpia,Estratificacion,Fluida,3.5,70.0,1.7,1.35,Equiobturado
+I,29,Oclusal,ninguna,4.86,con_tejido,Bulk,Con fibra de vidrio,1.0,62.02,12.16,5.05,Equiobturado
+I,2,Oclusal,ninguna,4.71,con_tejido,Estratificacion,Compuesta,2.0,94.03,10.5,5.19,Sobreobturado
+I,17,Bucal,ninguna,3.63,limpia,Bulk,Con fibra de vidrio,1.0,69.68,4.42,2.95,Subobturado
+I,31,Lingual,ninguna,4.45,con_tejido,Estratificacion,Fluida,3.5,74.11,5.28,4.11,Subobturado
+I,14,Oclusal,ninguna,3.05,con_tejido,Bulk,Compuesta,2.0,98.09,4.97,3.61,Sobreobturado
+I,1,Lingual,ninguna,2.57,limpia,Estratificacion,Bulk,1.5,116.7,7.1,2.77,Equiobturado
+I,1,Bucal,ninguna,1.26,con_tejido,Estratificacion,Bulk,1.5,75.13,2.13,1.21,Equiobturado
+I,7,Lingual,ninguna,4.08,limpia,Bulk,Bulk,1.5,88.17,12.1,3.99,Equiobturado
+I,18,Bucal,ninguna,2.09,limpia,Bulk,Bulk,1.5,92.17,14.29,2.98,Sobreobturado
+I,3,Lingual,ninguna,3.26,limpia,Estratificacion,Fluida,3.5,95.85,2.28,2.46,Subobturado
+I,14,Lingual,ninguna,3.92,con_tejido,Estratificacion,Fluida,3.5,106.8,6.52,3.27,Subobturado
+I,14,Oclusal,ninguna,4.75,con_tejido,Bulk,Fluida,3.5,82.08,12.01,4.9,Sobreobturado
+I,15,Oclusal,ninguna,2.59,con_tejido,Estratificacion,Fluida,3.5,73.61,9.92,2.57,Equiobturado
+I,28,Bucal,ninguna,3.66,limpia,Estratificacion,Bulk,1.5,99.93,9.96,3.98,Sobreobturado
+I,3,Lingual,ninguna,2.45,con_tejido,Estratificacion,Bulk,1.5,99.89,6.89,2.47,Equiobturado
+I,8,Lingual,ninguna,2.92,con_tejido,Estratificacion,Con fibra de vidrio,1.0,66.55,9.98,3.08,Equiobturado
+I,24,Lingual,ninguna,4.17,limpia,Bulk,Con fibra de vidrio,1.0,105.21,9.86,5.14,Sobreobturado
+I,32,Bucal,ninguna,1.97,limpia,Estratificacion,Compuesta,2.0,106.23,17.66,1.86,Subobturado
+I,28,Oclusal,ninguna,2.24,con_tejido,Bulk,Compuesta,2.0,93.87,7.82,1.99,Subobturado
+I,22,Bucal,ninguna,1.54,con_tejido,Bulk,Fluida,3.5,113.56,20.32,0.7,Subobturado
+I,13,Lingual,ninguna,4.32,con_tejido,Estratificacion,Bulk,1.5,109.77,5.04,4.38,Equiobturado
+I,1,Lingual,ninguna,2.11,limpia,Estratificacion,Con fibra de vidrio,1.0,111.46,3.8,1.42,Subobturado
+I,6,Lingual,ninguna,3.38,limpia,Bulk,Bulk,1.5,83.66,14.21,3.48,Sobreobturado
+I,30,Lingual,ninguna,2.73,con_tejido,Estratificacion,Con fibra de vidrio,1.0,73.57,10.66,2.28,Subobturado
+I,21,Bucal,ninguna,1.91,con_tejido,Estratificacion,Bulk,1.5,72.67,6.94,2.09,Equiobturado
+I,30,Bucal,ninguna,1.33,limpia,Bulk,Fluida,3.5,65.2,9.72,1.31,Equiobturado
+I,15,Oclusal,ninguna,3.99,con_tejido,Estratificacion,Bulk,1.5,89.57,13.93,4.07,Equiobturado
+I,16,Bucal,ninguna,4.46,limpia,Estratificacion,Fluida,3.5,77.2,12.57,4.68,Sobreobturado
+I,4,Bucal,ninguna,2.4,con_tejido,Bulk,Compuesta,2.0,75.51,6.09,2.41,Sobreobturado
+I,20,Bucal,ninguna,2.76,limpia,Estratificacion,Compuesta,2.0,92.65,9.31,2.67,Equiobturado
+I,4,Oclusal,ninguna,1.57,limpia,Estratificacion,Bulk,1.5,114.42,18.68,2.02,Sobreobturado
+I,19,Lingual,ninguna,2.46,limpia,Estratificacion,Fluida,3.5,67.39,10.04,3.11,Sobreobturado
+I,5,Oclusal,ninguna,1.7,con_tejido,Bulk,Compuesta,2.0,89.86,11.29,1.34,Subobturado
+I,15,Oclusal,ninguna,4.31,limpia,Estratificacion,Con fibra de vidrio,1.0,105.48,16.16,4.74,Sobreobturado
+I,22,Bucal,ninguna,1.29,con_tejido,Bulk,Bulk,1.5,76.97,1.11,1.48,Sobreobturado
+I,30,Bucal,ninguna,1.64,limpia,Estratificacion,Fluida,3.5,63.85,6.43,0.74,Subobturado
+I,17,Lingual,ninguna,3.11,limpia,Bulk,Compuesta,2.0,61.21,5.04,2.25,Subobturado
+I,2,Lingual,ninguna,2.61,limpia,Estratificacion,Compuesta,2.0,107.6,5.8,2.67,Sobreobturado
+I,9,Lingual,ninguna,3.8,limpia,Bulk,Compuesta,2.0,86.17,11.02,3.49,Subobturado
+I,20,Lingual,ninguna,3.38,con_tejido,Estratificacion,Compuesta,2.0,106.84,18.42,3.75,Sobreobturado
+I,18,Lingual,ninguna,1.86,con_tejido,Estratificacion,Compuesta,2.0,106.68,16.95,2.7,Sobreobturado
+I,5,Oclusal,ninguna,4.44,con_tejido,Estratificacion,Compuesta,2.0,63.59,6.87,4.53,Sobreobturado
+I,2,Oclusal,ninguna,3.93,limpia,Estratificacion,Compuesta,2.0,117.93,4.75,3.84,Equiobturado
+I,1,Bucal,ninguna,2.97,limpia,Bulk,Con fibra de vidrio,1.0,60.77,7.24,3.17,Equiobturado
+I,16,Bucal,ninguna,4.7,con_tejido,Bulk,Compuesta,2.0,88.16,14.82,4.61,Equiobturado
+I,28,Oclusal,ninguna,2.45,limpia,Bulk,Fluida,3.5,73.05,1.73,1.6,Subobturado
+I,1,Lingual,ninguna,1.9,limpia,Estratificacion,Bulk,1.5,109.34,13.64,1.61,Subobturado
+I,32,Bucal,ninguna,1.67,con_tejido,Bulk,Con fibra de vidrio,1.0,94.2,2.21,1.43,Subobturado
+I,27,Lingual,ninguna,1.13,con_tejido,Bulk,Bulk,1.5,78.07,10.84,1.25,Equiobturado
+I,4,Oclusal,ninguna,3.54,limpia,Estratificacion,Con fibra de vidrio,1.0,63.01,12.32,3.48,Equiobturado
+I,12,Bucal,ninguna,2.56,limpia,Bulk,Compuesta,2.0,107.16,16.66,2.53,Equiobturado
+I,20,Bucal,ninguna,1.57,con_tejido,Bulk,Fluida,3.5,79.67,15.05,1.55,Equiobturado
+I,12,Oclusal,ninguna,1.04,limpia,Estratificacion,Con fibra de vidrio,1.0,82.96,6.45,0.81,Subobturado
+I,6,Lingual,ninguna,4.91,con_tejido,Estratificacion,Con fibra de vidrio,1.0,95.01,4.7,4.72,Equiobturado
+I,26,Bucal,ninguna,2.65,limpia,Estratificacion,Bulk,1.5,91.24,5.67,1.75,Subobturado
+I,27,Lingual,ninguna,2.23,limpia,Bulk,Fluida,3.5,74.29,11.63,2.38,Sobreobturado
+I,25,Lingual,ninguna,1.8,con_tejido,Bulk,Bulk,1.5,61.04,4.43,1.71,Subobturado
+I,18,Oclusal,ninguna,3.62,con_tejido,Bulk,Fluida,3.5,77.71,5.97,4.0,Sobreobturado
+I,15,Lingual,ninguna,1.32,con_tejido,Bulk,Fluida,3.5,114.23,0.7,1.43,Equiobturado
+I,7,Lingual,ninguna,3.16,limpia,Bulk,Compuesta,2.0,96.66,9.74,2.19,Subobturado
+I,18,Lingual,ninguna,1.29,con_tejido,Bulk,Compuesta,2.0,73.6,12.69,1.15,Equiobturado
+I,30,Oclusal,ninguna,4.33,con_tejido,Bulk,Compuesta,2.0,62.88,4.68,5.07,Sobreobturado
+I,8,Bucal,ninguna,2.26,con_tejido,Estratificacion,Con fibra de vidrio,1.0,71.59,5.97,2.32,Equiobturado
+I,18,Bucal,ninguna,2.56,con_tejido,Bulk,Compuesta,2.0,65.73,11.42,3.44,Sobreobturado
+I,10,Bucal,ninguna,4.7,limpia,Estratificacion,Compuesta,2.0,96.39,18.27,5.63,Sobreobturado
+I,32,Oclusal,ninguna,4.63,con_tejido,Bulk,Fluida,3.5,68.17,5.67,4.68,Equiobturado
+I,5,Oclusal,ninguna,2.2,limpia,Estratificacion,Compuesta,2.0,112.95,19.36,2.76,Sobreobturado
+I,15,Bucal,ninguna,3.94,limpia,Bulk,Compuesta,2.0,103.99,12.05,3.89,Equiobturado
+I,6,Bucal,ninguna,1.19,limpia,Bulk,Compuesta,2.0,83.76,10.16,0.58,Subobturado
+I,15,Lingual,ninguna,1.12,con_tejido,Estratificacion,Con fibra de vidrio,1.0,92.89,9.17,1.24,Equiobturado
+I,13,Oclusal,ninguna,2.67,limpia,Bulk,Bulk,1.5,72.42,5.67,2.94,Sobreobturado
+I,30,Lingual,ninguna,1.6,limpia,Estratificacion,Fluida,3.5,65.25,0.86,1.64,Equiobturado
+I,10,Bucal,ninguna,1.96,limpia,Estratificacion,Fluida,3.5,113.26,16.88,2.8,Sobreobturado
+I,24,Bucal,ninguna,3.82,con_tejido,Estratificacion,Compuesta,2.0,113.73,5.57,3.38,Subobturado
+I,18,Bucal,ninguna,2.43,con_tejido,Bulk,Con fibra de vidrio,1.0,76.27,0.44,2.33,Subobturado
+I,27,Lingual,ninguna,2.76,limpia,Bulk,Fluida,3.5,93.97,1.98,3.25,Sobreobturado
+I,27,Lingual,ninguna,2.2,con_tejido,Bulk,Con fibra de vidrio,1.0,111.96,18.11,1.47,Subobturado
+I,31,Bucal,ninguna,2.02,con_tejido,Bulk,Con fibra de vidrio,1.0,72.2,4.07,2.56,Sobreobturado
+I,11,Lingual,ninguna,2.1,limpia,Estratificacion,Bulk,1.5,76.73,6.87,2.03,Subobturado
+I,11,Bucal,ninguna,2.58,con_tejido,Bulk,Con fibra de vidrio,1.0,101.7,13.87,1.68,Subobturado
+I,3,Bucal,ninguna,2.75,limpia,Bulk,Fluida,3.5,102.64,7.9,2.71,Equiobturado
+I,27,Bucal,ninguna,1.16,limpia,Estratificacion,Fluida,3.5,118.77,8.02,2.06,Sobreobturado
+I,23,Bucal,ninguna,1.73,limpia,Estratificacion,Con fibra de vidrio,1.0,92.57,15.23,1.41,Subobturado
+I,13,Bucal,ninguna,2.83,limpia,Estratificacion,Fluida,3.5,70.8,4.64,2.89,Equiobturado
+I,29,Lingual,ninguna,4.18,limpia,Estratificacion,Bulk,1.5,117.4,14.67,3.3,Subobturado
+I,13,Lingual,ninguna,4.36,con_tejido,Bulk,Con fibra de vidrio,1.0,89.38,9.11,4.19,Equiobturado
+I,24,Bucal,ninguna,3.98,con_tejido,Bulk,Fluida,3.5,98.76,9.85,4.03,Equiobturado
+I,19,Oclusal,ninguna,2.26,limpia,Bulk,Con fibra de vidrio,1.0,119.11,23.42,2.27,Equiobturado
+I,25,Lingual,ninguna,1.99,con_tejido,Estratificacion,Compuesta,2.0,82.7,5.08,1.11,Subobturado
+I,16,Bucal,ninguna,1.55,con_tejido,Estratificacion,Con fibra de vidrio,1.0,100.02,16.18,1.47,Equiobturado
+I,2,Lingual,ninguna,1.4,limpia,Estratificacion,Con fibra de vidrio,1.0,74.55,10.73,1.91,Sobreobturado
+I,3,Lingual,ninguna,3.99,con_tejido,Estratificacion,Compuesta,2.0,89.32,14.5,3.96,Subobturado
+I,4,Lingual,ninguna,4.92,limpia,Bulk,Con fibra de vidrio,1.0,87.13,17.01,4.82,Subobturado
+I,6,Bucal,ninguna,3.09,con_tejido,Estratificacion,Compuesta,2.0,96.54,13.15,3.22,Sobreobturado
+I,12,Bucal,ninguna,2.19,limpia,Estratificacion,Compuesta,2.0,96.5,1.47,2.18,Subobturado
+I,29,Lingual,ninguna,2.32,limpia,Estratificacion,Con fibra de vidrio,1.0,116.08,5.64,2.19,Equiobturado
+I,1,Oclusal,ninguna,3.21,con_tejido,Bulk,Con fibra de vidrio,1.0,112.13,18.34,2.94,Subobturado
+I,5,Lingual,ninguna,2.99,con_tejido,Estratificacion,Con fibra de vidrio,1.0,89.92,14.26,2.13,Subobturado
+I,31,Oclusal,ninguna,1.5,con_tejido,Bulk,Bulk,1.5,77.98,12.28,0.64,Subobturado
+I,22,Bucal,ninguna,4.68,con_tejido,Estratificacion,Con fibra de vidrio,1.0,113.89,13.96,4.44,Subobturado
+I,21,Lingual,ninguna,3.07,limpia,Estratificacion,Con fibra de vidrio,1.0,68.65,4.09,2.71,Subobturado
+I,14,Bucal,ninguna,4.13,limpia,Bulk,Fluida,3.5,74.54,2.89,3.81,Subobturado
+I,12,Oclusal,ninguna,4.79,con_tejido,Bulk,Con fibra de vidrio,1.0,113.86,5.65,4.12,Subobturado
+I,2,Oclusal,ninguna,1.64,limpia,Estratificacion,Fluida,3.5,91.53,6.22,1.47,Equiobturado
+I,6,Bucal,ninguna,3.05,limpia,Bulk,Compuesta,2.0,84.43,16.64,2.97,Equiobturado
+I,22,Lingual,ninguna,3.23,limpia,Estratificacion,Bulk,1.5,80.02,8.29,3.18,Subobturado
+I,15,Oclusal,ninguna,1.38,con_tejido,Bulk,Fluida,3.5,100.53,19.55,1.49,Equiobturado
+I,12,Lingual,ninguna,3.76,con_tejido,Bulk,Compuesta,2.0,92.7,8.93,3.68,Subobturado
+I,32,Bucal,ninguna,1.1,limpia,Bulk,Compuesta,2.0,89.96,13.7,0.53,Subobturado
+I,12,Oclusal,ninguna,4.88,con_tejido,Bulk,Compuesta,2.0,114.61,7.61,5.43,Sobreobturado
+I,15,Oclusal,ninguna,1.54,limpia,Bulk,Con fibra de vidrio,1.0,69.35,11.43,1.43,Equiobturado
+I,28,Oclusal,ninguna,2.8,limpia,Estratificacion,Con fibra de vidrio,1.0,80.05,2.92,2.65,Subobturado
+I,30,Bucal,ninguna,2.8,limpia,Estratificacion,Fluida,3.5,63.05,2.0,2.78,Equiobturado
+I,1,Oclusal,ninguna,2.91,con_tejido,Estratificacion,Compuesta,2.0,60.15,7.54,3.45,Sobreobturado
+I,4,Oclusal,ninguna,2.9,limpia,Bulk,Compuesta,2.0,81.65,12.19,2.71,Equiobturado
+I,16,Oclusal,ninguna,1.49,limpia,Bulk,Bulk,1.5,116.37,15.57,1.08,Subobturado
+I,16,Oclusal,ninguna,4.11,con_tejido,Estratificacion,Con fibra de vidrio,1.0,111.55,1.82,4.03,Subobturado
+I,13,Oclusal,ninguna,2.7,con_tejido,Estratificacion,Bulk,1.5,92.07,4.68,1.82,Subobturado
+I,31,Lingual,ninguna,4.58,limpia,Estratificacion,Fluida,3.5,72.01,12.28,4.75,Equiobturado
+I,4,Oclusal,ninguna,3.85,limpia,Estratificacion,Compuesta,2.0,113.54,16.79,3.73,Subobturado
+I,5,Bucal,ninguna,4.04,limpia,Estratificacion,Fluida,3.5,108.36,6.03,3.88,Equiobturado
+I,14,Lingual,ninguna,4.73,con_tejido,Estratificacion,Con fibra de vidrio,1.0,72.36,0.73,4.0,Subobturado
+I,27,Lingual,ninguna,2.63,limpia,Estratificacion,Compuesta,2.0,76.52,11.99,2.69,Sobreobturado
+I,8,Bucal,ninguna,3.58,con_tejido,Estratificacion,Bulk,1.5,108.46,13.0,3.9,Sobreobturado
+I,1,Lingual,ninguna,4.09,con_tejido,Bulk,Con fibra de vidrio,1.0,99.05,13.28,4.24,Equiobturado
+I,24,Bucal,ninguna,3.36,con_tejido,Estratificacion,Bulk,1.5,75.72,11.51,4.19,Sobreobturado
+I,9,Lingual,ninguna,1.24,limpia,Estratificacion,Con fibra de vidrio,1.0,86.12,1.63,1.22,Equiobturado
+I,24,Bucal,ninguna,4.34,con_tejido,Estratificacion,Con fibra de vidrio,1.0,91.87,15.97,3.58,Subobturado
+I,22,Lingual,ninguna,1.55,limpia,Estratificacion,Fluida,3.5,63.36,8.48,2.04,Sobreobturado
+I,5,Bucal,ninguna,4.56,limpia,Estratificacion,Con fibra de vidrio,1.0,115.06,6.78,3.69,Subobturado
+I,25,Lingual,ninguna,2.09,con_tejido,Estratificacion,Bulk,1.5,113.04,21.2,1.3,Subobturado
+I,13,Lingual,ninguna,3.28,con_tejido,Bulk,Con fibra de vidrio,1.0,115.56,10.35,3.34,Sobreobturado
+I,1,Lingual,ninguna,2.5,con_tejido,Estratificacion,Con fibra de vidrio,1.0,71.39,12.34,2.57,Equiobturado
+I,15,Oclusal,ninguna,1.56,con_tejido,Bulk,Compuesta,2.0,67.27,6.2,0.79,Subobturado
+I,9,Lingual,ninguna,1.73,limpia,Estratificacion,Bulk,1.5,112.61,3.59,2.06,Sobreobturado
+I,24,Lingual,ninguna,3.02,con_tejido,Estratificacion,Bulk,1.5,80.14,5.43,2.11,Subobturado
+I,32,Oclusal,ninguna,3.45,con_tejido,Estratificacion,Bulk,1.5,71.26,7.61,3.38,Subobturado
+I,17,Bucal,ninguna,4.83,limpia,Bulk,Compuesta,2.0,79.59,10.22,3.91,Subobturado
+I,27,Lingual,ninguna,1.38,con_tejido,Estratificacion,Compuesta,2.0,70.73,2.75,1.46,Equiobturado
+I,10,Bucal,ninguna,1.24,limpia,Estratificacion,Fluida,3.5,87.6,10.52,0.76,Subobturado
+I,30,Bucal,ninguna,3.8,con_tejido,Estratificacion,Fluida,3.5,68.63,7.3,4.38,Sobreobturado
+I,20,Oclusal,ninguna,1.42,limpia,Bulk,Con fibra de vidrio,1.0,108.88,8.51,1.89,Sobreobturado
+I,30,Oclusal,ninguna,4.58,limpia,Estratificacion,Con fibra de vidrio,1.0,87.45,5.65,4.44,Equiobturado
+I,4,Oclusal,ninguna,2.68,con_tejido,Estratificacion,Fluida,3.5,78.59,13.52,2.49,Equiobturado
+I,12,Bucal,ninguna,2.09,limpia,Estratificacion,Bulk,1.5,67.11,4.02,1.44,Subobturado
+I,20,Lingual,ninguna,2.15,con_tejido,Estratificacion,Fluida,3.5,81.39,12.79,2.44,Sobreobturado
+I,10,Bucal,ninguna,1.71,limpia,Estratificacion,Fluida,3.5,111.81,8.95,2.01,Sobreobturado
+I,15,Bucal,ninguna,4.76,limpia,Bulk,Fluida,3.5,84.54,11.73,4.77,Equiobturado
+I,14,Bucal,ninguna,3.64,con_tejido,Estratificacion,Fluida,3.5,66.43,12.9,3.22,Subobturado
+I,20,Oclusal,ninguna,3.67,con_tejido,Bulk,Compuesta,2.0,94.65,10.1,4.36,Sobreobturado
+I,20,Lingual,ninguna,3.86,limpia,Estratificacion,Fluida,3.5,60.31,1.23,3.83,Equiobturado
+I,1,Lingual,ninguna,2.06,limpia,Estratificacion,Compuesta,2.0,117.25,21.55,1.4,Subobturado
+I,19,Oclusal,ninguna,4.82,limpia,Estratificacion,Con fibra de vidrio,1.0,108.87,9.07,5.77,Sobreobturado
+I,15,Bucal,ninguna,3.05,limpia,Estratificacion,Compuesta,2.0,72.28,6.81,3.2,Sobreobturado
+I,28,Bucal,ninguna,3.0,con_tejido,Bulk,Compuesta,2.0,100.87,1.9,3.38,Sobreobturado
+I,10,Lingual,ninguna,2.62,limpia,Estratificacion,Compuesta,2.0,90.3,7.33,2.15,Subobturado
+I,5,Lingual,ninguna,1.07,con_tejido,Bulk,Bulk,1.5,68.53,1.99,1.45,Sobreobturado
+I,21,Oclusal,ninguna,1.36,limpia,Estratificacion,Compuesta,2.0,109.6,12.01,1.38,Equiobturado
+I,22,Lingual,ninguna,4.56,con_tejido,Estratificacion,Con fibra de vidrio,1.0,98.37,15.29,5.42,Sobreobturado
+I,15,Bucal,ninguna,3.48,limpia,Estratificacion,Con fibra de vidrio,1.0,116.59,11.82,2.52,Subobturado
+I,9,Bucal,ninguna,4.87,con_tejido,Bulk,Con fibra de vidrio,1.0,107.89,0.91,4.71,Subobturado
+I,4,Bucal,ninguna,4.8,limpia,Bulk,Bulk,1.5,91.29,16.01,5.31,Sobreobturado
+I,9,Lingual,ninguna,1.01,con_tejido,Bulk,Compuesta,2.0,87.13,2.63,0.23,Subobturado
+I,29,Lingual,ninguna,3.83,con_tejido,Estratificacion,Fluida,3.5,84.36,0.25,3.65,Equiobturado
+I,20,Lingual,ninguna,1.21,con_tejido,Estratificacion,Bulk,1.5,108.32,0.67,1.11,Subobturado
+I,15,Bucal,ninguna,4.86,con_tejido,Bulk,Con fibra de vidrio,1.0,104.3,17.91,4.38,Subobturado
+I,21,Lingual,ninguna,2.99,limpia,Estratificacion,Bulk,1.5,98.92,13.19,3.02,Equiobturado
+I,2,Bucal,ninguna,3.96,limpia,Bulk,Bulk,1.5,118.16,7.51,3.81,Equiobturado
+I,18,Oclusal,ninguna,4.83,con_tejido,Estratificacion,Bulk,1.5,62.2,8.73,4.73,Equiobturado
+I,22,Bucal,ninguna,1.0,limpia,Bulk,Con fibra de vidrio,1.0,114.1,15.79,0.92,Equiobturado
+I,6,Lingual,ninguna,2.42,limpia,Estratificacion,Con fibra de vidrio,1.0,85.96,12.35,2.28,Subobturado
+I,14,Oclusal,ninguna,2.15,limpia,Bulk,Con fibra de vidrio,1.0,89.19,6.5,2.37,Sobreobturado
+I,17,Oclusal,ninguna,2.42,limpia,Estratificacion,Compuesta,2.0,95.0,7.48,3.18,Sobreobturado
+I,1,Oclusal,ninguna,1.51,limpia,Estratificacion,Bulk,1.5,109.07,1.04,1.88,Sobreobturado
+I,30,Lingual,ninguna,2.31,con_tejido,Bulk,Fluida,3.5,90.88,6.44,1.8,Subobturado
+I,10,Lingual,ninguna,1.46,limpia,Estratificacion,Fluida,3.5,60.06,8.45,0.46,Subobturado
+I,13,Lingual,ninguna,2.88,con_tejido,Bulk,Con fibra de vidrio,1.0,105.7,9.73,3.03,Sobreobturado
+I,29,Oclusal,ninguna,4.99,limpia,Estratificacion,Compuesta,2.0,94.54,15.51,4.44,Subobturado
+I,25,Lingual,ninguna,1.94,con_tejido,Bulk,Con fibra de vidrio,1.0,91.45,9.87,1.79,Subobturado
+I,17,Bucal,ninguna,4.0,limpia,Estratificacion,Bulk,1.5,69.85,3.59,4.28,Sobreobturado
+I,1,Bucal,ninguna,1.86,con_tejido,Bulk,Bulk,1.5,92.02,11.4,1.06,Subobturado
+I,14,Oclusal,ninguna,1.91,limpia,Bulk,Bulk,1.5,72.82,7.87,1.98,Equiobturado
+I,32,Bucal,ninguna,1.35,con_tejido,Estratificacion,Con fibra de vidrio,1.0,67.11,12.21,1.2,Equiobturado
+I,16,Oclusal,ninguna,2.94,limpia,Estratificacion,Con fibra de vidrio,1.0,85.23,7.44,2.9,Equiobturado
+I,31,Oclusal,ninguna,1.92,con_tejido,Bulk,Bulk,1.5,77.4,14.66,2.07,Equiobturado
+I,2,Bucal,ninguna,2.19,con_tejido,Bulk,Bulk,1.5,87.22,3.18,1.84,Subobturado
+I,15,Oclusal,ninguna,4.88,con_tejido,Bulk,Fluida,3.5,79.01,5.37,5.76,Sobreobturado
+I,29,Lingual,ninguna,4.32,con_tejido,Bulk,Con fibra de vidrio,1.0,104.99,8.62,4.1,Subobturado
+I,10,Lingual,ninguna,4.09,con_tejido,Estratificacion,Fluida,3.5,75.43,14.08,4.02,Equiobturado
+I,5,Bucal,ninguna,3.85,limpia,Estratificacion,Fluida,3.5,63.7,1.6,4.04,Equiobturado
+I,23,Lingual,ninguna,4.95,con_tejido,Bulk,Compuesta,2.0,62.49,2.37,5.08,Equiobturado
+I,9,Lingual,ninguna,2.61,limpia,Bulk,Con fibra de vidrio,1.0,98.97,7.73,2.43,Equiobturado
+I,7,Bucal,ninguna,4.15,limpia,Estratificacion,Con fibra de vidrio,1.0,60.82,0.96,4.36,Sobreobturado
+I,10,Lingual,ninguna,1.82,con_tejido,Bulk,Fluida,3.5,87.66,1.68,2.03,Sobreobturado
+I,3,Bucal,ninguna,1.88,con_tejido,Estratificacion,Bulk,1.5,115.61,14.38,2.86,Sobreobturado
+I,2,Lingual,ninguna,2.27,limpia,Estratificacion,Bulk,1.5,64.77,2.65,3.11,Sobreobturado
+I,15,Lingual,ninguna,4.25,limpia,Estratificacion,Bulk,1.5,62.11,5.35,4.84,Sobreobturado
+I,23,Bucal,ninguna,2.52,con_tejido,Estratificacion,Compuesta,2.0,100.61,13.23,3.3,Sobreobturado
+I,8,Lingual,ninguna,2.84,limpia,Estratificacion,Fluida,3.5,101.0,1.79,1.88,Subobturado
+I,14,Lingual,ninguna,4.03,limpia,Estratificacion,Fluida,3.5,69.15,5.39,4.21,Equiobturado
+I,13,Lingual,ninguna,3.0,con_tejido,Estratificacion,Con fibra de vidrio,1.0,69.9,9.25,2.85,Equiobturado
+I,10,Lingual,ninguna,2.1,limpia,Bulk,Bulk,1.5,92.9,6.28,2.1,Equiobturado
+I,14,Lingual,ninguna,1.52,limpia,Estratificacion,Fluida,3.5,74.43,1.75,1.97,Sobreobturado
+I,16,Lingual,ninguna,3.82,limpia,Estratificacion,Fluida,3.5,61.08,8.94,3.8,Equiobturado
+I,21,Lingual,ninguna,2.58,con_tejido,Estratificacion,Bulk,1.5,85.78,11.49,3.11,Sobreobturado
+I,24,Lingual,ninguna,2.49,con_tejido,Bulk,Fluida,3.5,117.01,16.0,3.42,Sobreobturado
+I,15,Lingual,ninguna,3.78,limpia,Bulk,Con fibra de vidrio,1.0,112.04,12.78,3.8,Equiobturado
+I,10,Bucal,ninguna,1.8,con_tejido,Bulk,Con fibra de vidrio,1.0,85.99,9.33,1.82,Equiobturado
+I,4,Bucal,ninguna,2.74,con_tejido,Estratificacion,Compuesta,2.0,80.19,1.35,1.92,Subobturado
+I,15,Bucal,ninguna,2.6,limpia,Bulk,Fluida,3.5,85.73,1.88,3.34,Sobreobturado
+I,21,Oclusal,ninguna,1.45,con_tejido,Estratificacion,Con fibra de vidrio,1.0,81.46,3.2,1.3,Equiobturado
+I,23,Lingual,ninguna,3.23,con_tejido,Estratificacion,Compuesta,2.0,83.07,0.01,3.82,Sobreobturado
+I,29,Lingual,ninguna,4.45,con_tejido,Bulk,Compuesta,2.0,82.8,11.16,4.58,Equiobturado
+I,24,Bucal,ninguna,2.1,limpia,Bulk,Bulk,1.5,75.21,11.46,2.86,Sobreobturado
+I,2,Lingual,ninguna,4.61,limpia,Bulk,Bulk,1.5,103.55,11.87,4.53,Equiobturado
+I,11,Bucal,ninguna,4.87,con_tejido,Estratificacion,Compuesta,2.0,83.86,3.57,5.04,Equiobturado
+I,2,Lingual,ninguna,4.57,limpia,Estratificacion,Fluida,3.5,110.99,8.96,5.57,Sobreobturado
+I,18,Bucal,ninguna,3.25,con_tejido,Bulk,Bulk,1.5,86.86,6.24,3.39,Sobreobturado
+I,32,Oclusal,ninguna,1.78,con_tejido,Estratificacion,Con fibra de vidrio,1.0,77.96,7.68,1.71,Equiobturado
+I,5,Bucal,ninguna,4.26,limpia,Bulk,Fluida,3.5,71.03,5.03,4.14,Equiobturado
+I,29,Lingual,ninguna,1.93,con_tejido,Bulk,Bulk,1.5,111.99,16.27,1.16,Subobturado
+I,31,Lingual,ninguna,1.37,limpia,Bulk,Bulk,1.5,89.63,17.7,0.92,Subobturado
+I,15,Lingual,ninguna,1.8,limpia,Estratificacion,Compuesta,2.0,73.32,5.95,1.39,Subobturado
+I,3,Bucal,ninguna,1.94,limpia,Bulk,Compuesta,2.0,100.74,16.71,1.52,Subobturado
+I,14,Bucal,ninguna,1.11,limpia,Bulk,Compuesta,2.0,74.71,10.16,1.3,Equiobturado
+I,15,Oclusal,ninguna,1.18,limpia,Estratificacion,Con fibra de vidrio,1.0,106.5,17.13,0.58,Subobturado
+I,14,Oclusal,ninguna,3.69,con_tejido,Estratificacion,Bulk,1.5,114.9,20.94,3.34,Subobturado
+I,14,Lingual,ninguna,2.76,con_tejido,Bulk,Bulk,1.5,118.75,22.79,2.88,Equiobturado
+I,12,Bucal,ninguna,3.17,con_tejido,Estratificacion,Con fibra de vidrio,1.0,60.32,1.86,3.59,Sobreobturado
+I,30,Lingual,ninguna,4.81,con_tejido,Estratificacion,Bulk,1.5,80.3,12.59,4.97,Sobreobturado
+I,26,Bucal,ninguna,2.65,con_tejido,Estratificacion,Con fibra de vidrio,1.0,71.77,2.63,2.78,Equiobturado
+I,2,Lingual,ninguna,2.84,con_tejido,Estratificacion,Bulk,1.5,67.51,13.48,2.89,Equiobturado
+I,11,Lingual,ninguna,2.78,con_tejido,Estratificacion,Fluida,3.5,61.96,6.99,2.04,Subobturado
+I,18,Bucal,ninguna,1.56,con_tejido,Estratificacion,Bulk,1.5,65.8,10.02,0.79,Subobturado
+I,30,Bucal,ninguna,4.08,con_tejido,Estratificacion,Bulk,1.5,81.89,6.15,3.89,Equiobturado
+I,28,Bucal,ninguna,3.82,con_tejido,Estratificacion,Fluida,3.5,111.52,11.47,3.62,Equiobturado
+I,26,Lingual,ninguna,2.44,limpia,Bulk,Bulk,1.5,89.08,9.8,2.43,Equiobturado
+I,18,Lingual,ninguna,1.17,limpia,Estratificacion,Compuesta,2.0,99.36,14.1,0.72,Subobturado
+I,12,Bucal,ninguna,1.43,limpia,Estratificacion,Bulk,1.5,64.46,7.23,2.0,Sobreobturado
+I,30,Bucal,ninguna,1.49,limpia,Bulk,Compuesta,2.0,96.72,0.26,0.56,Subobturado
+I,32,Bucal,ninguna,3.75,limpia,Bulk,Bulk,1.5,86.7,11.04,3.51,Subobturado
+I,1,Lingual,ninguna,3.02,limpia,Bulk,Compuesta,2.0,78.94,11.91,2.95,Subobturado
+I,32,Oclusal,ninguna,1.11,con_tejido,Bulk,Fluida,3.5,102.06,19.75,1.89,Sobreobturado
+I,30,Bucal,ninguna,1.38,limpia,Estratificacion,Compuesta,2.0,60.01,5.35,0.65,Subobturado
+I,21,Oclusal,ninguna,3.37,con_tejido,Estratificacion,Compuesta,2.0,88.16,5.07,3.4,Equiobturado
+I,16,Bucal,ninguna,1.16,limpia,Bulk,Bulk,1.5,81.64,5.59,1.94,Sobreobturado
+I,20,Lingual,ninguna,3.8,limpia,Estratificacion,Fluida,3.5,95.04,17.19,3.78,Equiobturado
+I,12,Bucal,ninguna,2.66,limpia,Estratificacion,Con fibra de vidrio,1.0,79.16,13.57,2.2,Subobturado
+I,6,Bucal,ninguna,2.07,limpia,Bulk,Con fibra de vidrio,1.0,72.74,6.39,2.22,Sobreobturado
+I,2,Bucal,ninguna,2.83,con_tejido,Bulk,Fluida,3.5,84.29,8.76,2.15,Subobturado
+I,13,Oclusal,ninguna,2.25,con_tejido,Bulk,Con fibra de vidrio,1.0,107.33,8.39,2.08,Equiobturado
+I,17,Lingual,ninguna,1.28,con_tejido,Bulk,Fluida,3.5,93.19,7.13,1.25,Equiobturado
+I,9,Bucal,ninguna,4.94,con_tejido,Estratificacion,Compuesta,2.0,89.86,4.83,4.83,Subobturado
+I,23,Lingual,ninguna,2.11,limpia,Estratificacion,Con fibra de vidrio,1.0,105.48,16.12,1.12,Subobturado
+I,13,Lingual,ninguna,4.6,limpia,Bulk,Fluida,3.5,78.97,11.64,3.9,Subobturado
+I,1,Lingual,ninguna,4.78,con_tejido,Bulk,Con fibra de vidrio,1.0,105.34,14.69,4.99,Sobreobturado
+I,7,Bucal,ninguna,4.77,con_tejido,Estratificacion,Compuesta,2.0,75.09,10.44,4.6,Equiobturado
+I,4,Oclusal,ninguna,2.56,con_tejido,Estratificacion,Compuesta,2.0,103.65,17.51,3.12,Sobreobturado
+I,4,Lingual,ninguna,4.24,limpia,Bulk,Compuesta,2.0,65.51,5.83,3.28,Subobturado
+I,14,Bucal,ninguna,4.47,limpia,Bulk,Con fibra de vidrio,1.0,61.02,0.78,5.22,Sobreobturado
+I,31,Oclusal,ninguna,2.13,con_tejido,Estratificacion,Fluida,3.5,88.48,13.87,1.94,Equiobturado
+I,7,Lingual,ninguna,1.11,con_tejido,Estratificacion,Fluida,3.5,65.4,5.81,1.09,Equiobturado
+I,18,Lingual,ninguna,1.57,con_tejido,Bulk,Compuesta,2.0,112.95,5.27,1.6,Sobreobturado
+I,8,Bucal,ninguna,4.14,limpia,Bulk,Fluida,3.5,109.77,0.99,4.12,Subobturado
+I,1,Bucal,ninguna,3.18,con_tejido,Estratificacion,Compuesta,2.0,60.66,9.58,2.62,Subobturado
+I,24,Bucal,ninguna,4.06,con_tejido,Bulk,Con fibra de vidrio,1.0,70.47,2.56,4.86,Sobreobturado
+I,10,Lingual,ninguna,1.68,con_tejido,Bulk,Con fibra de vidrio,1.0,106.09,12.35,2.09,Sobreobturado
+I,10,Lingual,ninguna,3.07,con_tejido,Bulk,Con fibra de vidrio,1.0,75.04,3.8,2.43,Subobturado
+I,12,Lingual,ninguna,1.94,limpia,Bulk,Compuesta,2.0,118.63,1.11,1.76,Equiobturado
+I,21,Lingual,ninguna,2.42,limpia,Estratificacion,Fluida,3.5,72.39,6.17,2.3,Subobturado
+I,2,Bucal,ninguna,3.47,limpia,Bulk,Compuesta,2.0,89.37,6.58,3.44,Subobturado
+I,6,Lingual,ninguna,3.45,limpia,Estratificacion,Compuesta,2.0,77.08,2.69,2.9,Subobturado
+I,19,Bucal,ninguna,4.58,limpia,Bulk,Compuesta,2.0,80.83,10.5,5.35,Sobreobturado
+I,18,Bucal,ninguna,2.95,con_tejido,Estratificacion,Compuesta,2.0,103.39,11.11,2.55,Subobturado
+I,5,Bucal,ninguna,2.64,limpia,Estratificacion,Fluida,3.5,61.04,5.93,3.55,Sobreobturado
+I,13,Lingual,ninguna,3.66,limpia,Bulk,Fluida,3.5,79.02,10.23,3.64,Subobturado
+I,3,Lingual,ninguna,2.27,con_tejido,Estratificacion,Compuesta,2.0,90.8,14.78,2.36,Sobreobturado
+I,29,Lingual,ninguna,4.42,con_tejido,Estratificacion,Con fibra de vidrio,1.0,71.81,8.34,4.25,Equiobturado
+I,19,Lingual,ninguna,3.33,con_tejido,Bulk,Compuesta,2.0,104.63,20.44,2.92,Subobturado
+I,32,Lingual,ninguna,2.52,con_tejido,Estratificacion,Bulk,1.5,101.09,1.21,2.15,Subobturado
+I,21,Bucal,ninguna,1.53,limpia,Bulk,Fluida,3.5,60.25,5.04,1.49,Equiobturado
+I,32,Oclusal,ninguna,3.43,limpia,Estratificacion,Compuesta,2.0,65.45,10.38,3.7,Sobreobturado
+I,23,Lingual,ninguna,1.77,limpia,Estratificacion,Compuesta,2.0,72.71,4.68,1.92,Equiobturado
+I,24,Bucal,ninguna,3.97,con_tejido,Estratificacion,Compuesta,2.0,97.51,13.92,4.13,Equiobturado
+I,13,Lingual,ninguna,4.75,con_tejido,Bulk,Fluida,3.5,75.81,5.9,5.19,Sobreobturado
+I,6,Bucal,ninguna,4.09,limpia,Bulk,Bulk,1.5,78.76,0.27,4.35,Sobreobturado
+I,18,Lingual,ninguna,2.53,limpia,Estratificacion,Bulk,1.5,89.24,16.51,1.66,Subobturado
+I,21,Lingual,ninguna,1.81,limpia,Bulk,Bulk,1.5,67.88,6.9,2.52,Sobreobturado
+I,19,Lingual,ninguna,3.5,con_tejido,Bulk,Bulk,1.5,87.47,0.44,3.3,Subobturado
+I,4,Oclusal,ninguna,3.51,limpia,Bulk,Con fibra de vidrio,1.0,69.39,0.98,4.3,Sobreobturado
+I,4,Oclusal,ninguna,1.86,con_tejido,Estratificacion,Compuesta,2.0,106.7,11.67,1.86,Equiobturado
+I,30,Bucal,ninguna,1.81,con_tejido,Bulk,Fluida,3.5,116.7,22.82,1.87,Equiobturado
+I,2,Bucal,ninguna,3.51,limpia,Estratificacion,Con fibra de vidrio,1.0,102.93,4.12,4.12,Sobreobturado
+I,5,Bucal,ninguna,1.62,limpia,Bulk,Compuesta,2.0,68.48,7.35,1.69,Equiobturado
+I,10,Lingual,ninguna,3.68,con_tejido,Estratificacion,Con fibra de vidrio,1.0,98.06,11.03,3.36,Subobturado
+I,27,Bucal,ninguna,2.73,limpia,Bulk,Compuesta,2.0,115.16,7.15,1.76,Subobturado
+I,31,Lingual,ninguna,1.82,limpia,Bulk,Fluida,3.5,72.51,1.93,1.73,Equiobturado
+I,31,Bucal,ninguna,3.06,limpia,Bulk,Bulk,1.5,75.56,8.56,3.05,Subobturado
+I,6,Bucal,ninguna,1.53,limpia,Estratificacion,Con fibra de vidrio,1.0,92.72,8.68,2.51,Sobreobturado
+I,15,Oclusal,ninguna,3.12,con_tejido,Bulk,Bulk,1.5,115.49,22.72,3.28,Equiobturado
+I,17,Bucal,ninguna,1.89,con_tejido,Estratificacion,Compuesta,2.0,93.13,4.01,1.91,Equiobturado
+I,32,Lingual,ninguna,2.42,limpia,Estratificacion,Bulk,1.5,88.17,8.8,3.1,Sobreobturado
+I,11,Bucal,ninguna,3.85,con_tejido,Bulk,Con fibra de vidrio,1.0,113.61,11.12,3.78,Equiobturado
+I,23,Bucal,ninguna,2.47,con_tejido,Bulk,Compuesta,2.0,67.67,8.01,2.43,Equiobturado
+I,5,Lingual,ninguna,1.82,limpia,Bulk,Bulk,1.5,77.94,1.55,1.42,Subobturado
+I,15,Bucal,ninguna,1.08,limpia,Bulk,Fluida,3.5,103.0,17.07,1.85,Sobreobturado
+I,12,Bucal,ninguna,4.08,con_tejido,Estratificacion,Fluida,3.5,90.72,2.46,4.1,Sobreobturado
+I,16,Lingual,ninguna,3.71,con_tejido,Estratificacion,Bulk,1.5,61.76,2.75,3.79,Equiobturado
+I,32,Bucal,ninguna,1.38,limpia,Estratificacion,Fluida,3.5,98.81,9.32,1.56,Equiobturado
+I,18,Lingual,ninguna,3.97,limpia,Bulk,Bulk,1.5,99.67,1.83,3.83,Equiobturado
+I,20,Lingual,ninguna,4.04,limpia,Bulk,Bulk,1.5,117.78,13.42,4.48,Sobreobturado
+I,15,Bucal,ninguna,2.39,limpia,Estratificacion,Compuesta,2.0,117.64,12.23,1.56,Subobturado
+I,5,Oclusal,ninguna,4.02,limpia,Estratificacion,Fluida,3.5,72.57,10.73,4.04,Equiobturado
+I,32,Lingual,ninguna,3.04,limpia,Bulk,Fluida,3.5,92.36,8.51,3.7,Sobreobturado
+I,23,Lingual,ninguna,2.19,con_tejido,Bulk,Fluida,3.5,69.24,12.02,2.38,Equiobturado
+I,20,Oclusal,ninguna,4.41,con_tejido,Estratificacion,Fluida,3.5,112.59,20.74,3.82,Subobturado
+I,25,Bucal,ninguna,4.12,limpia,Bulk,Con fibra de vidrio,1.0,119.48,7.19,3.98,Equiobturado
+I,18,Lingual,ninguna,2.83,con_tejido,Estratificacion,Bulk,1.5,98.73,0.06,3.03,Equiobturado
+I,24,Bucal,ninguna,2.95,limpia,Bulk,Con fibra de vidrio,1.0,114.32,18.79,2.25,Subobturado
+I,24,Bucal,ninguna,1.21,con_tejido,Bulk,Bulk,1.5,110.98,14.13,2.18,Sobreobturado
+I,11,Lingual,ninguna,1.92,con_tejido,Estratificacion,Con fibra de vidrio,1.0,67.37,9.8,1.08,Subobturado
+I,29,Lingual,ninguna,1.06,con_tejido,Bulk,Bulk,1.5,64.25,4.28,1.48,Sobreobturado
+I,6,Lingual,ninguna,3.01,con_tejido,Bulk,Bulk,1.5,88.62,15.11,3.64,Sobreobturado
+I,19,Oclusal,ninguna,1.51,con_tejido,Bulk,Compuesta,2.0,79.13,11.92,1.22,Subobturado
+I,3,Oclusal,ninguna,1.07,limpia,Estratificacion,Con fibra de vidrio,1.0,80.58,9.94,0.56,Subobturado
+I,29,Bucal,ninguna,3.47,limpia,Estratificacion,Con fibra de vidrio,1.0,110.61,0.4,2.96,Subobturado
+I,12,Lingual,ninguna,3.98,limpia,Estratificacion,Bulk,1.5,62.98,4.81,3.07,Subobturado
+I,1,Lingual,ninguna,3.44,limpia,Estratificacion,Compuesta,2.0,102.29,1.1,3.55,Equiobturado
+I,23,Bucal,ninguna,4.49,con_tejido,Estratificacion,Compuesta,2.0,75.82,5.23,3.96,Subobturado
+I,32,Lingual,ninguna,4.97,limpia,Estratificacion,Bulk,1.5,99.37,0.72,5.87,Sobreobturado
+I,25,Bucal,ninguna,1.3,limpia,Estratificacion,Con fibra de vidrio,1.0,83.76,2.08,2.08,Sobreobturado
+I,27,Lingual,ninguna,2.88,limpia,Estratificacion,Bulk,1.5,88.17,5.55,3.84,Sobreobturado
+I,27,Bucal,ninguna,3.06,con_tejido,Estratificacion,Bulk,1.5,113.39,1.43,2.75,Subobturado
+I,30,Oclusal,ninguna,3.57,con_tejido,Bulk,Bulk,1.5,115.9,11.35,2.74,Subobturado
+I,29,Bucal,ninguna,1.26,con_tejido,Bulk,Fluida,3.5,71.83,12.53,0.55,Subobturado
+I,21,Oclusal,ninguna,1.31,con_tejido,Estratificacion,Con fibra de vidrio,1.0,103.69,6.63,1.25,Equiobturado
+I,8,Bucal,ninguna,1.17,limpia,Bulk,Bulk,1.5,86.58,8.97,1.91,Sobreobturado
+I,10,Bucal,ninguna,3.14,con_tejido,Estratificacion,Fluida,3.5,78.12,13.04,3.66,Sobreobturado
+I,21,Oclusal,ninguna,1.26,con_tejido,Estratificacion,Fluida,3.5,100.17,2.12,0.38,Subobturado
+I,28,Lingual,ninguna,1.88,limpia,Bulk,Compuesta,2.0,112.33,10.79,2.79,Sobreobturado
+I,12,Bucal,ninguna,2.49,limpia,Bulk,Compuesta,2.0,81.29,10.15,2.48,Equiobturado
+I,25,Bucal,ninguna,1.59,limpia,Bulk,Con fibra de vidrio,1.0,87.99,0.45,1.4,Equiobturado
+I,8,Lingual,ninguna,2.54,con_tejido,Bulk,Bulk,1.5,115.83,0.4,2.72,Sobreobturado
+I,28,Oclusal,ninguna,4.69,limpia,Estratificacion,Compuesta,2.0,64.29,4.95,5.56,Sobreobturado
+I,26,Bucal,ninguna,4.77,con_tejido,Bulk,Compuesta,2.0,106.98,4.01,4.27,Subobturado
+I,14,Lingual,ninguna,1.31,limpia,Estratificacion,Con fibra de vidrio,1.0,71.15,2.38,0.97,Subobturado
+I,2,Bucal,ninguna,4.03,limpia,Estratificacion,Con fibra de vidrio,1.0,110.33,6.87,3.68,Subobturado
+I,28,Oclusal,ninguna,3.63,con_tejido,Estratificacion,Compuesta,2.0,85.77,6.87,2.81,Subobturado
+I,29,Oclusal,ninguna,3.8,limpia,Bulk,Con fibra de vidrio,1.0,75.35,10.01,3.64,Equiobturado
+I,32,Bucal,ninguna,2.85,limpia,Estratificacion,Bulk,1.5,64.98,0.06,3.41,Sobreobturado
+I,22,Lingual,ninguna,2.07,con_tejido,Estratificacion,Compuesta,2.0,84.79,10.44,2.03,Subobturado
+I,29,Bucal,ninguna,4.18,limpia,Bulk,Compuesta,2.0,96.54,0.34,4.04,Subobturado
+I,32,Lingual,ninguna,4.33,con_tejido,Estratificacion,Fluida,3.5,69.2,2.52,4.14,Equiobturado
+I,4,Bucal,ninguna,2.96,con_tejido,Bulk,Con fibra de vidrio,1.0,67.08,7.28,2.56,Subobturado
+I,26,Lingual,ninguna,4.35,con_tejido,Estratificacion,Con fibra de vidrio,1.0,81.89,0.91,4.42,Sobreobturado
+I,25,Bucal,ninguna,4.87,limpia,Estratificacion,Fluida,3.5,91.36,4.18,5.28,Sobreobturado
+I,28,Oclusal,ninguna,3.61,limpia,Estratificacion,Con fibra de vidrio,1.0,88.1,7.81,3.68,Equiobturado
+I,6,Lingual,ninguna,2.42,con_tejido,Bulk,Compuesta,2.0,85.84,6.77,1.93,Subobturado
+I,12,Oclusal,ninguna,4.04,limpia,Bulk,Bulk,1.5,69.64,11.75,4.72,Sobreobturado
+I,21,Lingual,ninguna,4.71,con_tejido,Estratificacion,Compuesta,2.0,94.99,17.99,4.36,Subobturado
+I,9,Lingual,ninguna,1.86,con_tejido,Estratificacion,Con fibra de vidrio,1.0,114.39,18.57,1.95,Equiobturado
+I,23,Bucal,ninguna,3.23,con_tejido,Bulk,Con fibra de vidrio,1.0,80.97,0.38,2.62,Subobturado
+I,1,Oclusal,ninguna,3.33,con_tejido,Bulk,Con fibra de vidrio,1.0,114.5,11.93,3.37,Equiobturado
+I,16,Lingual,ninguna,3.38,limpia,Bulk,Con fibra de vidrio,1.0,85.19,12.48,3.22,Equiobturado
+I,20,Lingual,ninguna,3.94,limpia,Estratificacion,Compuesta,2.0,81.85,10.11,3.91,Equiobturado
+I,12,Bucal,ninguna,2.62,limpia,Estratificacion,Bulk,1.5,76.03,12.59,2.68,Equiobturado
+I,13,Oclusal,ninguna,4.21,con_tejido,Bulk,Fluida,3.5,81.87,15.69,4.07,Equiobturado
+I,22,Lingual,ninguna,3.28,con_tejido,Estratificacion,Con fibra de vidrio,1.0,92.59,5.77,3.38,Sobreobturado
+I,1,Bucal,ninguna,3.45,con_tejido,Estratificacion,Fluida,3.5,103.75,19.35,3.53,Sobreobturado
+I,5,Oclusal,ninguna,3.45,con_tejido,Bulk,Bulk,1.5,88.2,14.45,3.33,Equiobturado
+I,17,Oclusal,ninguna,3.84,con_tejido,Bulk,Con fibra de vidrio,1.0,75.31,14.73,3.4,Subobturado
+I,25,Lingual,ninguna,3.19,con_tejido,Estratificacion,Fluida,3.5,108.78,12.39,3.33,Equiobturado
+I,17,Bucal,ninguna,2.27,limpia,Bulk,Compuesta,2.0,119.12,15.38,2.14,Subobturado
+I,28,Oclusal,ninguna,2.89,limpia,Estratificacion,Con fibra de vidrio,1.0,74.21,10.49,2.27,Subobturado
+I,1,Oclusal,ninguna,1.33,limpia,Estratificacion,Bulk,1.5,81.13,2.45,0.84,Subobturado
+I,5,Lingual,ninguna,4.08,con_tejido,Bulk,Con fibra de vidrio,1.0,77.17,3.56,4.14,Equiobturado
+I,21,Oclusal,ninguna,1.4,con_tejido,Bulk,Bulk,1.5,95.52,2.35,1.41,Sobreobturado
+I,22,Lingual,ninguna,4.0,con_tejido,Bulk,Compuesta,2.0,116.91,11.6,4.14,Equiobturado
+I,20,Oclusal,ninguna,1.35,con_tejido,Estratificacion,Bulk,1.5,101.5,10.98,2.25,Sobreobturado
+I,13,Lingual,ninguna,2.1,con_tejido,Estratificacion,Bulk,1.5,110.04,0.3,2.68,Sobreobturado
+I,15,Oclusal,ninguna,3.8,limpia,Estratificacion,Compuesta,2.0,109.06,17.49,3.6,Equiobturado
+I,28,Bucal,ninguna,2.01,con_tejido,Bulk,Compuesta,2.0,97.35,17.35,2.16,Equiobturado
+I,20,Bucal,ninguna,3.21,limpia,Bulk,Con fibra de vidrio,1.0,108.62,0.3,3.22,Equiobturado
+I,30,Lingual,ninguna,4.28,con_tejido,Bulk,Con fibra de vidrio,1.0,97.28,2.88,4.14,Equiobturado
+I,25,Bucal,ninguna,2.67,con_tejido,Bulk,Compuesta,2.0,76.41,4.93,2.75,Equiobturado
+I,14,Bucal,ninguna,4.81,con_tejido,Estratificacion,Con fibra de vidrio,1.0,118.92,13.52,4.8,Equiobturado
+I,16,Oclusal,ninguna,4.11,con_tejido,Bulk,Compuesta,2.0,93.24,0.97,4.07,Equiobturado
+I,20,Oclusal,ninguna,2.43,con_tejido,Bulk,Con fibra de vidrio,1.0,83.94,8.4,2.41,Equiobturado
+I,5,Lingual,ninguna,1.57,limpia,Bulk,Con fibra de vidrio,1.0,60.24,2.99,2.47,Sobreobturado
+I,24,Bucal,ninguna,4.62,limpia,Estratificacion,Con fibra de vidrio,1.0,111.45,3.32,5.38,Sobreobturado
+I,29,Bucal,ninguna,4.04,con_tejido,Estratificacion,Con fibra de vidrio,1.0,109.34,19.44,3.53,Subobturado
+I,20,Bucal,ninguna,3.23,limpia,Bulk,Compuesta,2.0,72.63,8.33,3.1,Subobturado
+I,4,Oclusal,ninguna,3.21,con_tejido,Bulk,Compuesta,2.0,69.04,2.42,3.3,Equiobturado
+I,24,Lingual,ninguna,4.34,limpia,Bulk,Compuesta,2.0,110.77,18.23,3.71,Subobturado
+I,5,Lingual,ninguna,2.48,limpia,Bulk,Fluida,3.5,92.36,7.15,2.24,Subobturado
+I,13,Bucal,ninguna,1.09,con_tejido,Estratificacion,Fluida,3.5,85.02,16.17,1.01,Equiobturado
+I,25,Lingual,ninguna,2.46,limpia,Bulk,Compuesta,2.0,106.43,6.96,2.49,Sobreobturado
+I,12,Oclusal,ninguna,4.96,con_tejido,Bulk,Fluida,3.5,79.18,8.31,4.75,Subobturado
+I,2,Oclusal,ninguna,2.17,limpia,Bulk,Con fibra de vidrio,1.0,95.92,17.73,2.94,Sobreobturado
+I,1,Bucal,ninguna,3.32,con_tejido,Estratificacion,Con fibra de vidrio,1.0,87.42,16.9,3.25,Subobturado
+I,30,Bucal,ninguna,4.67,limpia,Estratificacion,Fluida,3.5,87.76,3.61,4.81,Equiobturado
+I,22,Bucal,ninguna,4.39,con_tejido,Bulk,Con fibra de vidrio,1.0,70.69,3.63,4.98,Sobreobturado
+I,2,Lingual,ninguna,1.54,limpia,Estratificacion,Bulk,1.5,95.56,1.27,1.32,Subobturado
+I,16,Oclusal,ninguna,1.42,limpia,Estratificacion,Con fibra de vidrio,1.0,112.82,13.97,1.17,Subobturado
+I,11,Lingual,ninguna,3.38,limpia,Estratificacion,Con fibra de vidrio,1.0,93.63,2.28,2.74,Subobturado
+I,18,Lingual,ninguna,4.12,limpia,Bulk,Bulk,1.5,74.53,7.75,4.68,Sobreobturado
+I,26,Bucal,ninguna,4.5,con_tejido,Bulk,Fluida,3.5,117.13,12.27,4.5,Equiobturado
+I,18,Oclusal,ninguna,3.68,con_tejido,Bulk,Bulk,1.5,107.48,17.95,3.72,Equiobturado
+I,32,Lingual,ninguna,4.71,con_tejido,Estratificacion,Compuesta,2.0,82.2,8.38,5.17,Sobreobturado
+I,14,Oclusal,ninguna,2.05,con_tejido,Estratificacion,Con fibra de vidrio,1.0,118.76,20.41,1.92,Equiobturado
+I,31,Lingual,ninguna,1.22,limpia,Estratificacion,Bulk,1.5,72.94,0.09,1.24,Equiobturado
+I,31,Bucal,ninguna,1.9,limpia,Bulk,Compuesta,2.0,109.21,21.22,1.82,Equiobturado
+I,5,Oclusal,ninguna,4.71,con_tejido,Bulk,Bulk,1.5,113.43,15.86,5.37,Sobreobturado
+I,29,Lingual,ninguna,3.87,con_tejido,Estratificacion,Compuesta,2.0,79.24,10.69,4.07,Sobreobturado
+I,31,Lingual,ninguna,4.13,con_tejido,Bulk,Bulk,1.5,77.51,2.38,3.34,Subobturado
+I,22,Bucal,ninguna,2.09,con_tejido,Estratificacion,Fluida,3.5,118.66,8.36,2.07,Subobturado
+I,13,Oclusal,ninguna,3.26,con_tejido,Bulk,Bulk,1.5,80.45,12.02,4.17,Sobreobturado
+I,27,Lingual,ninguna,4.46,limpia,Bulk,Compuesta,2.0,82.07,7.91,4.33,Subobturado
+I,14,Lingual,ninguna,2.97,con_tejido,Estratificacion,Fluida,3.5,74.73,1.15,2.86,Equiobturado
+I,13,Bucal,ninguna,2.58,limpia,Bulk,Compuesta,2.0,96.74,4.43,3.21,Sobreobturado
+I,20,Bucal,ninguna,4.21,limpia,Estratificacion,Compuesta,2.0,74.17,6.36,4.01,Subobturado
+I,12,Bucal,ninguna,2.79,con_tejido,Estratificacion,Compuesta,2.0,68.7,2.47,2.72,Equiobturado
+I,24,Lingual,ninguna,4.13,limpia,Bulk,Fluida,3.5,116.81,1.63,4.1,Equiobturado
+I,9,Bucal,ninguna,4.83,limpia,Bulk,Compuesta,2.0,86.04,16.09,4.38,Subobturado
+I,18,Oclusal,ninguna,3.77,limpia,Bulk,Con fibra de vidrio,1.0,90.55,14.33,3.68,Subobturado
+I,17,Lingual,ninguna,4.04,limpia,Bulk,Compuesta,2.0,96.55,10.05,3.9,Equiobturado
+I,23,Bucal,ninguna,2.23,con_tejido,Bulk,Bulk,1.5,88.59,0.13,1.75,Subobturado
+I,4,Lingual,ninguna,2.24,limpia,Estratificacion,Bulk,1.5,115.07,10.79,3.2,Sobreobturado
+I,12,Oclusal,ninguna,1.16,con_tejido,Estratificacion,Fluida,3.5,112.52,16.89,1.67,Sobreobturado
+I,10,Lingual,ninguna,1.96,limpia,Estratificacion,Bulk,1.5,116.52,20.18,2.94,Sobreobturado
+I,8,Lingual,ninguna,2.14,con_tejido,Bulk,Fluida,3.5,119.8,14.45,1.28,Subobturado
+I,32,Lingual,ninguna,3.87,limpia,Bulk,Fluida,3.5,99.0,6.71,4.62,Sobreobturado
+I,23,Lingual,ninguna,3.14,limpia,Estratificacion,Bulk,1.5,94.67,9.91,2.55,Subobturado
+I,3,Oclusal,ninguna,1.03,con_tejido,Bulk,Con fibra de vidrio,1.0,105.86,17.43,1.36,Sobreobturado
+I,3,Oclusal,ninguna,1.09,limpia,Bulk,Con fibra de vidrio,1.0,67.47,12.25,1.11,Equiobturado
+I,17,Oclusal,ninguna,4.19,limpia,Bulk,Compuesta,2.0,114.71,13.03,4.21,Equiobturado
+I,25,Lingual,ninguna,3.34,con_tejido,Bulk,Bulk,1.5,105.25,0.66,2.65,Subobturado
+I,10,Lingual,ninguna,4.95,limpia,Bulk,Fluida,3.5,87.66,5.06,5.02,Equiobturado
+I,3,Oclusal,ninguna,3.37,limpia,Estratificacion,Con fibra de vidrio,1.0,114.96,12.58,3.73,Sobreobturado
+I,24,Lingual,ninguna,2.11,limpia,Bulk,Bulk,1.5,66.82,3.82,2.27,Sobreobturado
+I,17,Lingual,ninguna,2.55,limpia,Estratificacion,Compuesta,2.0,93.68,7.58,2.51,Equiobturado
+I,32,Bucal,ninguna,1.88,limpia,Bulk,Con fibra de vidrio,1.0,87.8,14.55,2.51,Sobreobturado
+I,6,Lingual,ninguna,3.57,limpia,Bulk,Fluida,3.5,95.71,13.89,3.38,Equiobturado
+I,8,Bucal,ninguna,1.79,con_tejido,Bulk,Fluida,3.5,68.94,4.32,1.97,Equiobturado
+I,29,Oclusal,ninguna,3.59,con_tejido,Bulk,Bulk,1.5,91.34,3.64,3.66,Equiobturado
+I,1,Bucal,ninguna,3.32,limpia,Bulk,Fluida,3.5,67.67,2.29,3.63,Sobreobturado
+I,30,Bucal,ninguna,1.05,con_tejido,Bulk,Compuesta,2.0,110.69,21.78,1.93,Sobreobturado
+I,3,Bucal,ninguna,1.01,con_tejido,Bulk,Bulk,1.5,69.74,5.82,0.37,Subobturado
+I,15,Bucal,ninguna,1.49,con_tejido,Bulk,Bulk,1.5,105.77,8.84,1.53,Equiobturado
+I,30,Lingual,ninguna,3.05,limpia,Bulk,Compuesta,2.0,77.68,6.45,3.94,Sobreobturado
+I,19,Oclusal,ninguna,3.47,limpia,Estratificacion,Con fibra de vidrio,1.0,71.95,3.79,3.6,Equiobturado
+I,6,Lingual,ninguna,2.61,limpia,Bulk,Bulk,1.5,76.36,3.2,2.59,Equiobturado
+I,21,Bucal,ninguna,2.33,limpia,Estratificacion,Con fibra de vidrio,1.0,100.65,8.57,2.85,Sobreobturado
+I,2,Lingual,ninguna,3.43,limpia,Bulk,Con fibra de vidrio,1.0,87.31,16.26,3.45,Equiobturado
+I,24,Bucal,ninguna,4.24,limpia,Bulk,Bulk,1.5,83.17,7.69,4.55,Sobreobturado
+I,31,Lingual,ninguna,4.91,limpia,Bulk,Bulk,1.5,118.55,14.11,5.58,Sobreobturado
+I,15,Lingual,ninguna,2.83,con_tejido,Bulk,Bulk,1.5,66.53,3.47,2.78,Equiobturado
+I,1,Bucal,ninguna,1.27,limpia,Bulk,Fluida,3.5,110.79,3.96,1.22,Subobturado
+I,26,Bucal,ninguna,2.52,limpia,Bulk,Con fibra de vidrio,1.0,101.86,19.92,2.69,Sobreobturado
+I,29,Oclusal,ninguna,2.0,limpia,Estratificacion,Fluida,3.5,60.46,8.42,2.36,Sobreobturado
+I,25,Lingual,ninguna,3.02,limpia,Bulk,Compuesta,2.0,113.38,20.86,2.26,Subobturado
+I,5,Oclusal,ninguna,4.14,con_tejido,Bulk,Fluida,3.5,114.36,2.6,4.61,Sobreobturado
+I,4,Oclusal,ninguna,3.02,limpia,Bulk,Con fibra de vidrio,1.0,81.92,3.83,3.06,Equiobturado
+I,12,Bucal,ninguna,1.98,con_tejido,Estratificacion,Bulk,1.5,81.69,0.35,1.82,Equiobturado
+I,3,Bucal,ninguna,1.77,limpia,Estratificacion,Con fibra de vidrio,1.0,61.18,5.05,0.89,Subobturado
+I,28,Bucal,ninguna,1.64,con_tejido,Bulk,Bulk,1.5,86.35,6.52,1.5,Subobturado
+I,23,Lingual,ninguna,4.82,limpia,Estratificacion,Compuesta,2.0,101.41,5.21,4.41,Subobturado
+I,8,Lingual,ninguna,4.13,con_tejido,Estratificacion,Con fibra de vidrio,1.0,95.77,9.73,3.44,Subobturado
+I,31,Bucal,ninguna,1.06,con_tejido,Bulk,Compuesta,2.0,84.7,8.29,0.9,Equiobturado
+I,17,Lingual,ninguna,4.84,limpia,Estratificacion,Compuesta,2.0,95.37,16.6,5.26,Sobreobturado
+I,28,Lingual,ninguna,2.28,con_tejido,Estratificacion,Fluida,3.5,65.52,6.49,2.25,Equiobturado
+I,19,Bucal,ninguna,3.63,con_tejido,Bulk,Compuesta,2.0,66.29,8.04,4.4,Sobreobturado
+I,30,Oclusal,ninguna,1.69,con_tejido,Estratificacion,Bulk,1.5,82.17,8.6,1.83,Equiobturado
+I,29,Bucal,ninguna,1.83,limpia,Bulk,Con fibra de vidrio,1.0,118.55,17.64,1.74,Subobturado
+I,27,Bucal,ninguna,3.27,con_tejido,Bulk,Bulk,1.5,63.02,4.15,3.21,Subobturado
+I,15,Oclusal,ninguna,4.61,limpia,Bulk,Bulk,1.5,107.31,20.0,4.36,Subobturado
+I,18,Bucal,ninguna,2.85,con_tejido,Bulk,Compuesta,2.0,105.0,8.18,2.77,Equiobturado
+I,14,Oclusal,ninguna,4.24,limpia,Estratificacion,Bulk,1.5,105.68,3.62,4.19,Subobturado
+I,1,Bucal,ninguna,4.17,con_tejido,Bulk,Con fibra de vidrio,1.0,97.16,7.86,3.68,Subobturado
+I,14,Bucal,ninguna,2.82,con_tejido,Estratificacion,Con fibra de vidrio,1.0,77.98,15.34,2.81,Equiobturado
+I,25,Lingual,ninguna,2.73,limpia,Estratificacion,Con fibra de vidrio,1.0,74.39,5.56,2.6,Equiobturado
+I,30,Lingual,ninguna,2.5,con_tejido,Bulk,Con fibra de vidrio,1.0,71.31,12.64,3.33,Sobreobturado
+I,24,Lingual,ninguna,2.65,con_tejido,Bulk,Con fibra de vidrio,1.0,82.53,6.7,2.49,Equiobturado
+I,3,Lingual,ninguna,2.37,limpia,Estratificacion,Bulk,1.5,105.63,8.39,2.59,Sobreobturado
+I,19,Bucal,ninguna,1.2,limpia,Estratificacion,Compuesta,2.0,88.5,17.52,1.04,Equiobturado
+I,20,Oclusal,ninguna,4.97,limpia,Bulk,Con fibra de vidrio,1.0,75.76,13.6,5.14,Equiobturado
+I,25,Lingual,ninguna,3.08,con_tejido,Estratificacion,Compuesta,2.0,83.08,11.9,2.64,Subobturado
+I,6,Bucal,ninguna,4.99,limpia,Bulk,Fluida,3.5,101.71,5.42,5.23,Sobreobturado
+I,3,Lingual,ninguna,2.54,limpia,Bulk,Con fibra de vidrio,1.0,114.89,21.01,2.53,Subobturado
+I,4,Lingual,ninguna,1.86,con_tejido,Bulk,Bulk,1.5,108.31,6.51,1.26,Subobturado
+I,19,Lingual,ninguna,4.81,limpia,Bulk,Fluida,3.5,64.26,5.08,4.66,Equiobturado
+I,2,Oclusal,ninguna,2.46,limpia,Bulk,Con fibra de vidrio,1.0,71.58,0.1,2.4,Equiobturado
+I,19,Bucal,ninguna,1.3,con_tejido,Estratificacion,Con fibra de vidrio,1.0,114.24,21.7,1.49,Equiobturado
+I,13,Oclusal,ninguna,3.75,con_tejido,Bulk,Con fibra de vidrio,1.0,69.84,2.12,3.93,Sobreobturado
+I,14,Lingual,ninguna,1.44,con_tejido,Bulk,Con fibra de vidrio,1.0,79.1,12.83,1.85,Sobreobturado
+I,20,Bucal,ninguna,2.0,con_tejido,Estratificacion,Fluida,3.5,112.22,0.4,1.87,Equiobturado
+I,7,Bucal,ninguna,3.62,limpia,Bulk,Compuesta,2.0,74.54,1.0,4.01,Sobreobturado
+I,1,Oclusal,ninguna,3.21,con_tejido,Bulk,Compuesta,2.0,104.71,17.81,3.16,Equiobturado
+I,12,Lingual,ninguna,2.15,con_tejido,Estratificacion,Bulk,1.5,66.14,6.22,1.91,Subobturado
+I,32,Oclusal,ninguna,3.8,limpia,Estratificacion,Compuesta,2.0,89.25,7.93,3.62,Subobturado
+I,2,Oclusal,ninguna,2.97,con_tejido,Estratificacion,Con fibra de vidrio,1.0,103.19,15.52,2.54,Subobturado
+I,6,Lingual,ninguna,4.97,limpia,Bulk,Compuesta,2.0,95.2,13.36,4.92,Equiobturado
+I,15,Lingual,ninguna,2.21,limpia,Estratificacion,Con fibra de vidrio,1.0,81.85,10.99,2.91,Sobreobturado
+I,31,Lingual,ninguna,1.37,limpia,Bulk,Bulk,1.5,89.57,6.21,1.29,Equiobturado
+I,7,Bucal,ninguna,4.18,con_tejido,Estratificacion,Bulk,1.5,82.68,10.29,4.21,Equiobturado
+I,21,Oclusal,ninguna,3.44,con_tejido,Bulk,Compuesta,2.0,76.21,9.59,3.56,Equiobturado
+I,8,Lingual,ninguna,3.02,limpia,Bulk,Con fibra de vidrio,1.0,88.2,6.67,3.05,Equiobturado
+I,32,Oclusal,ninguna,1.51,con_tejido,Bulk,Compuesta,2.0,113.4,5.62,0.84,Subobturado
+I,10,Bucal,ninguna,2.1,limpia,Bulk,Bulk,1.5,83.45,11.45,2.03,Equiobturado
+I,3,Oclusal,ninguna,2.77,limpia,Bulk,Fluida,3.5,88.8,2.07,2.23,Subobturado
+I,29,Bucal,ninguna,1.71,con_tejido,Estratificacion,Fluida,3.5,65.2,4.03,2.03,Sobreobturado
+I,12,Oclusal,ninguna,3.68,limpia,Estratificacion,Fluida,3.5,95.41,0.28,4.65,Sobreobturado
+I,19,Lingual,ninguna,1.27,limpia,Estratificacion,Compuesta,2.0,111.63,15.54,1.57,Sobreobturado
+I,24,Lingual,ninguna,4.54,con_tejido,Bulk,Fluida,3.5,65.31,6.77,4.03,Subobturado
+I,18,Oclusal,ninguna,1.77,con_tejido,Bulk,Fluida,3.5,75.48,4.68,2.73,Sobreobturado
+I,25,Bucal,ninguna,2.21,limpia,Estratificacion,Fluida,3.5,110.34,14.89,2.43,Sobreobturado
+I,17,Oclusal,ninguna,4.96,con_tejido,Estratificacion,Con fibra de vidrio,1.0,112.57,0.1,4.24,Subobturado
+I,10,Bucal,ninguna,3.7,limpia,Estratificacion,Fluida,3.5,61.6,6.96,3.69,Equiobturado
+I,13,Oclusal,ninguna,3.64,limpia,Bulk,Fluida,3.5,60.19,3.72,4.02,Sobreobturado
+I,4,Oclusal,ninguna,2.41,con_tejido,Estratificacion,Con fibra de vidrio,1.0,104.28,2.99,2.47,Equiobturado
+I,6,Bucal,ninguna,4.63,limpia,Bulk,Bulk,1.5,103.53,2.17,3.79,Subobturado
+I,14,Lingual,ninguna,2.77,con_tejido,Bulk,Fluida,3.5,101.82,0.62,2.08,Subobturado
+I,2,Oclusal,ninguna,4.47,con_tejido,Bulk,Bulk,1.5,63.4,10.57,4.62,Equiobturado
+I,5,Lingual,ninguna,1.7,limpia,Estratificacion,Con fibra de vidrio,1.0,70.32,7.06,2.43,Sobreobturado
+I,21,Bucal,ninguna,1.38,limpia,Bulk,Fluida,3.5,101.94,15.83,1.44,Equiobturado
+I,6,Bucal,ninguna,3.74,limpia,Estratificacion,Compuesta,2.0,63.41,7.82,4.36,Sobreobturado
+I,18,Bucal,ninguna,1.0,limpia,Estratificacion,Bulk,1.5,95.84,9.13,1.06,Equiobturado
+I,15,Bucal,ninguna,1.65,con_tejido,Bulk,Fluida,3.5,114.3,16.04,1.23,Subobturado
+I,19,Bucal,ninguna,4.31,con_tejido,Estratificacion,Bulk,1.5,113.75,8.03,3.35,Subobturado
+I,32,Bucal,ninguna,3.0,con_tejido,Estratificacion,Fluida,3.5,104.41,10.93,2.64,Subobturado
+I,32,Oclusal,ninguna,3.31,limpia,Bulk,Compuesta,2.0,68.25,1.78,2.93,Subobturado
+I,12,Oclusal,ninguna,3.33,con_tejido,Estratificacion,Fluida,3.5,119.33,12.5,2.74,Subobturado
+I,6,Bucal,ninguna,4.72,limpia,Bulk,Bulk,1.5,117.25,22.47,4.91,Equiobturado
+I,22,Lingual,ninguna,1.93,limpia,Bulk,Bulk,1.5,96.05,12.55,2.85,Sobreobturado
+I,6,Lingual,ninguna,3.75,con_tejido,Bulk,Compuesta,2.0,91.19,13.02,3.06,Subobturado
+I,18,Lingual,ninguna,2.12,limpia,Bulk,Fluida,3.5,85.87,6.02,1.32,Subobturado
+I,14,Lingual,ninguna,1.96,limpia,Estratificacion,Compuesta,2.0,98.14,17.74,1.77,Equiobturado
+I,13,Lingual,ninguna,3.45,limpia,Estratificacion,Bulk,1.5,118.73,16.3,3.41,Subobturado
+I,20,Lingual,ninguna,4.5,con_tejido,Estratificacion,Bulk,1.5,89.04,1.85,3.86,Subobturado
+I,31,Bucal,ninguna,3.4,limpia,Bulk,Bulk,1.5,83.0,13.72,4.32,Sobreobturado
+I,20,Bucal,ninguna,2.83,limpia,Bulk,Compuesta,2.0,61.11,6.91,1.99,Subobturado
+I,3,Lingual,ninguna,1.16,limpia,Bulk,Con fibra de vidrio,1.0,89.0,13.56,0.91,Subobturado
+I,22,Bucal,ninguna,1.76,con_tejido,Estratificacion,Compuesta,2.0,106.12,6.05,1.25,Subobturado
+I,3,Oclusal,ninguna,3.31,limpia,Bulk,Compuesta,2.0,71.44,5.93,3.31,Equiobturado
+I,4,Bucal,ninguna,2.31,limpia,Bulk,Fluida,3.5,110.56,20.13,2.48,Equiobturado
+I,25,Bucal,ninguna,4.24,limpia,Bulk,Compuesta,2.0,107.4,11.79,4.7,Sobreobturado
+I,7,Bucal,ninguna,4.77,con_tejido,Estratificacion,Fluida,3.5,108.86,15.67,4.53,Subobturado
+I,15,Lingual,ninguna,4.84,limpia,Estratificacion,Fluida,3.5,85.13,4.89,4.96,Equiobturado
+I,25,Bucal,ninguna,3.51,con_tejido,Estratificacion,Bulk,1.5,83.03,14.8,3.06,Subobturado
+I,17,Lingual,ninguna,4.17,limpia,Estratificacion,Fluida,3.5,95.46,2.78,4.0,Equiobturado
+I,10,Lingual,ninguna,1.31,con_tejido,Estratificacion,Compuesta,2.0,75.88,0.34,1.43,Sobreobturado
+I,18,Oclusal,ninguna,4.14,con_tejido,Bulk,Bulk,1.5,72.09,9.55,4.78,Sobreobturado
+I,28,Lingual,ninguna,3.61,con_tejido,Estratificacion,Con fibra de vidrio,1.0,69.02,3.58,3.17,Subobturado
+I,31,Bucal,ninguna,3.38,con_tejido,Estratificacion,Bulk,1.5,69.79,10.49,4.08,Sobreobturado
+I,25,Bucal,ninguna,2.75,limpia,Bulk,Compuesta,2.0,105.38,18.14,2.94,Equiobturado
+I,12,Lingual,ninguna,3.13,limpia,Estratificacion,Compuesta,2.0,68.78,4.92,2.16,Subobturado
+I,17,Bucal,ninguna,3.27,limpia,Bulk,Compuesta,2.0,73.73,9.72,3.63,Sobreobturado
+I,13,Bucal,ninguna,2.73,con_tejido,Estratificacion,Fluida,3.5,84.08,3.53,3.25,Sobreobturado
+I,22,Bucal,ninguna,2.47,limpia,Bulk,Compuesta,2.0,102.35,8.12,1.61,Subobturado
+I,19,Oclusal,ninguna,2.38,con_tejido,Estratificacion,Bulk,1.5,91.35,7.76,2.47,Equiobturado
+I,18,Bucal,ninguna,4.07,con_tejido,Estratificacion,Fluida,3.5,89.93,14.38,3.31,Subobturado
+I,31,Oclusal,ninguna,4.03,limpia,Estratificacion,Bulk,1.5,67.65,6.52,4.06,Equiobturado
+I,31,Oclusal,ninguna,3.78,con_tejido,Bulk,Compuesta,2.0,87.14,0.17,3.65,Equiobturado
+I,8,Lingual,ninguna,3.63,limpia,Estratificacion,Fluida,3.5,80.81,14.56,3.67,Equiobturado
+I,11,Lingual,ninguna,3.78,limpia,Estratificacion,Compuesta,2.0,80.9,14.38,3.76,Subobturado
+I,31,Bucal,ninguna,2.04,limpia,Bulk,Compuesta,2.0,98.12,12.03,2.09,Equiobturado
+I,4,Lingual,ninguna,1.05,limpia,Estratificacion,Compuesta,2.0,106.52,19.02,1.07,Equiobturado
+I,30,Oclusal,ninguna,4.42,con_tejido,Bulk,Bulk,1.5,87.04,7.74,4.35,Equiobturado
+I,14,Oclusal,ninguna,4.37,limpia,Estratificacion,Compuesta,2.0,86.47,15.12,4.28,Subobturado
+I,2,Lingual,ninguna,4.43,con_tejido,Estratificacion,Con fibra de vidrio,1.0,96.94,14.25,4.92,Sobreobturado
+I,1,Bucal,ninguna,1.58,limpia,Estratificacion,Bulk,1.5,81.56,9.96,1.52,Subobturado
+I,17,Oclusal,ninguna,2.72,limpia,Bulk,Compuesta,2.0,63.05,6.68,3.17,Sobreobturado
+I,17,Lingual,ninguna,3.38,con_tejido,Bulk,Bulk,1.5,108.29,19.58,3.37,Equiobturado
+I,30,Lingual,ninguna,3.9,limpia,Estratificacion,Con fibra de vidrio,1.0,75.4,14.25,4.02,Equiobturado
+I,23,Lingual,ninguna,1.16,con_tejido,Estratificacion,Con fibra de vidrio,1.0,73.97,12.51,1.82,Sobreobturado
+I,7,Bucal,ninguna,4.56,con_tejido,Bulk,Fluida,3.5,71.06,9.14,3.72,Subobturado
+I,18,Oclusal,ninguna,4.6,con_tejido,Estratificacion,Fluida,3.5,81.22,1.92,4.48,Subobturado
+I,19,Oclusal,ninguna,4.28,con_tejido,Estratificacion,Con fibra de vidrio,1.0,80.79,12.49,5.21,Sobreobturado
+I,23,Bucal,ninguna,2.62,con_tejido,Estratificacion,Con fibra de vidrio,1.0,116.15,14.91,2.01,Subobturado
+I,32,Lingual,ninguna,2.58,limpia,Bulk,Con fibra de vidrio,1.0,105.5,13.19,2.64,Equiobturado
+I,19,Bucal,ninguna,4.77,con_tejido,Bulk,Bulk,1.5,65.43,0.9,4.88,Equiobturado
+I,16,Oclusal,ninguna,4.51,con_tejido,Bulk,Bulk,1.5,118.08,4.68,4.3,Subobturado
+I,18,Oclusal,ninguna,4.21,limpia,Bulk,Compuesta,2.0,106.37,5.52,4.07,Equiobturado
+I,4,Lingual,ninguna,2.66,con_tejido,Estratificacion,Fluida,3.5,78.15,12.03,2.79,Equiobturado
+I,26,Lingual,ninguna,1.17,con_tejido,Estratificacion,Con fibra de vidrio,1.0,98.12,18.46,1.14,Equiobturado
+I,13,Bucal,ninguna,3.39,con_tejido,Estratificacion,Compuesta,2.0,104.65,17.15,4.13,Sobreobturado
+I,20,Lingual,ninguna,1.7,con_tejido,Estratificacion,Fluida,3.5,109.67,21.68,1.89,Equiobturado
+I,9,Lingual,ninguna,2.58,limpia,Bulk,Con fibra de vidrio,1.0,86.24,2.12,3.08,Sobreobturado
+I,20,Lingual,ninguna,1.73,con_tejido,Bulk,Compuesta,2.0,102.84,12.58,2.02,Sobreobturado
+I,31,Oclusal,ninguna,4.33,limpia,Bulk,Bulk,1.5,111.41,15.18,3.74,Subobturado
+I,21,Bucal,ninguna,1.5,limpia,Bulk,Compuesta,2.0,90.85,14.07,0.8,Subobturado
+I,4,Lingual,ninguna,1.94,con_tejido,Estratificacion,Fluida,3.5,113.74,1.37,1.34,Subobturado
+I,16,Bucal,ninguna,3.36,limpia,Estratificacion,Compuesta,2.0,64.49,1.33,3.81,Sobreobturado
+I,30,Oclusal,ninguna,2.38,limpia,Bulk,Fluida,3.5,112.41,15.7,3.32,Sobreobturado
+I,30,Oclusal,ninguna,3.41,con_tejido,Estratificacion,Compuesta,2.0,98.8,17.99,3.64,Sobreobturado
+I,2,Bucal,ninguna,3.44,limpia,Estratificacion,Bulk,1.5,110.39,18.63,3.52,Equiobturado
+I,1,Lingual,ninguna,4.63,con_tejido,Estratificacion,Con fibra de vidrio,1.0,77.66,5.92,4.85,Sobreobturado
+I,8,Bucal,ninguna,4.69,con_tejido,Bulk,Con fibra de vidrio,1.0,119.88,15.19,4.92,Sobreobturado
+I,29,Oclusal,ninguna,3.29,con_tejido,Estratificacion,Fluida,3.5,100.38,4.98,2.4,Subobturado
+I,25,Lingual,ninguna,1.12,con_tejido,Estratificacion,Fluida,3.5,100.3,7.71,0.38,Subobturado
+I,30,Lingual,ninguna,4.0,con_tejido,Bulk,Con fibra de vidrio,1.0,113.33,12.61,3.86,Subobturado
+I,22,Bucal,ninguna,3.42,con_tejido,Estratificacion,Fluida,3.5,69.75,2.14,3.4,Subobturado
+I,7,Bucal,ninguna,2.54,limpia,Bulk,Con fibra de vidrio,1.0,116.15,6.38,2.88,Sobreobturado
+I,16,Oclusal,ninguna,3.26,limpia,Estratificacion,Fluida,3.5,60.13,10.22,2.48,Subobturado
+I,19,Lingual,ninguna,4.57,con_tejido,Bulk,Fluida,3.5,63.04,9.03,4.76,Equiobturado
+I,3,Bucal,ninguna,2.15,limpia,Bulk,Con fibra de vidrio,1.0,92.2,16.24,2.01,Equiobturado
+I,15,Oclusal,ninguna,2.14,con_tejido,Bulk,Compuesta,2.0,93.68,5.34,2.53,Sobreobturado
+I,28,Oclusal,ninguna,4.53,con_tejido,Bulk,Bulk,1.5,114.48,1.72,5.51,Sobreobturado
+I,11,Bucal,ninguna,3.62,con_tejido,Bulk,Con fibra de vidrio,1.0,69.87,5.91,4.61,Sobreobturado
+I,14,Bucal,ninguna,1.18,limpia,Bulk,Compuesta,2.0,90.62,2.62,1.63,Sobreobturado
+I,12,Lingual,ninguna,4.57,limpia,Bulk,Compuesta,2.0,114.39,4.72,4.49,Equiobturado
+I,3,Lingual,ninguna,4.51,con_tejido,Estratificacion,Con fibra de vidrio,1.0,73.97,2.28,4.4,Subobturado
+I,29,Bucal,ninguna,2.55,limpia,Estratificacion,Fluida,3.5,105.6,4.25,2.7,Sobreobturado
+I,14,Bucal,ninguna,1.62,con_tejido,Estratificacion,Compuesta,2.0,112.59,1.64,2.29,Sobreobturado
+I,32,Lingual,ninguna,4.56,con_tejido,Estratificacion,Con fibra de vidrio,1.0,97.07,6.73,3.96,Subobturado
+I,19,Oclusal,ninguna,2.47,limpia,Bulk,Fluida,3.5,75.97,12.98,2.37,Equiobturado
+I,32,Bucal,ninguna,2.74,limpia,Estratificacion,Fluida,3.5,91.71,1.75,2.59,Subobturado
+I,3,Oclusal,ninguna,1.6,limpia,Bulk,Compuesta,2.0,70.77,9.6,1.91,Sobreobturado
+I,19,Lingual,ninguna,4.41,limpia,Estratificacion,Fluida,3.5,109.43,18.23,4.37,Equiobturado
+I,9,Lingual,ninguna,2.51,limpia,Estratificacion,Con fibra de vidrio,1.0,66.58,10.95,3.5,Sobreobturado
+I,19,Oclusal,ninguna,2.2,con_tejido,Estratificacion,Fluida,3.5,82.27,14.93,3.08,Sobreobturado
+I,18,Bucal,ninguna,1.91,limpia,Estratificacion,Fluida,3.5,105.52,12.97,0.99,Subobturado
+I,4,Oclusal,ninguna,4.95,limpia,Bulk,Fluida,3.5,99.76,6.46,4.27,Subobturado
+I,30,Lingual,ninguna,1.32,limpia,Estratificacion,Con fibra de vidrio,1.0,71.36,10.42,1.11,Subobturado
+I,26,Lingual,ninguna,4.36,con_tejido,Bulk,Fluida,3.5,112.37,21.53,4.46,Sobreobturado
+I,30,Bucal,ninguna,1.09,limpia,Estratificacion,Compuesta,2.0,89.34,1.95,0.62,Subobturado
+I,30,Bucal,ninguna,4.81,con_tejido,Estratificacion,Bulk,1.5,118.71,22.43,4.1,Subobturado
+I,10,Lingual,ninguna,1.39,con_tejido,Estratificacion,Fluida,3.5,92.94,9.94,2.02,Sobreobturado
+I,1,Lingual,ninguna,1.67,limpia,Bulk,Bulk,1.5,68.17,8.4,0.85,Subobturado
+I,26,Lingual,ninguna,2.35,limpia,Estratificacion,Con fibra de vidrio,1.0,60.46,0.5,3.16,Sobreobturado
+I,13,Lingual,ninguna,2.38,con_tejido,Estratificacion,Fluida,3.5,112.92,9.41,3.08,Sobreobturado
+I,26,Lingual,ninguna,4.85,limpia,Bulk,Bulk,1.5,91.01,3.82,4.7,Equiobturado
+I,31,Lingual,ninguna,2.93,con_tejido,Estratificacion,Fluida,3.5,99.98,2.86,2.33,Subobturado
+I,31,Lingual,ninguna,3.83,con_tejido,Bulk,Fluida,3.5,62.04,6.55,3.88,Equiobturado
+I,4,Bucal,ninguna,3.12,con_tejido,Estratificacion,Compuesta,2.0,94.47,15.36,3.24,Equiobturado
+I,20,Bucal,ninguna,2.05,con_tejido,Estratificacion,Con fibra de vidrio,1.0,114.79,15.35,1.57,Subobturado
+I,31,Oclusal,ninguna,2.06,limpia,Bulk,Con fibra de vidrio,1.0,62.2,1.36,1.54,Subobturado
+I,28,Lingual,ninguna,4.38,limpia,Estratificacion,Fluida,3.5,109.59,21.72,3.53,Subobturado
+I,4,Lingual,ninguna,2.73,con_tejido,Bulk,Compuesta,2.0,78.36,9.19,2.62,Equiobturado
+I,23,Bucal,ninguna,3.56,con_tejido,Bulk,Con fibra de vidrio,1.0,95.82,7.49,3.76,Sobreobturado
+I,13,Lingual,ninguna,3.78,limpia,Bulk,Bulk,1.5,119.53,18.56,2.83,Subobturado
+I,16,Lingual,ninguna,2.22,con_tejido,Bulk,Con fibra de vidrio,1.0,112.86,9.07,2.08,Equiobturado
+I,26,Lingual,ninguna,4.22,limpia,Bulk,Con fibra de vidrio,1.0,107.71,5.03,4.06,Subobturado
+I,9,Bucal,ninguna,2.96,con_tejido,Estratificacion,Bulk,1.5,71.52,9.45,3.07,Sobreobturado
+I,3,Lingual,ninguna,3.02,con_tejido,Bulk,Con fibra de vidrio,1.0,105.22,12.81,2.99,Subobturado
+I,3,Oclusal,ninguna,4.71,con_tejido,Bulk,Fluida,3.5,81.31,16.11,4.69,Equiobturado
+I,18,Lingual,ninguna,1.71,limpia,Bulk,Compuesta,2.0,63.54,11.09,1.66,Equiobturado
+I,32,Bucal,ninguna,2.13,limpia,Bulk,Bulk,1.5,70.8,3.27,2.19,Equiobturado
+I,27,Lingual,ninguna,3.91,limpia,Bulk,Bulk,1.5,62.68,6.94,4.44,Sobreobturado
+I,13,Oclusal,ninguna,4.28,con_tejido,Estratificacion,Con fibra de vidrio,1.0,102.39,14.58,3.83,Subobturado
+I,10,Bucal,ninguna,3.69,con_tejido,Bulk,Con fibra de vidrio,1.0,70.89,9.98,4.59,Sobreobturado
+I,16,Bucal,ninguna,2.1,limpia,Bulk,Fluida,3.5,95.57,9.11,2.74,Sobreobturado
+I,31,Oclusal,ninguna,2.61,con_tejido,Estratificacion,Con fibra de vidrio,1.0,115.95,1.23,2.2,Subobturado
+I,16,Lingual,ninguna,2.23,limpia,Estratificacion,Bulk,1.5,106.33,5.96,2.38,Equiobturado
+I,6,Bucal,ninguna,3.78,limpia,Estratificacion,Con fibra de vidrio,1.0,93.73,10.44,2.96,Subobturado
+I,32,Oclusal,ninguna,4.78,con_tejido,Bulk,Compuesta,2.0,100.67,0.99,3.9,Subobturado
+I,6,Lingual,ninguna,4.59,limpia,Estratificacion,Bulk,1.5,64.53,3.61,4.44,Subobturado
+I,31,Lingual,ninguna,3.6,con_tejido,Estratificacion,Con fibra de vidrio,1.0,87.02,13.02,3.43,Equiobturado
+I,16,Oclusal,ninguna,1.31,con_tejido,Estratificacion,Fluida,3.5,112.14,12.09,0.46,Subobturado
+I,18,Oclusal,ninguna,3.41,con_tejido,Bulk,Fluida,3.5,119.18,11.6,3.17,Subobturado
+I,1,Lingual,ninguna,1.54,limpia,Bulk,Bulk,1.5,95.48,8.6,2.53,Sobreobturado
+I,14,Bucal,ninguna,4.71,limpia,Bulk,Compuesta,2.0,103.95,12.07,5.66,Sobreobturado
+I,16,Bucal,ninguna,4.92,limpia,Estratificacion,Fluida,3.5,62.94,7.58,5.53,Sobreobturado
+I,13,Bucal,ninguna,3.74,con_tejido,Bulk,Bulk,1.5,62.16,5.91,3.32,Subobturado
+I,28,Bucal,ninguna,2.89,con_tejido,Bulk,Compuesta,2.0,95.85,15.52,2.28,Subobturado
+I,6,Bucal,ninguna,1.21,con_tejido,Bulk,Fluida,3.5,92.8,0.51,0.93,Subobturado
+I,8,Bucal,ninguna,4.53,con_tejido,Estratificacion,Fluida,3.5,93.77,11.72,3.77,Subobturado
+I,22,Lingual,ninguna,3.12,con_tejido,Bulk,Bulk,1.5,92.96,18.46,3.57,Sobreobturado
+I,13,Bucal,ninguna,2.73,con_tejido,Bulk,Fluida,3.5,98.27,5.67,2.88,Equiobturado
+I,19,Oclusal,ninguna,4.17,con_tejido,Estratificacion,Con fibra de vidrio,1.0,74.28,5.92,4.6,Sobreobturado
+I,28,Bucal,ninguna,4.43,con_tejido,Bulk,Con fibra de vidrio,1.0,117.77,5.96,4.61,Equiobturado
+I,3,Bucal,ninguna,1.84,limpia,Bulk,Bulk,1.5,107.83,17.29,1.02,Subobturado
+I,7,Lingual,ninguna,3.27,limpia,Estratificacion,Fluida,3.5,60.8,10.08,3.03,Subobturado
+I,30,Bucal,ninguna,4.25,con_tejido,Bulk,Compuesta,2.0,94.34,14.63,4.11,Subobturado
+I,23,Lingual,ninguna,2.6,con_tejido,Estratificacion,Compuesta,2.0,88.09,12.51,2.52,Equiobturado
+I,15,Bucal,ninguna,1.68,con_tejido,Bulk,Con fibra de vidrio,1.0,115.28,19.56,2.38,Sobreobturado
+I,11,Lingual,ninguna,2.14,con_tejido,Estratificacion,Bulk,1.5,74.73,1.3,2.61,Sobreobturado
+I,22,Bucal,ninguna,4.56,limpia,Bulk,Compuesta,2.0,119.35,0.56,3.59,Subobturado
+I,20,Bucal,ninguna,1.35,con_tejido,Estratificacion,Compuesta,2.0,105.64,3.94,1.39,Sobreobturado
+I,12,Oclusal,ninguna,2.42,con_tejido,Estratificacion,Bulk,1.5,106.58,18.29,1.85,Subobturado
+I,29,Bucal,ninguna,3.99,limpia,Bulk,Fluida,3.5,63.91,12.18,3.12,Subobturado
+I,1,Bucal,ninguna,3.99,con_tejido,Bulk,Bulk,1.5,108.22,2.08,3.32,Subobturado
+I,23,Lingual,ninguna,3.86,limpia,Bulk,Fluida,3.5,81.87,7.53,4.72,Sobreobturado
+I,31,Bucal,ninguna,3.01,limpia,Estratificacion,Fluida,3.5,100.6,15.3,2.04,Subobturado
+I,11,Bucal,ninguna,4.72,limpia,Estratificacion,Bulk,1.5,109.65,5.48,4.58,Equiobturado
+I,14,Bucal,ninguna,1.03,con_tejido,Estratificacion,Bulk,1.5,102.84,13.67,1.01,Equiobturado
+I,29,Lingual,ninguna,2.75,con_tejido,Estratificacion,Fluida,3.5,118.75,8.72,2.78,Equiobturado
+I,28,Lingual,ninguna,3.33,con_tejido,Bulk,Con fibra de vidrio,1.0,72.86,1.71,4.0,Sobreobturado
+I,20,Lingual,ninguna,2.36,limpia,Bulk,Compuesta,2.0,105.45,5.46,2.72,Sobreobturado
+I,2,Bucal,ninguna,4.01,con_tejido,Bulk,Compuesta,2.0,99.57,1.96,3.35,Subobturado
+I,15,Bucal,ninguna,3.45,con_tejido,Estratificacion,Bulk,1.5,62.58,8.98,4.32,Sobreobturado
+I,28,Bucal,ninguna,2.94,con_tejido,Estratificacion,Bulk,1.5,113.57,20.27,3.76,Sobreobturado
+I,21,Oclusal,ninguna,1.32,con_tejido,Bulk,Compuesta,2.0,65.02,3.62,2.0,Sobreobturado
+I,10,Lingual,ninguna,3.41,con_tejido,Estratificacion,Bulk,1.5,98.08,14.88,3.39,Equiobturado
+I,5,Oclusal,ninguna,3.64,con_tejido,Bulk,Con fibra de vidrio,1.0,87.75,9.74,3.78,Equiobturado
+I,19,Lingual,ninguna,1.89,con_tejido,Bulk,Bulk,1.5,79.1,6.89,1.98,Equiobturado
+I,14,Oclusal,ninguna,2.63,con_tejido,Estratificacion,Fluida,3.5,82.87,6.46,2.59,Equiobturado
+I,16,Oclusal,ninguna,2.63,limpia,Estratificacion,Fluida,3.5,110.84,15.32,2.95,Sobreobturado
+I,11,Bucal,ninguna,2.66,con_tejido,Bulk,Bulk,1.5,111.03,5.21,3.19,Sobreobturado
+I,11,Bucal,ninguna,1.8,con_tejido,Estratificacion,Compuesta,2.0,84.9,12.82,1.79,Equiobturado
+I,28,Lingual,ninguna,2.92,con_tejido,Estratificacion,Fluida,3.5,88.22,1.45,2.68,Subobturado
+I,11,Bucal,ninguna,3.35,limpia,Bulk,Con fibra de vidrio,1.0,94.6,14.84,4.23,Sobreobturado
+I,4,Bucal,ninguna,4.8,con_tejido,Bulk,Fluida,3.5,69.1,0.03,5.31,Sobreobturado
+I,17,Oclusal,ninguna,1.71,limpia,Estratificacion,Compuesta,2.0,88.94,9.86,2.53,Sobreobturado
+I,9,Bucal,ninguna,2.21,limpia,Estratificacion,Compuesta,2.0,81.14,10.7,2.32,Sobreobturado
+I,24,Bucal,ninguna,4.08,limpia,Bulk,Fluida,3.5,95.98,17.19,3.49,Subobturado
+I,29,Bucal,ninguna,3.3,con_tejido,Bulk,Con fibra de vidrio,1.0,101.96,10.52,3.45,Sobreobturado
+I,20,Oclusal,ninguna,4.24,con_tejido,Estratificacion,Bulk,1.5,107.13,4.05,3.29,Subobturado
+I,28,Bucal,ninguna,1.56,con_tejido,Bulk,Bulk,1.5,80.51,9.45,0.67,Subobturado
+I,5,Oclusal,ninguna,1.55,limpia,Bulk,Compuesta,2.0,90.46,8.47,1.51,Equiobturado
+I,2,Bucal,ninguna,1.56,limpia,Estratificacion,Bulk,1.5,118.95,6.36,2.5,Sobreobturado
+I,8,Bucal,ninguna,2.59,con_tejido,Estratificacion,Compuesta,2.0,105.92,19.55,2.41,Equiobturado
+I,32,Oclusal,ninguna,2.33,con_tejido,Bulk,Fluida,3.5,83.96,8.38,2.27,Equiobturado
+I,15,Lingual,ninguna,4.94,limpia,Estratificacion,Compuesta,2.0,76.34,5.91,4.94,Equiobturado
+I,19,Bucal,ninguna,4.12,con_tejido,Bulk,Bulk,1.5,73.9,10.51,4.14,Equiobturado
+I,32,Oclusal,ninguna,1.22,con_tejido,Estratificacion,Bulk,1.5,105.43,9.03,1.68,Sobreobturado
+I,5,Oclusal,ninguna,4.13,limpia,Bulk,Fluida,3.5,64.81,10.62,5.0,Sobreobturado
+I,12,Lingual,ninguna,2.31,con_tejido,Estratificacion,Con fibra de vidrio,1.0,110.78,0.61,1.39,Subobturado
+I,14,Lingual,ninguna,2.75,limpia,Estratificacion,Compuesta,2.0,92.57,3.81,2.84,Sobreobturado
+I,12,Oclusal,ninguna,1.95,con_tejido,Estratificacion,Fluida,3.5,114.63,7.39,1.62,Subobturado
+I,8,Bucal,ninguna,3.36,con_tejido,Bulk,Bulk,1.5,60.35,3.14,4.27,Sobreobturado
+I,2,Lingual,ninguna,3.85,con_tejido,Estratificacion,Fluida,3.5,111.44,20.31,3.99,Equiobturado
+I,19,Lingual,ninguna,1.87,con_tejido,Bulk,Con fibra de vidrio,1.0,69.54,3.09,2.02,Equiobturado
+I,16,Oclusal,ninguna,1.61,limpia,Estratificacion,Fluida,3.5,80.09,2.01,1.8,Equiobturado
+I,12,Oclusal,ninguna,2.26,limpia,Estratificacion,Fluida,3.5,111.83,5.64,2.41,Equiobturado
+I,11,Lingual,ninguna,1.71,limpia,Bulk,Bulk,1.5,90.47,17.95,1.51,Equiobturado
+I,14,Lingual,ninguna,4.57,limpia,Estratificacion,Con fibra de vidrio,1.0,98.64,0.67,3.86,Subobturado
+I,14,Bucal,ninguna,4.51,con_tejido,Bulk,Con fibra de vidrio,1.0,76.69,8.89,3.9,Subobturado
+I,17,Oclusal,ninguna,1.69,con_tejido,Bulk,Bulk,1.5,95.64,12.9,2.54,Sobreobturado
+I,4,Lingual,ninguna,2.87,limpia,Estratificacion,Compuesta,2.0,64.32,7.02,1.97,Subobturado
+I,10,Lingual,ninguna,4.76,con_tejido,Bulk,Fluida,3.5,112.35,21.32,4.68,Equiobturado
+I,5,Bucal,ninguna,3.72,con_tejido,Bulk,Con fibra de vidrio,1.0,97.39,2.83,3.46,Subobturado
+I,22,Lingual,ninguna,1.48,limpia,Estratificacion,Bulk,1.5,71.94,0.11,1.44,Equiobturado
+I,4,Bucal,ninguna,3.79,limpia,Bulk,Compuesta,2.0,109.04,12.44,4.59,Sobreobturado
+I,5,Oclusal,ninguna,2.47,con_tejido,Estratificacion,Bulk,1.5,67.45,12.33,2.74,Sobreobturado
+I,9,Lingual,ninguna,1.45,limpia,Bulk,Con fibra de vidrio,1.0,91.56,6.16,1.43,Subobturado
+I,19,Oclusal,ninguna,1.8,con_tejido,Bulk,Fluida,3.5,70.57,2.18,1.97,Equiobturado
+I,17,Oclusal,ninguna,2.88,con_tejido,Bulk,Bulk,1.5,102.68,4.87,2.18,Subobturado
+I,4,Lingual,ninguna,3.35,limpia,Bulk,Con fibra de vidrio,1.0,70.51,7.67,3.11,Subobturado
+I,19,Lingual,ninguna,1.77,limpia,Bulk,Compuesta,2.0,81.64,1.96,1.64,Equiobturado
+I,18,Oclusal,ninguna,4.27,con_tejido,Estratificacion,Con fibra de vidrio,1.0,67.23,13.15,4.96,Sobreobturado
+I,14,Bucal,ninguna,3.29,con_tejido,Bulk,Fluida,3.5,76.21,14.09,3.63,Sobreobturado
+I,11,Bucal,ninguna,2.84,con_tejido,Bulk,Con fibra de vidrio,1.0,99.31,10.56,2.91,Equiobturado
+I,22,Lingual,ninguna,4.03,limpia,Estratificacion,Con fibra de vidrio,1.0,86.53,4.06,4.13,Sobreobturado
+I,17,Oclusal,ninguna,3.19,limpia,Bulk,Con fibra de vidrio,1.0,101.84,8.55,3.35,Equiobturado
+I,17,Lingual,ninguna,3.44,limpia,Bulk,Compuesta,2.0,80.89,1.84,4.39,Sobreobturado
+I,27,Bucal,ninguna,3.48,con_tejido,Bulk,Compuesta,2.0,75.5,5.23,3.29,Equiobturado
+I,22,Lingual,ninguna,4.18,limpia,Bulk,Con fibra de vidrio,1.0,91.69,7.12,3.9,Subobturado
+I,19,Oclusal,ninguna,3.66,limpia,Bulk,Bulk,1.5,63.28,8.47,3.25,Subobturado
+I,28,Lingual,ninguna,2.55,limpia,Bulk,Con fibra de vidrio,1.0,94.09,11.57,1.82,Subobturado
+I,11,Lingual,ninguna,3.77,con_tejido,Bulk,Compuesta,2.0,72.08,14.29,4.63,Sobreobturado
+I,7,Lingual,ninguna,4.9,con_tejido,Estratificacion,Con fibra de vidrio,1.0,101.45,4.2,4.94,Equiobturado
+I,21,Bucal,ninguna,3.29,con_tejido,Estratificacion,Con fibra de vidrio,1.0,94.85,2.9,3.4,Equiobturado
+I,5,Lingual,ninguna,2.04,con_tejido,Bulk,Bulk,1.5,88.43,11.9,1.3,Subobturado
+I,29,Lingual,ninguna,2.31,limpia,Bulk,Fluida,3.5,98.34,10.14,2.89,Sobreobturado
+I,21,Lingual,ninguna,2.11,limpia,Bulk,Bulk,1.5,71.97,13.25,1.68,Subobturado
+I,17,Lingual,ninguna,2.84,con_tejido,Bulk,Bulk,1.5,94.35,3.23,2.94,Equiobturado
+I,24,Bucal,ninguna,2.89,limpia,Bulk,Compuesta,2.0,76.31,10.42,3.08,Equiobturado
+I,2,Oclusal,ninguna,2.92,con_tejido,Bulk,Fluida,3.5,104.05,7.44,2.16,Subobturado
+I,13,Lingual,ninguna,3.67,con_tejido,Estratificacion,Bulk,1.5,116.12,14.21,3.75,Equiobturado
+I,4,Oclusal,ninguna,2.9,limpia,Estratificacion,Compuesta,2.0,91.36,15.59,3.15,Sobreobturado
+I,20,Bucal,ninguna,4.81,con_tejido,Bulk,Fluida,3.5,118.37,18.72,4.37,Subobturado
+I,17,Oclusal,ninguna,4.86,con_tejido,Bulk,Compuesta,2.0,84.93,8.23,4.75,Subobturado
+I,9,Lingual,ninguna,4.17,limpia,Bulk,Con fibra de vidrio,1.0,83.34,16.1,4.79,Sobreobturado
+I,8,Lingual,ninguna,2.21,limpia,Bulk,Compuesta,2.0,82.01,11.19,2.26,Sobreobturado
+I,6,Bucal,ninguna,4.06,con_tejido,Bulk,Compuesta,2.0,82.66,1.9,4.87,Sobreobturado
+I,21,Lingual,ninguna,4.2,limpia,Bulk,Fluida,3.5,92.14,6.61,4.63,Sobreobturado
+I,32,Lingual,ninguna,4.96,con_tejido,Bulk,Con fibra de vidrio,1.0,66.26,4.61,4.76,Equiobturado
+I,12,Lingual,ninguna,4.9,con_tejido,Bulk,Compuesta,2.0,113.9,20.85,4.59,Subobturado
+I,28,Oclusal,ninguna,3.3,limpia,Estratificacion,Fluida,3.5,91.78,7.46,2.64,Subobturado
+I,30,Oclusal,ninguna,3.9,limpia,Estratificacion,Con fibra de vidrio,1.0,88.97,15.09,3.89,Equiobturado
+I,30,Bucal,ninguna,2.52,limpia,Estratificacion,Con fibra de vidrio,1.0,111.36,9.49,2.62,Equiobturado
+I,3,Bucal,ninguna,1.18,con_tejido,Estratificacion,Fluida,3.5,90.68,13.34,0.59,Subobturado
+I,8,Lingual,ninguna,3.52,con_tejido,Bulk,Fluida,3.5,116.63,4.44,3.82,Sobreobturado
+I,31,Bucal,ninguna,4.58,con_tejido,Estratificacion,Compuesta,2.0,70.78,3.22,3.94,Subobturado
+I,3,Oclusal,ninguna,1.96,con_tejido,Bulk,Bulk,1.5,77.54,11.59,1.45,Subobturado
+I,9,Lingual,ninguna,3.14,con_tejido,Estratificacion,Con fibra de vidrio,1.0,117.08,21.59,3.12,Equiobturado
+I,20,Oclusal,ninguna,1.76,limpia,Estratificacion,Con fibra de vidrio,1.0,72.03,9.67,1.54,Subobturado
+I,18,Lingual,ninguna,1.62,con_tejido,Estratificacion,Bulk,1.5,117.47,6.1,1.19,Subobturado
+I,16,Oclusal,ninguna,4.39,limpia,Estratificacion,Con fibra de vidrio,1.0,99.19,19.26,4.48,Equiobturado
+I,21,Oclusal,ninguna,2.41,con_tejido,Bulk,Fluida,3.5,105.07,18.47,1.67,Subobturado
+I,16,Bucal,ninguna,4.98,limpia,Bulk,Bulk,1.5,95.78,4.85,4.79,Subobturado
+I,11,Lingual,ninguna,2.52,con_tejido,Bulk,Con fibra de vidrio,1.0,99.21,1.19,2.41,Equiobturado
+I,12,Lingual,ninguna,4.67,limpia,Estratificacion,Compuesta,2.0,88.24,4.98,5.57,Sobreobturado
+I,29,Lingual,ninguna,2.02,limpia,Bulk,Compuesta,2.0,95.31,2.13,2.01,Equiobturado
+I,1,Lingual,ninguna,3.51,limpia,Estratificacion,Fluida,3.5,90.31,12.88,3.62,Equiobturado
+I,32,Oclusal,ninguna,3.98,limpia,Estratificacion,Compuesta,2.0,112.84,7.53,4.16,Equiobturado
+I,19,Lingual,ninguna,1.45,limpia,Estratificacion,Compuesta,2.0,112.67,9.19,2.19,Sobreobturado
+I,2,Oclusal,ninguna,4.3,limpia,Bulk,Fluida,3.5,88.04,14.42,3.63,Subobturado
+I,28,Oclusal,ninguna,1.35,limpia,Estratificacion,Con fibra de vidrio,1.0,104.74,3.14,0.76,Subobturado
+I,14,Bucal,ninguna,3.23,limpia,Bulk,Bulk,1.5,83.29,15.86,3.0,Subobturado
+I,26,Lingual,ninguna,1.4,limpia,Estratificacion,Compuesta,2.0,73.54,5.35,1.54,Equiobturado
+I,9,Bucal,ninguna,3.24,con_tejido,Bulk,Bulk,1.5,102.58,10.24,2.25,Subobturado
+I,12,Lingual,ninguna,3.32,con_tejido,Bulk,Bulk,1.5,67.78,2.89,4.18,Sobreobturado
+I,5,Oclusal,ninguna,2.32,limpia,Estratificacion,Con fibra de vidrio,1.0,93.72,5.23,2.48,Sobreobturado
+I,25,Bucal,ninguna,3.11,limpia,Estratificacion,Bulk,1.5,78.58,10.31,3.05,Equiobturado
+I,16,Bucal,ninguna,2.72,con_tejido,Estratificacion,Bulk,1.5,119.58,3.89,2.48,Subobturado
+I,23,Bucal,ninguna,1.28,con_tejido,Estratificacion,Compuesta,2.0,63.13,9.03,1.83,Sobreobturado
+I,26,Bucal,ninguna,2.46,limpia,Bulk,Compuesta,2.0,104.58,11.32,1.78,Subobturado
+I,32,Lingual,ninguna,4.05,limpia,Estratificacion,Con fibra de vidrio,1.0,116.27,10.85,3.88,Equiobturado
+I,30,Lingual,ninguna,3.69,con_tejido,Bulk,Bulk,1.5,79.65,12.29,3.73,Equiobturado
+I,14,Lingual,ninguna,4.45,limpia,Bulk,Con fibra de vidrio,1.0,102.08,14.14,3.69,Subobturado
+I,20,Oclusal,ninguna,1.43,con_tejido,Estratificacion,Fluida,3.5,110.11,7.98,1.17,Subobturado
+I,5,Lingual,ninguna,4.66,limpia,Bulk,Fluida,3.5,91.06,4.18,5.62,Sobreobturado
+I,29,Lingual,ninguna,1.89,con_tejido,Bulk,Compuesta,2.0,111.29,9.54,1.82,Equiobturado
+I,6,Bucal,ninguna,1.28,con_tejido,Estratificacion,Fluida,3.5,76.52,14.67,0.5,Subobturado
+I,10,Lingual,ninguna,3.76,con_tejido,Estratificacion,Compuesta,2.0,93.79,0.09,3.71,Subobturado
+I,28,Bucal,ninguna,2.76,con_tejido,Bulk,Compuesta,2.0,67.53,5.74,2.87,Equiobturado
+I,22,Lingual,ninguna,1.25,limpia,Bulk,Bulk,1.5,102.71,18.98,1.33,Equiobturado
+I,32,Lingual,ninguna,3.89,limpia,Bulk,Bulk,1.5,63.67,7.0,4.05,Sobreobturado
+I,2,Lingual,ninguna,2.59,limpia,Estratificacion,Bulk,1.5,111.84,8.48,2.93,Sobreobturado
+I,24,Lingual,ninguna,3.04,con_tejido,Bulk,Fluida,3.5,92.9,18.4,3.44,Sobreobturado
+I,13,Bucal,ninguna,1.19,limpia,Bulk,Compuesta,2.0,88.13,6.48,1.05,Equiobturado
+I,12,Lingual,ninguna,1.88,con_tejido,Estratificacion,Compuesta,2.0,89.18,2.76,0.89,Subobturado
+I,1,Bucal,ninguna,4.58,con_tejido,Bulk,Fluida,3.5,65.05,3.53,4.56,Equiobturado
+I,28,Oclusal,ninguna,1.57,limpia,Estratificacion,Compuesta,2.0,95.21,16.42,0.87,Subobturado
+I,20,Oclusal,ninguna,1.6,limpia,Estratificacion,Fluida,3.5,64.91,0.57,1.44,Equiobturado
+I,7,Bucal,ninguna,2.43,limpia,Bulk,Compuesta,2.0,62.95,0.94,1.65,Subobturado
+I,3,Lingual,ninguna,4.44,con_tejido,Bulk,Bulk,1.5,78.22,0.72,4.95,Sobreobturado
+I,13,Bucal,ninguna,2.71,limpia,Bulk,Fluida,3.5,74.28,12.14,2.77,Equiobturado
+I,23,Bucal,ninguna,2.09,limpia,Bulk,Bulk,1.5,88.85,1.46,1.95,Equiobturado
+I,4,Bucal,ninguna,4.09,con_tejido,Bulk,Fluida,3.5,114.48,16.28,4.73,Sobreobturado
+I,6,Bucal,ninguna,1.38,limpia,Bulk,Bulk,1.5,98.83,18.13,1.24,Subobturado
+I,2,Oclusal,ninguna,4.47,limpia,Bulk,Compuesta,2.0,91.03,16.73,4.55,Equiobturado
+I,32,Bucal,ninguna,4.95,limpia,Estratificacion,Con fibra de vidrio,1.0,93.01,15.04,5.59,Sobreobturado
+I,24,Lingual,ninguna,3.37,con_tejido,Estratificacion,Fluida,3.5,107.05,1.17,3.87,Sobreobturado
+I,5,Bucal,ninguna,2.39,limpia,Bulk,Bulk,1.5,67.68,1.25,2.99,Sobreobturado
+I,21,Bucal,ninguna,3.09,limpia,Bulk,Bulk,1.5,83.89,6.85,2.65,Subobturado
+I,27,Lingual,ninguna,2.67,limpia,Bulk,Fluida,3.5,97.61,18.43,2.49,Equiobturado
+I,5,Oclusal,ninguna,4.25,con_tejido,Estratificacion,Con fibra de vidrio,1.0,75.6,0.76,5.09,Sobreobturado
+I,24,Lingual,ninguna,1.71,con_tejido,Bulk,Compuesta,2.0,83.65,16.29,1.94,Sobreobturado
+I,3,Bucal,ninguna,2.56,limpia,Estratificacion,Fluida,3.5,95.09,5.53,2.75,Sobreobturado
+I,13,Lingual,ninguna,4.28,limpia,Bulk,Con fibra de vidrio,1.0,65.46,6.93,4.34,Equiobturado
+I,30,Oclusal,ninguna,2.82,limpia,Estratificacion,Bulk,1.5,116.68,3.74,3.8,Sobreobturado
+I,25,Lingual,ninguna,4.0,limpia,Estratificacion,Con fibra de vidrio,1.0,78.37,8.06,3.32,Subobturado
+I,9,Bucal,ninguna,1.32,con_tejido,Estratificacion,Fluida,3.5,94.54,3.66,1.4,Equiobturado
+I,6,Bucal,ninguna,3.82,con_tejido,Estratificacion,Bulk,1.5,95.36,18.58,4.24,Sobreobturado
+I,4,Bucal,ninguna,2.39,limpia,Bulk,Con fibra de vidrio,1.0,71.75,5.1,1.79,Subobturado
+I,15,Oclusal,ninguna,3.34,limpia,Bulk,Bulk,1.5,115.53,9.26,3.25,Equiobturado
+I,5,Lingual,ninguna,1.26,limpia,Bulk,Fluida,3.5,61.57,0.08,1.42,Equiobturado
+I,13,Oclusal,ninguna,2.98,limpia,Bulk,Fluida,3.5,75.74,10.79,2.9,Equiobturado
+I,24,Lingual,ninguna,3.09,limpia,Bulk,Con fibra de vidrio,1.0,107.29,18.92,3.1,Equiobturado
+I,3,Bucal,ninguna,4.21,con_tejido,Estratificacion,Fluida,3.5,70.21,2.66,5.03,Sobreobturado
+I,16,Lingual,ninguna,2.27,limpia,Bulk,Bulk,1.5,117.78,10.75,1.95,Subobturado
+I,1,Oclusal,ninguna,4.96,limpia,Estratificacion,Fluida,3.5,63.63,8.4,4.92,Equiobturado
+I,11,Lingual,ninguna,2.53,con_tejido,Bulk,Bulk,1.5,91.1,2.36,2.16,Subobturado
+I,28,Lingual,ninguna,3.81,limpia,Bulk,Fluida,3.5,74.84,4.91,4.53,Sobreobturado
+I,22,Lingual,ninguna,3.14,con_tejido,Bulk,Fluida,3.5,119.28,2.43,3.24,Equiobturado
+I,2,Oclusal,ninguna,1.12,con_tejido,Bulk,Bulk,1.5,99.05,2.08,0.55,Subobturado
+I,27,Bucal,ninguna,3.58,con_tejido,Bulk,Bulk,1.5,97.26,15.42,3.41,Equiobturado
+I,6,Lingual,ninguna,3.87,limpia,Estratificacion,Bulk,1.5,86.48,3.76,3.55,Subobturado
+I,5,Bucal,ninguna,3.89,limpia,Estratificacion,Compuesta,2.0,69.66,5.98,4.74,Sobreobturado
+I,25,Bucal,ninguna,1.47,limpia,Bulk,Fluida,3.5,107.5,12.98,2.26,Sobreobturado
+I,22,Bucal,ninguna,4.17,limpia,Bulk,Fluida,3.5,87.0,15.24,4.22,Equiobturado
+I,29,Lingual,ninguna,3.03,limpia,Estratificacion,Con fibra de vidrio,1.0,84.26,9.0,3.69,Sobreobturado
+I,25,Bucal,ninguna,2.81,con_tejido,Estratificacion,Fluida,3.5,105.72,8.75,2.97,Sobreobturado
+I,13,Bucal,ninguna,2.74,con_tejido,Estratificacion,Compuesta,2.0,72.05,10.94,2.67,Equiobturado
+I,13,Oclusal,ninguna,3.32,con_tejido,Bulk,Bulk,1.5,72.38,5.05,3.52,Equiobturado
+I,10,Lingual,ninguna,2.92,con_tejido,Bulk,Fluida,3.5,119.54,3.25,2.95,Equiobturado
+I,30,Lingual,ninguna,2.75,limpia,Bulk,Fluida,3.5,92.91,0.31,2.67,Equiobturado
+I,30,Bucal,ninguna,3.72,limpia,Estratificacion,Fluida,3.5,88.84,15.79,2.79,Subobturado
+I,32,Lingual,ninguna,1.49,limpia,Estratificacion,Fluida,3.5,93.33,13.78,2.15,Sobreobturado
+I,23,Bucal,ninguna,3.18,limpia,Bulk,Bulk,1.5,84.82,7.68,4.1,Sobreobturado
+I,21,Bucal,ninguna,3.63,limpia,Bulk,Fluida,3.5,76.77,7.69,2.92,Subobturado
+I,15,Bucal,ninguna,3.65,con_tejido,Estratificacion,Con fibra de vidrio,1.0,109.64,2.77,4.52,Sobreobturado
+I,20,Lingual,ninguna,3.59,con_tejido,Bulk,Bulk,1.5,66.22,11.17,3.65,Sobreobturado
+I,17,Bucal,ninguna,2.5,con_tejido,Estratificacion,Compuesta,2.0,100.05,14.33,2.58,Sobreobturado
+I,26,Bucal,ninguna,1.72,con_tejido,Estratificacion,Compuesta,2.0,101.68,12.39,1.44,Subobturado
+I,3,Bucal,ninguna,2.6,con_tejido,Estratificacion,Compuesta,2.0,76.14,12.31,2.53,Equiobturado
+I,20,Oclusal,ninguna,3.78,con_tejido,Estratificacion,Fluida,3.5,64.89,10.25,3.76,Equiobturado
+I,8,Bucal,ninguna,4.65,limpia,Estratificacion,Bulk,1.5,107.26,21.14,3.72,Subobturado
+I,21,Bucal,ninguna,1.22,limpia,Estratificacion,Fluida,3.5,81.26,6.83,1.56,Sobreobturado
+I,30,Oclusal,ninguna,4.02,con_tejido,Bulk,Bulk,1.5,111.35,2.79,4.42,Sobreobturado
+I,7,Lingual,ninguna,3.93,limpia,Estratificacion,Fluida,3.5,98.35,7.23,4.74,Sobreobturado
+I,32,Oclusal,ninguna,3.08,limpia,Bulk,Compuesta,2.0,96.4,18.08,3.62,Sobreobturado
+I,9,Lingual,ninguna,1.89,limpia,Estratificacion,Compuesta,2.0,68.88,3.58,1.85,Equiobturado
+I,23,Bucal,ninguna,4.92,limpia,Bulk,Con fibra de vidrio,1.0,70.22,8.06,4.51,Subobturado
+I,21,Oclusal,ninguna,2.09,limpia,Bulk,Con fibra de vidrio,1.0,101.16,4.85,2.09,Equiobturado
+I,6,Bucal,ninguna,3.48,limpia,Estratificacion,Bulk,1.5,72.33,8.98,3.59,Equiobturado
+I,8,Bucal,ninguna,1.62,con_tejido,Bulk,Con fibra de vidrio,1.0,63.95,8.66,1.65,Equiobturado
+I,28,Lingual,ninguna,1.25,con_tejido,Estratificacion,Fluida,3.5,115.27,0.56,1.29,Equiobturado
+I,20,Lingual,ninguna,2.24,limpia,Estratificacion,Con fibra de vidrio,1.0,92.67,2.18,2.07,Equiobturado
+I,18,Bucal,ninguna,3.12,limpia,Bulk,Fluida,3.5,77.9,12.89,3.02,Equiobturado
+I,8,Lingual,ninguna,2.22,limpia,Estratificacion,Fluida,3.5,70.82,10.54,1.51,Subobturado
+I,27,Bucal,ninguna,4.85,limpia,Estratificacion,Compuesta,2.0,73.81,12.07,5.58,Sobreobturado
+I,13,Lingual,ninguna,2.82,limpia,Estratificacion,Compuesta,2.0,68.38,0.23,2.49,Subobturado
+I,30,Bucal,ninguna,2.98,limpia,Bulk,Con fibra de vidrio,1.0,106.78,16.57,2.87,Equiobturado
+I,32,Lingual,ninguna,1.15,con_tejido,Estratificacion,Compuesta,2.0,61.37,2.28,1.95,Sobreobturado
+I,19,Oclusal,ninguna,2.05,limpia,Estratificacion,Con fibra de vidrio,1.0,61.55,11.45,2.98,Sobreobturado
+I,3,Bucal,ninguna,2.11,limpia,Bulk,Con fibra de vidrio,1.0,90.78,13.2,1.51,Subobturado
+I,25,Lingual,ninguna,4.2,limpia,Bulk,Con fibra de vidrio,1.0,74.14,4.75,4.02,Subobturado
+I,8,Bucal,ninguna,2.63,con_tejido,Estratificacion,Fluida,3.5,96.58,2.9,2.79,Sobreobturado
+I,4,Bucal,ninguna,2.96,limpia,Estratificacion,Bulk,1.5,97.82,9.09,2.97,Equiobturado
+I,18,Oclusal,ninguna,4.65,limpia,Estratificacion,Con fibra de vidrio,1.0,114.61,8.76,3.88,Subobturado
+I,27,Bucal,ninguna,1.78,limpia,Bulk,Compuesta,2.0,67.78,11.91,1.06,Subobturado
+I,22,Lingual,ninguna,2.4,limpia,Bulk,Fluida,3.5,104.36,6.47,1.4,Subobturado
+I,13,Lingual,ninguna,4.82,limpia,Estratificacion,Bulk,1.5,102.98,0.75,4.74,Subobturado
+I,12,Bucal,ninguna,3.23,limpia,Estratificacion,Con fibra de vidrio,1.0,94.46,10.62,3.51,Sobreobturado
+I,29,Lingual,ninguna,4.44,con_tejido,Bulk,Con fibra de vidrio,1.0,68.41,9.6,5.14,Sobreobturado
+I,11,Lingual,ninguna,2.57,con_tejido,Bulk,Bulk,1.5,82.55,15.72,2.38,Subobturado
+I,3,Oclusal,ninguna,2.83,limpia,Estratificacion,Bulk,1.5,105.46,0.96,2.93,Sobreobturado
+I,24,Lingual,ninguna,1.26,limpia,Estratificacion,Compuesta,2.0,113.57,7.62,0.58,Subobturado
+I,9,Lingual,ninguna,3.25,limpia,Estratificacion,Compuesta,2.0,94.45,10.44,3.36,Sobreobturado
+I,19,Lingual,ninguna,2.45,con_tejido,Bulk,Fluida,3.5,105.32,4.56,2.34,Equiobturado
+I,26,Lingual,ninguna,3.66,limpia,Bulk,Con fibra de vidrio,1.0,81.0,14.98,4.43,Sobreobturado
+I,32,Lingual,ninguna,2.94,limpia,Bulk,Con fibra de vidrio,1.0,84.66,16.74,2.91,Equiobturado
+I,2,Oclusal,ninguna,3.78,con_tejido,Estratificacion,Fluida,3.5,89.72,2.43,3.96,Equiobturado
+I,14,Lingual,ninguna,1.92,con_tejido,Bulk,Con fibra de vidrio,1.0,75.9,11.77,1.25,Subobturado
+I,27,Lingual,ninguna,2.82,limpia,Estratificacion,Fluida,3.5,65.13,6.12,3.52,Sobreobturado
+I,18,Lingual,ninguna,4.95,con_tejido,Bulk,Con fibra de vidrio,1.0,82.65,3.21,4.59,Subobturado
+I,29,Oclusal,ninguna,2.23,con_tejido,Estratificacion,Con fibra de vidrio,1.0,95.57,0.62,1.37,Subobturado
+I,16,Bucal,ninguna,3.36,con_tejido,Estratificacion,Bulk,1.5,86.63,12.41,3.32,Subobturado
+I,17,Lingual,ninguna,1.78,con_tejido,Estratificacion,Compuesta,2.0,70.69,1.92,2.58,Sobreobturado
+I,12,Bucal,ninguna,1.14,limpia,Bulk,Fluida,3.5,109.46,20.03,0.96,Equiobturado
+I,29,Oclusal,ninguna,3.36,con_tejido,Bulk,Bulk,1.5,71.61,0.62,2.97,Subobturado
+I,22,Lingual,ninguna,3.77,con_tejido,Estratificacion,Fluida,3.5,87.43,5.72,3.51,Subobturado
+I,18,Bucal,ninguna,3.43,limpia,Estratificacion,Bulk,1.5,102.49,11.53,3.63,Sobreobturado
+I,29,Oclusal,ninguna,3.28,con_tejido,Bulk,Fluida,3.5,63.55,10.43,3.32,Sobreobturado
+I,12,Lingual,ninguna,4.74,con_tejido,Estratificacion,Fluida,3.5,92.69,10.08,3.94,Subobturado
+I,29,Lingual,ninguna,1.33,limpia,Estratificacion,Fluida,3.5,106.8,4.97,1.34,Equiobturado
+I,13,Bucal,ninguna,3.53,con_tejido,Estratificacion,Fluida,3.5,72.74,2.6,4.35,Sobreobturado
+I,1,Oclusal,ninguna,2.37,con_tejido,Bulk,Compuesta,2.0,70.56,10.12,1.59,Subobturado
+I,8,Bucal,ninguna,4.11,limpia,Bulk,Bulk,1.5,64.72,9.35,3.3,Subobturado
+I,28,Oclusal,ninguna,1.52,con_tejido,Estratificacion,Con fibra de vidrio,1.0,64.9,0.25,2.13,Sobreobturado
+I,28,Lingual,ninguna,2.09,con_tejido,Estratificacion,Bulk,1.5,69.15,3.4,3.0,Sobreobturado
+I,3,Lingual,ninguna,4.78,con_tejido,Bulk,Fluida,3.5,101.84,12.71,4.74,Equiobturado
+I,32,Lingual,ninguna,1.81,con_tejido,Estratificacion,Compuesta,2.0,84.13,1.86,2.5,Sobreobturado
+I,17,Oclusal,ninguna,3.06,limpia,Bulk,Compuesta,2.0,101.52,3.78,3.14,Equiobturado
+I,13,Oclusal,ninguna,1.26,con_tejido,Estratificacion,Fluida,3.5,89.03,4.07,1.41,Sobreobturado
+I,21,Oclusal,ninguna,3.74,con_tejido,Estratificacion,Con fibra de vidrio,1.0,92.95,5.39,4.37,Sobreobturado
+I,30,Oclusal,ninguna,4.21,limpia,Bulk,Bulk,1.5,93.33,14.72,3.39,Subobturado
+I,31,Lingual,ninguna,2.42,con_tejido,Bulk,Con fibra de vidrio,1.0,112.62,5.17,3.04,Sobreobturado
+I,28,Oclusal,ninguna,3.85,con_tejido,Estratificacion,Bulk,1.5,61.79,7.92,4.21,Sobreobturado
+I,19,Oclusal,ninguna,2.03,con_tejido,Estratificacion,Fluida,3.5,62.38,4.13,1.27,Subobturado
+I,8,Bucal,ninguna,2.74,con_tejido,Bulk,Con fibra de vidrio,1.0,114.19,21.58,3.63,Sobreobturado
+I,18,Lingual,ninguna,4.19,con_tejido,Estratificacion,Bulk,1.5,72.45,1.94,4.29,Sobreobturado
+I,17,Oclusal,ninguna,3.62,con_tejido,Estratificacion,Bulk,1.5,77.27,1.73,3.65,Equiobturado
+I,16,Bucal,ninguna,1.99,limpia,Bulk,Con fibra de vidrio,1.0,94.42,0.58,2.11,Equiobturado
+I,2,Bucal,ninguna,3.81,limpia,Bulk,Con fibra de vidrio,1.0,88.18,10.44,3.98,Sobreobturado
+I,16,Lingual,ninguna,4.74,limpia,Bulk,Con fibra de vidrio,1.0,77.5,15.38,4.66,Subobturado
+I,15,Oclusal,ninguna,4.99,con_tejido,Estratificacion,Fluida,3.5,96.01,10.71,4.79,Equiobturado
+I,27,Lingual,ninguna,4.54,limpia,Bulk,Compuesta,2.0,80.47,8.63,5.24,Sobreobturado
+I,25,Lingual,ninguna,4.14,con_tejido,Estratificacion,Fluida,3.5,88.07,15.27,3.94,Equiobturado
+I,20,Bucal,ninguna,3.62,limpia,Estratificacion,Compuesta,2.0,105.06,20.13,3.47,Equiobturado
+I,8,Lingual,ninguna,4.4,limpia,Bulk,Bulk,1.5,116.12,22.55,4.51,Equiobturado
+I,32,Bucal,ninguna,4.19,limpia,Estratificacion,Fluida,3.5,92.25,14.79,4.37,Equiobturado
+I,21,Bucal,ninguna,3.86,limpia,Estratificacion,Bulk,1.5,114.59,4.72,3.72,Subobturado
+I,19,Bucal,ninguna,3.61,con_tejido,Bulk,Bulk,1.5,85.87,3.06,2.72,Subobturado
+I,17,Bucal,ninguna,1.06,con_tejido,Bulk,Compuesta,2.0,113.29,6.75,1.55,Sobreobturado
+I,26,Bucal,ninguna,3.92,con_tejido,Bulk,Con fibra de vidrio,1.0,77.63,9.34,3.67,Subobturado
+I,4,Bucal,ninguna,4.01,con_tejido,Bulk,Con fibra de vidrio,1.0,108.75,12.8,4.85,Sobreobturado
+I,20,Lingual,ninguna,3.21,con_tejido,Bulk,Bulk,1.5,88.99,0.32,3.0,Subobturado
+I,2,Bucal,ninguna,3.55,con_tejido,Bulk,Compuesta,2.0,91.99,4.88,2.74,Subobturado
+I,17,Oclusal,ninguna,3.14,limpia,Bulk,Compuesta,2.0,114.88,5.32,2.99,Equiobturado
+I,17,Bucal,ninguna,4.13,con_tejido,Estratificacion,Fluida,3.5,82.72,10.15,3.53,Subobturado
+I,18,Bucal,ninguna,4.53,limpia,Bulk,Compuesta,2.0,108.69,13.03,5.32,Sobreobturado
+I,19,Bucal,ninguna,2.94,con_tejido,Bulk,Bulk,1.5,92.18,6.06,3.91,Sobreobturado
+I,20,Oclusal,ninguna,2.45,limpia,Bulk,Fluida,3.5,61.43,2.01,2.55,Equiobturado
+I,10,Bucal,ninguna,1.79,limpia,Bulk,Bulk,1.5,60.23,11.93,2.54,Sobreobturado
+I,15,Lingual,ninguna,4.43,limpia,Bulk,Compuesta,2.0,106.85,6.38,5.3,Sobreobturado
+I,23,Lingual,ninguna,4.31,limpia,Bulk,Bulk,1.5,64.59,5.35,4.38,Sobreobturado
+I,19,Lingual,ninguna,3.54,limpia,Estratificacion,Con fibra de vidrio,1.0,66.24,1.39,3.93,Sobreobturado
+I,12,Lingual,ninguna,4.9,limpia,Estratificacion,Bulk,1.5,100.67,7.45,4.89,Equiobturado
+I,20,Oclusal,ninguna,3.49,limpia,Estratificacion,Compuesta,2.0,90.79,0.15,4.15,Sobreobturado
+I,26,Bucal,ninguna,1.63,con_tejido,Estratificacion,Con fibra de vidrio,1.0,86.18,14.22,1.13,Subobturado
+I,18,Oclusal,ninguna,1.79,limpia,Bulk,Compuesta,2.0,101.73,13.76,1.91,Sobreobturado
+I,18,Oclusal,ninguna,3.88,con_tejido,Bulk,Con fibra de vidrio,1.0,110.2,16.5,2.94,Subobturado
+I,24,Bucal,ninguna,3.41,limpia,Bulk,Fluida,3.5,89.62,11.67,4.28,Sobreobturado
+I,13,Bucal,ninguna,1.49,limpia,Bulk,Fluida,3.5,112.17,11.57,1.1,Subobturado
+I,23,Lingual,ninguna,2.71,limpia,Estratificacion,Bulk,1.5,119.85,2.39,2.53,Subobturado
+I,4,Oclusal,ninguna,3.86,con_tejido,Bulk,Compuesta,2.0,117.46,5.01,3.67,Subobturado
+I,2,Bucal,ninguna,4.24,limpia,Bulk,Fluida,3.5,116.78,18.93,4.71,Sobreobturado
+I,20,Bucal,ninguna,3.11,con_tejido,Estratificacion,Con fibra de vidrio,1.0,94.93,7.31,3.25,Equiobturado
+I,22,Bucal,ninguna,1.73,limpia,Bulk,Fluida,3.5,80.45,0.81,1.41,Subobturado
+I,18,Bucal,ninguna,3.69,limpia,Estratificacion,Compuesta,2.0,105.99,4.18,3.64,Equiobturado
+I,28,Lingual,ninguna,2.37,limpia,Bulk,Bulk,1.5,93.99,15.39,3.04,Sobreobturado
+I,5,Lingual,ninguna,2.46,limpia,Estratificacion,Bulk,1.5,104.52,7.41,1.49,Subobturado
+I,14,Oclusal,ninguna,4.28,con_tejido,Estratificacion,Compuesta,2.0,62.64,0.59,3.78,Subobturado
+I,10,Bucal,ninguna,4.88,con_tejido,Estratificacion,Fluida,3.5,65.87,1.01,5.67,Sobreobturado
+I,8,Lingual,ninguna,2.5,limpia,Estratificacion,Con fibra de vidrio,1.0,69.68,4.0,3.09,Sobreobturado
+I,31,Lingual,ninguna,4.91,con_tejido,Bulk,Bulk,1.5,94.85,9.35,4.86,Equiobturado
+I,14,Oclusal,ninguna,4.51,limpia,Estratificacion,Con fibra de vidrio,1.0,76.18,13.36,5.2,Sobreobturado
+I,26,Lingual,ninguna,2.0,limpia,Estratificacion,Bulk,1.5,72.23,10.89,2.37,Sobreobturado
+I,3,Lingual,ninguna,4.36,limpia,Estratificacion,Compuesta,2.0,63.69,1.11,4.79,Sobreobturado
+I,20,Bucal,ninguna,3.14,limpia,Bulk,Con fibra de vidrio,1.0,114.06,20.01,3.39,Sobreobturado
+I,28,Bucal,ninguna,4.56,con_tejido,Estratificacion,Bulk,1.5,97.35,4.07,4.66,Equiobturado
+I,24,Bucal,ninguna,3.71,limpia,Estratificacion,Fluida,3.5,62.03,3.11,4.1,Sobreobturado
+I,27,Lingual,ninguna,2.55,limpia,Estratificacion,Fluida,3.5,105.91,6.95,2.37,Equiobturado
+I,5,Bucal,ninguna,4.62,con_tejido,Bulk,Compuesta,2.0,100.01,16.57,4.74,Sobreobturado
+I,16,Lingual,ninguna,1.2,limpia,Bulk,Fluida,3.5,79.28,14.98,0.87,Subobturado
+I,18,Bucal,ninguna,2.73,limpia,Estratificacion,Bulk,1.5,70.16,2.88,2.38,Subobturado
+I,4,Oclusal,ninguna,2.56,limpia,Estratificacion,Compuesta,2.0,78.55,6.71,3.02,Sobreobturado
+I,23,Bucal,ninguna,1.91,limpia,Estratificacion,Con fibra de vidrio,1.0,115.24,20.84,2.06,Equiobturado
+I,25,Bucal,ninguna,3.73,limpia,Estratificacion,Compuesta,2.0,63.87,9.86,3.96,Sobreobturado
+I,15,Bucal,ninguna,4.58,con_tejido,Bulk,Fluida,3.5,100.78,6.61,4.73,Equiobturado
+I,28,Oclusal,ninguna,2.41,limpia,Bulk,Con fibra de vidrio,1.0,99.12,15.71,2.53,Equiobturado
+I,6,Bucal,ninguna,1.1,con_tejido,Bulk,Compuesta,2.0,105.52,19.82,2.01,Sobreobturado
+I,2,Bucal,ninguna,3.33,con_tejido,Bulk,Compuesta,2.0,81.87,14.91,3.3,Subobturado
+I,31,Bucal,ninguna,3.25,limpia,Bulk,Bulk,1.5,95.13,13.75,3.32,Equiobturado
+I,30,Lingual,ninguna,3.79,limpia,Estratificacion,Bulk,1.5,95.54,17.2,2.87,Subobturado
+I,7,Lingual,ninguna,4.63,limpia,Bulk,Bulk,1.5,99.14,5.35,4.36,Subobturado
+I,17,Oclusal,ninguna,1.2,con_tejido,Estratificacion,Con fibra de vidrio,1.0,107.68,6.67,1.23,Equiobturado
+I,19,Bucal,ninguna,4.74,con_tejido,Estratificacion,Fluida,3.5,102.87,3.58,5.4,Sobreobturado
+I,12,Bucal,ninguna,4.39,limpia,Bulk,Compuesta,2.0,85.77,9.85,5.3,Sobreobturado
+I,24,Lingual,ninguna,1.42,con_tejido,Estratificacion,Fluida,3.5,69.16,12.46,2.32,Sobreobturado
+I,7,Bucal,ninguna,2.26,limpia,Estratificacion,Bulk,1.5,116.73,19.69,1.3,Subobturado
+I,7,Bucal,ninguna,1.3,limpia,Estratificacion,Bulk,1.5,60.9,4.71,1.15,Subobturado
+I,6,Bucal,ninguna,4.06,limpia,Estratificacion,Con fibra de vidrio,1.0,95.41,0.08,4.18,Equiobturado
+I,9,Lingual,ninguna,4.59,limpia,Bulk,Fluida,3.5,105.47,13.88,4.81,Sobreobturado
+I,9,Bucal,ninguna,4.07,limpia,Bulk,Compuesta,2.0,82.42,4.51,4.05,Equiobturado
+I,10,Lingual,ninguna,4.91,con_tejido,Bulk,Bulk,1.5,85.75,13.48,5.55,Sobreobturado
+I,1,Oclusal,ninguna,2.48,con_tejido,Bulk,Bulk,1.5,99.87,8.89,2.51,Equiobturado
+I,26,Bucal,ninguna,2.22,limpia,Bulk,Bulk,1.5,74.8,3.54,2.77,Sobreobturado
+I,17,Oclusal,ninguna,3.83,con_tejido,Estratificacion,Compuesta,2.0,106.08,9.22,3.03,Subobturado
+I,21,Bucal,ninguna,3.08,limpia,Bulk,Bulk,1.5,85.73,15.06,3.48,Sobreobturado
+I,31,Lingual,ninguna,1.03,con_tejido,Estratificacion,Fluida,3.5,78.84,2.24,1.0,Equiobturado
+I,2,Bucal,ninguna,3.91,limpia,Bulk,Compuesta,2.0,60.15,2.93,3.75,Equiobturado
+I,31,Oclusal,ninguna,2.39,limpia,Estratificacion,Con fibra de vidrio,1.0,115.67,1.96,2.76,Sobreobturado
+I,30,Oclusal,ninguna,2.12,con_tejido,Bulk,Fluida,3.5,70.99,0.57,1.95,Subobturado
+I,16,Bucal,ninguna,4.31,con_tejido,Bulk,Compuesta,2.0,96.74,7.58,3.69,Subobturado
+I,31,Oclusal,ninguna,4.0,limpia,Bulk,Compuesta,2.0,111.93,17.92,3.74,Subobturado
+I,19,Bucal,ninguna,2.89,limpia,Bulk,Bulk,1.5,118.84,5.07,2.03,Subobturado
+I,3,Oclusal,ninguna,4.4,con_tejido,Bulk,Compuesta,2.0,92.82,2.08,4.38,Equiobturado
+I,17,Lingual,ninguna,4.81,con_tejido,Bulk,Fluida,3.5,108.78,18.71,4.04,Subobturado
+I,27,Bucal,ninguna,1.77,con_tejido,Bulk,Bulk,1.5,67.4,3.99,0.84,Subobturado
+I,3,Lingual,ninguna,1.25,con_tejido,Estratificacion,Con fibra de vidrio,1.0,109.19,4.31,1.34,Equiobturado
+I,4,Oclusal,ninguna,2.03,con_tejido,Estratificacion,Con fibra de vidrio,1.0,104.16,8.46,2.09,Equiobturado
+I,5,Lingual,ninguna,3.21,limpia,Estratificacion,Bulk,1.5,108.2,9.56,3.3,Equiobturado
+I,21,Lingual,ninguna,2.47,limpia,Bulk,Con fibra de vidrio,1.0,76.73,7.8,2.8,Sobreobturado
+I,7,Lingual,ninguna,3.49,con_tejido,Bulk,Con fibra de vidrio,1.0,76.91,2.24,3.1,Subobturado
+I,15,Lingual,ninguna,3.49,limpia,Estratificacion,Compuesta,2.0,87.05,11.82,3.32,Subobturado
+I,4,Oclusal,ninguna,3.08,limpia,Estratificacion,Compuesta,2.0,114.45,4.89,3.1,Sobreobturado
+I,20,Lingual,ninguna,4.87,con_tejido,Bulk,Bulk,1.5,118.25,15.65,4.92,Sobreobturado
+I,1,Bucal,ninguna,1.13,con_tejido,Bulk,Fluida,3.5,84.18,8.65,1.16,Equiobturado
+I,7,Lingual,ninguna,2.77,limpia,Bulk,Bulk,1.5,99.83,13.29,2.8,Sobreobturado
+I,11,Lingual,ninguna,3.48,limpia,Estratificacion,Compuesta,2.0,108.82,19.88,4.08,Sobreobturado
+I,19,Lingual,ninguna,1.88,con_tejido,Bulk,Con fibra de vidrio,1.0,79.92,11.93,1.92,Equiobturado
+I,10,Bucal,ninguna,4.3,limpia,Estratificacion,Fluida,3.5,96.89,18.77,4.36,Equiobturado
+I,15,Lingual,ninguna,2.09,con_tejido,Bulk,Bulk,1.5,74.73,6.33,1.13,Subobturado
+I,14,Bucal,ninguna,3.2,con_tejido,Estratificacion,Bulk,1.5,93.03,16.13,3.33,Equiobturado
+I,26,Bucal,ninguna,3.36,con_tejido,Bulk,Con fibra de vidrio,1.0,109.56,4.92,4.21,Sobreobturado
+I,17,Oclusal,ninguna,4.26,limpia,Estratificacion,Bulk,1.5,104.81,3.79,5.01,Sobreobturado
+I,7,Bucal,ninguna,4.09,con_tejido,Estratificacion,Con fibra de vidrio,1.0,95.34,11.72,4.94,Sobreobturado
+I,2,Lingual,ninguna,4.52,limpia,Estratificacion,Bulk,1.5,113.89,16.55,4.6,Equiobturado
+I,29,Oclusal,ninguna,3.55,limpia,Bulk,Con fibra de vidrio,1.0,114.18,19.74,3.27,Subobturado
+I,1,Oclusal,ninguna,4.8,limpia,Estratificacion,Con fibra de vidrio,1.0,101.35,14.89,4.39,Subobturado
+I,14,Oclusal,ninguna,3.06,con_tejido,Estratificacion,Compuesta,2.0,81.55,3.04,3.94,Sobreobturado
+I,2,Oclusal,ninguna,1.91,con_tejido,Bulk,Bulk,1.5,71.29,3.49,1.2,Subobturado
+I,27,Bucal,ninguna,2.5,limpia,Bulk,Fluida,3.5,66.46,10.53,3.25,Sobreobturado
+I,21,Oclusal,ninguna,4.54,con_tejido,Estratificacion,Fluida,3.5,66.02,1.14,4.76,Sobreobturado
+I,19,Bucal,ninguna,3.12,con_tejido,Bulk,Bulk,1.5,119.74,14.76,2.95,Subobturado
+I,9,Bucal,ninguna,2.65,limpia,Estratificacion,Bulk,1.5,87.83,12.01,2.14,Subobturado
+I,7,Bucal,ninguna,2.83,limpia,Bulk,Con fibra de vidrio,1.0,73.13,0.82,2.96,Equiobturado
+I,26,Bucal,ninguna,2.56,con_tejido,Bulk,Bulk,1.5,103.37,1.85,2.64,Equiobturado
+I,7,Bucal,ninguna,2.76,con_tejido,Estratificacion,Bulk,1.5,89.84,5.24,3.33,Sobreobturado
+I,18,Lingual,ninguna,1.7,limpia,Estratificacion,Con fibra de vidrio,1.0,71.84,10.48,1.51,Subobturado
+I,16,Lingual,ninguna,2.35,con_tejido,Estratificacion,Con fibra de vidrio,1.0,96.78,3.59,2.9,Sobreobturado
+I,32,Oclusal,ninguna,4.11,limpia,Estratificacion,Fluida,3.5,111.49,8.41,4.08,Equiobturado
+I,16,Bucal,ninguna,3.27,con_tejido,Estratificacion,Fluida,3.5,119.93,1.07,3.78,Sobreobturado
+I,20,Bucal,ninguna,3.45,limpia,Estratificacion,Fluida,3.5,65.25,6.12,3.55,Equiobturado
+I,2,Bucal,ninguna,3.87,limpia,Bulk,Bulk,1.5,109.01,3.27,4.04,Sobreobturado
+I,1,Oclusal,ninguna,3.69,limpia,Bulk,Con fibra de vidrio,1.0,102.23,8.54,3.65,Subobturado
+I,21,Bucal,ninguna,2.22,con_tejido,Bulk,Fluida,3.5,90.31,11.28,3.17,Sobreobturado
+I,9,Lingual,ninguna,4.42,limpia,Estratificacion,Con fibra de vidrio,1.0,116.26,0.08,4.58,Equiobturado
+I,31,Bucal,ninguna,2.55,limpia,Bulk,Fluida,3.5,108.78,10.13,2.1,Subobturado
+I,3,Lingual,ninguna,3.76,con_tejido,Estratificacion,Con fibra de vidrio,1.0,119.23,12.0,3.9,Equiobturado
+I,20,Lingual,ninguna,2.73,con_tejido,Bulk,Con fibra de vidrio,1.0,83.89,14.59,2.54,Equiobturado
+I,31,Lingual,ninguna,2.79,con_tejido,Estratificacion,Bulk,1.5,98.13,3.09,2.74,Equiobturado
+I,31,Oclusal,ninguna,1.24,limpia,Bulk,Bulk,1.5,100.3,7.52,1.23,Equiobturado
+I,31,Oclusal,ninguna,1.41,limpia,Bulk,Con fibra de vidrio,1.0,75.99,10.22,1.5,Equiobturado
+I,22,Bucal,ninguna,1.98,con_tejido,Estratificacion,Compuesta,2.0,88.56,9.59,1.64,Subobturado
+I,15,Bucal,ninguna,3.86,con_tejido,Estratificacion,Bulk,1.5,75.07,11.31,3.89,Equiobturado
+I,15,Oclusal,ninguna,4.17,limpia,Estratificacion,Bulk,1.5,84.55,5.35,4.08,Equiobturado
+I,26,Lingual,ninguna,3.43,limpia,Bulk,Con fibra de vidrio,1.0,113.22,9.45,2.68,Subobturado
+I,3,Oclusal,ninguna,4.13,limpia,Estratificacion,Fluida,3.5,70.69,6.5,4.21,Equiobturado
+I,22,Bucal,ninguna,1.46,limpia,Bulk,Con fibra de vidrio,1.0,103.53,10.7,1.76,Sobreobturado
+I,17,Lingual,ninguna,2.07,limpia,Estratificacion,Fluida,3.5,111.75,1.54,2.08,Equiobturado
+I,5,Oclusal,ninguna,3.92,con_tejido,Bulk,Bulk,1.5,85.19,7.98,4.31,Sobreobturado
+I,9,Bucal,ninguna,1.27,con_tejido,Bulk,Bulk,1.5,74.82,1.07,1.83,Sobreobturado
+I,12,Bucal,ninguna,1.1,limpia,Bulk,Bulk,1.5,113.49,10.97,0.63,Subobturado
+I,12,Lingual,ninguna,3.45,con_tejido,Bulk,Fluida,3.5,70.02,13.59,3.33,Subobturado
+I,2,Oclusal,ninguna,3.95,con_tejido,Bulk,Con fibra de vidrio,1.0,95.72,2.39,3.8,Equiobturado
+I,24,Lingual,ninguna,2.27,con_tejido,Estratificacion,Compuesta,2.0,106.01,8.99,2.14,Equiobturado
+I,23,Lingual,ninguna,1.85,limpia,Bulk,Bulk,1.5,71.17,9.37,1.69,Equiobturado
+I,5,Lingual,ninguna,1.49,con_tejido,Estratificacion,Compuesta,2.0,102.97,7.59,1.59,Equiobturado
+I,3,Bucal,ninguna,4.21,con_tejido,Estratificacion,Bulk,1.5,78.59,6.04,5.04,Sobreobturado
+I,29,Bucal,ninguna,1.85,con_tejido,Estratificacion,Fluida,3.5,100.77,13.99,2.16,Sobreobturado
+I,29,Oclusal,ninguna,2.04,con_tejido,Estratificacion,Con fibra de vidrio,1.0,75.48,12.61,2.38,Sobreobturado
+I,29,Oclusal,ninguna,4.47,limpia,Estratificacion,Con fibra de vidrio,1.0,94.74,17.2,3.93,Subobturado
+I,19,Oclusal,ninguna,4.32,limpia,Bulk,Con fibra de vidrio,1.0,95.95,10.99,5.26,Sobreobturado
+I,5,Oclusal,ninguna,4.85,limpia,Estratificacion,Con fibra de vidrio,1.0,80.07,11.55,4.09,Subobturado
+I,11,Lingual,ninguna,1.14,con_tejido,Estratificacion,Bulk,1.5,114.56,22.2,1.92,Sobreobturado
+I,18,Bucal,ninguna,1.96,con_tejido,Estratificacion,Bulk,1.5,109.98,15.98,2.17,Sobreobturado
+I,9,Lingual,ninguna,2.15,limpia,Estratificacion,Fluida,3.5,93.37,18.41,2.16,Equiobturado
+I,19,Bucal,ninguna,1.93,con_tejido,Estratificacion,Compuesta,2.0,118.1,9.91,1.83,Equiobturado
+I,17,Oclusal,ninguna,2.56,limpia,Estratificacion,Bulk,1.5,105.42,18.27,2.59,Equiobturado
+I,10,Bucal,ninguna,1.77,limpia,Estratificacion,Fluida,3.5,79.46,6.29,1.65,Subobturado
+I,14,Bucal,ninguna,1.56,con_tejido,Estratificacion,Bulk,1.5,69.0,4.83,2.51,Sobreobturado
+I,3,Oclusal,ninguna,1.86,con_tejido,Bulk,Bulk,1.5,79.01,2.51,1.51,Subobturado
+I,28,Bucal,ninguna,3.94,limpia,Estratificacion,Con fibra de vidrio,1.0,62.91,9.12,3.85,Equiobturado
+I,14,Lingual,ninguna,1.01,con_tejido,Estratificacion,Con fibra de vidrio,1.0,97.09,17.44,0.94,Equiobturado
+I,32,Lingual,ninguna,1.07,con_tejido,Bulk,Con fibra de vidrio,1.0,105.71,7.55,1.42,Sobreobturado
+I,16,Bucal,ninguna,1.31,con_tejido,Bulk,Fluida,3.5,76.99,13.01,1.35,Equiobturado
+I,17,Lingual,ninguna,1.19,con_tejido,Bulk,Fluida,3.5,64.3,3.73,1.03,Equiobturado
+I,11,Lingual,ninguna,2.76,con_tejido,Estratificacion,Con fibra de vidrio,1.0,65.42,10.18,2.79,Equiobturado
+I,32,Oclusal,ninguna,3.66,limpia,Estratificacion,Bulk,1.5,88.9,2.25,3.96,Sobreobturado
+I,28,Lingual,ninguna,1.7,limpia,Bulk,Compuesta,2.0,108.5,7.9,2.47,Sobreobturado
+I,22,Lingual,ninguna,4.11,con_tejido,Bulk,Fluida,3.5,96.21,16.92,4.05,Equiobturado
+I,14,Lingual,ninguna,4.26,con_tejido,Bulk,Fluida,3.5,89.32,13.94,3.57,Subobturado
+I,4,Oclusal,ninguna,2.98,limpia,Estratificacion,Fluida,3.5,74.36,11.05,2.82,Subobturado
+I,14,Bucal,ninguna,2.67,con_tejido,Estratificacion,Compuesta,2.0,101.3,3.13,2.58,Equiobturado
+I,7,Lingual,ninguna,4.07,limpia,Bulk,Bulk,1.5,119.41,13.95,3.92,Equiobturado
+I,1,Bucal,ninguna,2.24,con_tejido,Estratificacion,Compuesta,2.0,104.95,2.21,1.9,Subobturado
+I,32,Bucal,ninguna,2.7,limpia,Estratificacion,Fluida,3.5,104.89,13.37,2.26,Subobturado
+I,16,Lingual,ninguna,3.36,con_tejido,Bulk,Bulk,1.5,94.97,2.91,2.62,Subobturado
+I,8,Lingual,ninguna,4.86,con_tejido,Bulk,Compuesta,2.0,93.04,7.41,4.57,Subobturado
+I,29,Lingual,ninguna,4.97,con_tejido,Estratificacion,Bulk,1.5,112.46,9.63,4.8,Equiobturado
+I,26,Bucal,ninguna,3.65,limpia,Estratificacion,Con fibra de vidrio,1.0,72.64,6.38,3.71,Equiobturado
+I,7,Lingual,ninguna,1.93,limpia,Bulk,Con fibra de vidrio,1.0,96.3,1.01,1.19,Subobturado
+I,17,Bucal,ninguna,1.83,con_tejido,Bulk,Bulk,1.5,118.66,11.81,1.69,Equiobturado
+I,21,Bucal,ninguna,4.2,limpia,Bulk,Fluida,3.5,111.98,0.31,4.67,Sobreobturado
+I,14,Bucal,ninguna,4.72,limpia,Estratificacion,Bulk,1.5,103.88,18.72,3.98,Subobturado
+I,2,Bucal,ninguna,2.99,con_tejido,Bulk,Fluida,3.5,88.54,0.81,3.63,Sobreobturado
+I,21,Oclusal,ninguna,2.69,con_tejido,Estratificacion,Bulk,1.5,99.72,7.33,2.5,Equiobturado
+I,16,Lingual,ninguna,4.55,con_tejido,Bulk,Compuesta,2.0,106.3,8.41,3.75,Subobturado
+I,29,Oclusal,ninguna,1.39,limpia,Estratificacion,Bulk,1.5,100.02,10.52,2.38,Sobreobturado
+I,2,Lingual,ninguna,1.36,con_tejido,Estratificacion,Compuesta,2.0,79.45,9.96,2.3,Sobreobturado
+I,23,Bucal,ninguna,2.39,limpia,Bulk,Con fibra de vidrio,1.0,98.42,13.52,2.86,Sobreobturado
+I,22,Bucal,ninguna,4.12,con_tejido,Bulk,Compuesta,2.0,99.63,4.84,4.58,Sobreobturado
+I,17,Lingual,ninguna,3.46,limpia,Bulk,Bulk,1.5,113.57,1.87,3.37,Equiobturado
+I,5,Bucal,ninguna,2.32,con_tejido,Bulk,Fluida,3.5,64.75,1.67,3.25,Sobreobturado
+I,14,Bucal,ninguna,2.51,limpia,Estratificacion,Fluida,3.5,63.95,5.74,2.26,Subobturado
+I,15,Oclusal,ninguna,3.61,limpia,Bulk,Compuesta,2.0,95.52,10.46,2.86,Subobturado
+I,2,Lingual,ninguna,3.78,limpia,Estratificacion,Bulk,1.5,86.47,0.24,3.46,Subobturado
+I,19,Oclusal,ninguna,4.08,limpia,Estratificacion,Bulk,1.5,108.35,18.41,3.95,Subobturado
+I,26,Lingual,ninguna,4.21,limpia,Bulk,Bulk,1.5,75.24,14.8,4.89,Sobreobturado
+I,20,Lingual,ninguna,3.0,limpia,Bulk,Bulk,1.5,79.15,1.6,3.43,Sobreobturado
+I,28,Bucal,ninguna,4.49,con_tejido,Estratificacion,Bulk,1.5,104.74,16.24,4.66,Equiobturado
+I,16,Oclusal,ninguna,3.46,limpia,Bulk,Bulk,1.5,93.66,0.78,3.62,Equiobturado
+I,4,Oclusal,ninguna,2.3,con_tejido,Bulk,Con fibra de vidrio,1.0,60.28,2.19,2.5,Equiobturado
+I,10,Bucal,ninguna,4.45,limpia,Bulk,Fluida,3.5,79.21,8.56,5.28,Sobreobturado
+I,7,Lingual,ninguna,3.71,con_tejido,Bulk,Bulk,1.5,116.32,2.77,3.36,Subobturado
+I,31,Bucal,ninguna,1.99,limpia,Estratificacion,Bulk,1.5,61.99,2.57,1.46,Subobturado
+I,31,Lingual,ninguna,1.24,limpia,Bulk,Fluida,3.5,108.17,8.12,1.27,Sobreobturado
+I,23,Lingual,ninguna,2.0,limpia,Estratificacion,Compuesta,2.0,118.35,6.97,1.92,Equiobturado
+I,18,Lingual,ninguna,4.22,con_tejido,Bulk,Compuesta,2.0,87.47,8.99,4.39,Equiobturado
+I,6,Lingual,ninguna,2.63,limpia,Bulk,Con fibra de vidrio,1.0,72.18,1.49,2.79,Equiobturado
+I,22,Bucal,ninguna,2.15,limpia,Estratificacion,Compuesta,2.0,75.19,11.71,2.58,Sobreobturado
+I,4,Oclusal,ninguna,4.15,limpia,Estratificacion,Con fibra de vidrio,1.0,110.4,6.09,4.25,Equiobturado
+I,31,Bucal,ninguna,4.4,con_tejido,Bulk,Fluida,3.5,112.04,4.74,4.81,Sobreobturado
+I,7,Lingual,ninguna,1.21,con_tejido,Bulk,Compuesta,2.0,87.64,0.8,1.32,Equiobturado
+I,28,Lingual,ninguna,3.85,con_tejido,Bulk,Bulk,1.5,104.67,10.78,3.33,Subobturado
+I,28,Oclusal,ninguna,4.05,con_tejido,Bulk,Con fibra de vidrio,1.0,117.22,2.23,4.81,Sobreobturado
+I,24,Lingual,ninguna,3.05,con_tejido,Estratificacion,Bulk,1.5,71.0,4.44,2.19,Subobturado
+I,25,Bucal,ninguna,1.36,limpia,Bulk,Bulk,1.5,96.58,0.43,2.19,Sobreobturado
+I,7,Bucal,ninguna,4.52,con_tejido,Bulk,Bulk,1.5,94.14,3.8,4.46,Equiobturado
+I,11,Lingual,ninguna,4.26,limpia,Bulk,Con fibra de vidrio,1.0,67.02,5.57,4.41,Equiobturado
+I,10,Lingual,ninguna,2.81,limpia,Estratificacion,Fluida,3.5,118.21,14.53,1.81,Subobturado
+I,19,Bucal,ninguna,1.76,con_tejido,Bulk,Bulk,1.5,74.61,0.38,1.57,Equiobturado
+I,3,Bucal,ninguna,4.88,con_tejido,Estratificacion,Fluida,3.5,90.05,9.17,4.23,Subobturado
+I,17,Bucal,ninguna,2.5,limpia,Estratificacion,Con fibra de vidrio,1.0,60.27,3.35,2.94,Sobreobturado
+I,8,Bucal,ninguna,4.28,con_tejido,Estratificacion,Bulk,1.5,65.11,8.76,3.69,Subobturado
+I,27,Lingual,ninguna,2.4,limpia,Bulk,Bulk,1.5,78.92,14.69,2.3,Subobturado
+I,5,Lingual,ninguna,2.84,con_tejido,Estratificacion,Bulk,1.5,73.36,4.12,2.77,Equiobturado
+I,31,Oclusal,ninguna,2.19,limpia,Estratificacion,Con fibra de vidrio,1.0,117.02,2.91,2.12,Equiobturado
+I,2,Oclusal,ninguna,1.54,limpia,Bulk,Fluida,3.5,78.11,4.51,2.16,Sobreobturado
+I,32,Oclusal,ninguna,2.81,limpia,Bulk,Fluida,3.5,83.83,11.32,3.59,Sobreobturado
+I,20,Bucal,ninguna,1.65,limpia,Estratificacion,Compuesta,2.0,77.4,1.77,2.04,Sobreobturado
+I,7,Lingual,ninguna,1.51,con_tejido,Bulk,Compuesta,2.0,60.76,5.47,0.61,Subobturado
+I,15,Lingual,ninguna,2.04,con_tejido,Estratificacion,Bulk,1.5,76.98,6.97,2.59,Sobreobturado
+I,5,Oclusal,ninguna,4.55,limpia,Bulk,Fluida,3.5,77.59,9.83,4.35,Subobturado
+I,13,Bucal,ninguna,1.28,limpia,Bulk,Fluida,3.5,77.83,4.25,1.46,Equiobturado
+I,17,Bucal,ninguna,3.44,con_tejido,Bulk,Fluida,3.5,98.06,9.87,3.45,Sobreobturado
+I,10,Lingual,ninguna,4.78,limpia,Estratificacion,Bulk,1.5,71.66,8.75,3.96,Subobturado
+I,8,Bucal,ninguna,3.53,limpia,Estratificacion,Con fibra de vidrio,1.0,106.09,21.08,4.25,Sobreobturado
+I,22,Bucal,ninguna,1.49,con_tejido,Bulk,Con fibra de vidrio,1.0,70.13,6.75,1.6,Equiobturado
+I,28,Bucal,ninguna,2.73,con_tejido,Estratificacion,Compuesta,2.0,108.24,20.38,3.51,Sobreobturado
+I,5,Oclusal,ninguna,3.8,limpia,Bulk,Compuesta,2.0,118.18,15.27,4.66,Sobreobturado
+I,23,Lingual,ninguna,1.68,con_tejido,Estratificacion,Fluida,3.5,110.43,13.21,2.47,Sobreobturado
+I,13,Bucal,ninguna,1.48,limpia,Estratificacion,Bulk,1.5,109.64,20.95,1.4,Equiobturado
+I,2,Lingual,ninguna,1.82,con_tejido,Estratificacion,Fluida,3.5,102.2,18.5,1.07,Subobturado
+I,30,Bucal,ninguna,2.53,con_tejido,Bulk,Con fibra de vidrio,1.0,68.26,12.15,3.02,Sobreobturado
+I,28,Bucal,ninguna,2.6,con_tejido,Bulk,Con fibra de vidrio,1.0,97.57,2.45,3.06,Sobreobturado
+I,4,Bucal,ninguna,2.89,con_tejido,Bulk,Bulk,1.5,91.45,5.85,2.06,Subobturado
+I,19,Oclusal,ninguna,3.26,con_tejido,Estratificacion,Con fibra de vidrio,1.0,62.3,1.29,2.55,Subobturado
+I,29,Oclusal,ninguna,2.42,con_tejido,Estratificacion,Bulk,1.5,104.92,15.31,2.98,Sobreobturado
+I,21,Bucal,ninguna,3.66,limpia,Estratificacion,Compuesta,2.0,97.19,11.58,4.41,Sobreobturado
+I,25,Bucal,ninguna,4.15,limpia,Bulk,Compuesta,2.0,93.11,7.68,4.93,Sobreobturado
+I,16,Bucal,ninguna,1.74,con_tejido,Estratificacion,Con fibra de vidrio,1.0,95.46,14.39,1.83,Equiobturado
+I,1,Oclusal,ninguna,2.48,limpia,Estratificacion,Con fibra de vidrio,1.0,104.01,13.65,2.65,Equiobturado
+I,12,Bucal,ninguna,1.18,con_tejido,Estratificacion,Bulk,1.5,87.67,2.68,1.08,Subobturado
+I,26,Lingual,ninguna,3.87,limpia,Estratificacion,Bulk,1.5,110.34,6.71,3.84,Subobturado
+I,21,Oclusal,ninguna,4.31,limpia,Bulk,Con fibra de vidrio,1.0,79.12,14.4,4.44,Equiobturado
+I,30,Lingual,ninguna,2.02,con_tejido,Estratificacion,Fluida,3.5,72.33,2.22,1.61,Subobturado
+I,23,Bucal,ninguna,4.83,limpia,Estratificacion,Bulk,1.5,87.96,5.27,4.74,Subobturado
+I,3,Oclusal,ninguna,4.73,limpia,Bulk,Compuesta,2.0,84.91,5.94,4.88,Equiobturado
+I,28,Oclusal,ninguna,3.45,limpia,Bulk,Fluida,3.5,111.86,12.3,3.64,Sobreobturado
+I,21,Oclusal,ninguna,1.14,con_tejido,Estratificacion,Compuesta,2.0,96.05,13.29,0.27,Subobturado
+I,20,Bucal,ninguna,3.56,con_tejido,Bulk,Compuesta,2.0,79.5,11.18,3.37,Subobturado
+I,29,Oclusal,ninguna,3.49,con_tejido,Estratificacion,Compuesta,2.0,102.49,4.26,3.51,Equiobturado
+I,3,Oclusal,ninguna,3.92,con_tejido,Bulk,Bulk,1.5,69.0,10.08,3.8,Equiobturado
+I,28,Lingual,ninguna,4.56,con_tejido,Estratificacion,Con fibra de vidrio,1.0,99.22,18.49,5.02,Sobreobturado
+I,4,Bucal,ninguna,2.53,limpia,Bulk,Compuesta,2.0,68.0,0.63,2.18,Subobturado
+I,20,Bucal,ninguna,1.84,con_tejido,Bulk,Fluida,3.5,79.06,4.73,2.36,Sobreobturado
+I,25,Lingual,ninguna,4.71,con_tejido,Bulk,Compuesta,2.0,87.31,11.23,4.88,Sobreobturado
+I,21,Lingual,ninguna,3.91,limpia,Estratificacion,Bulk,1.5,107.16,21.24,3.91,Equiobturado
+I,14,Oclusal,ninguna,2.65,limpia,Estratificacion,Fluida,3.5,95.32,6.04,2.74,Equiobturado
+I,3,Bucal,ninguna,1.37,limpia,Estratificacion,Fluida,3.5,100.86,7.2,1.85,Sobreobturado
+I,18,Bucal,ninguna,1.08,limpia,Estratificacion,Compuesta,2.0,76.74,6.6,0.98,Subobturado
+I,3,Oclusal,ninguna,1.07,con_tejido,Estratificacion,Fluida,3.5,92.18,18.0,0.4,Subobturado
+I,5,Bucal,ninguna,4.39,limpia,Estratificacion,Bulk,1.5,99.4,10.41,5.2,Sobreobturado
+I,4,Lingual,ninguna,2.5,limpia,Estratificacion,Fluida,3.5,112.59,13.15,1.52,Subobturado
+I,1,Oclusal,ninguna,3.33,limpia,Bulk,Fluida,3.5,65.98,2.55,3.51,Equiobturado
+I,10,Bucal,ninguna,2.35,limpia,Estratificacion,Bulk,1.5,106.49,5.18,2.29,Equiobturado
+I,2,Lingual,ninguna,2.32,con_tejido,Estratificacion,Compuesta,2.0,100.39,19.14,2.53,Sobreobturado
+I,8,Bucal,ninguna,2.41,con_tejido,Bulk,Bulk,1.5,88.16,2.34,2.31,Equiobturado
+I,27,Lingual,ninguna,1.26,con_tejido,Bulk,Compuesta,2.0,100.87,4.26,0.37,Subobturado
+I,10,Lingual,ninguna,2.16,con_tejido,Bulk,Con fibra de vidrio,1.0,75.29,6.0,3.03,Sobreobturado
+I,32,Oclusal,ninguna,3.25,con_tejido,Estratificacion,Con fibra de vidrio,1.0,83.1,0.69,3.14,Equiobturado
+I,13,Oclusal,ninguna,3.2,limpia,Bulk,Bulk,1.5,93.0,15.57,3.35,Equiobturado
+I,30,Lingual,ninguna,3.85,con_tejido,Estratificacion,Bulk,1.5,90.82,1.05,4.09,Sobreobturado
+I,30,Lingual,ninguna,3.88,limpia,Bulk,Bulk,1.5,105.68,6.9,4.37,Sobreobturado
+I,10,Lingual,ninguna,4.21,con_tejido,Bulk,Bulk,1.5,74.75,8.47,4.33,Sobreobturado
+I,31,Lingual,ninguna,1.56,limpia,Estratificacion,Bulk,1.5,80.89,8.66,0.56,Subobturado
+I,25,Bucal,ninguna,1.9,con_tejido,Estratificacion,Bulk,1.5,98.71,4.71,1.96,Equiobturado
+I,19,Oclusal,ninguna,3.35,limpia,Bulk,Con fibra de vidrio,1.0,82.14,11.52,3.4,Equiobturado
+I,7,Lingual,ninguna,2.58,con_tejido,Estratificacion,Bulk,1.5,79.37,12.09,3.06,Sobreobturado
+I,6,Lingual,ninguna,3.93,con_tejido,Estratificacion,Compuesta,2.0,71.98,9.35,3.76,Subobturado
+I,5,Oclusal,ninguna,1.74,limpia,Estratificacion,Fluida,3.5,106.55,20.75,1.3,Subobturado
+I,29,Oclusal,ninguna,1.16,con_tejido,Estratificacion,Compuesta,2.0,68.6,5.29,1.46,Sobreobturado
+I,20,Bucal,ninguna,2.29,limpia,Estratificacion,Bulk,1.5,92.23,7.12,2.17,Equiobturado
+I,6,Lingual,ninguna,1.53,con_tejido,Estratificacion,Bulk,1.5,73.39,12.32,1.44,Equiobturado
+I,16,Oclusal,ninguna,2.98,limpia,Bulk,Con fibra de vidrio,1.0,109.34,19.27,3.34,Sobreobturado
+I,21,Bucal,ninguna,1.65,con_tejido,Bulk,Bulk,1.5,111.29,1.48,2.32,Sobreobturado
+I,4,Lingual,ninguna,2.34,limpia,Bulk,Compuesta,2.0,63.77,0.29,2.82,Sobreobturado
+I,2,Lingual,ninguna,1.81,con_tejido,Bulk,Bulk,1.5,85.87,0.54,1.97,Sobreobturado
+I,4,Lingual,ninguna,3.44,con_tejido,Estratificacion,Compuesta,2.0,90.24,9.07,3.57,Equiobturado
+I,2,Oclusal,ninguna,2.34,con_tejido,Estratificacion,Fluida,3.5,87.64,11.96,1.53,Subobturado
+I,16,Bucal,ninguna,2.97,limpia,Bulk,Fluida,3.5,65.26,8.74,3.28,Sobreobturado
+I,19,Bucal,ninguna,2.13,con_tejido,Estratificacion,Bulk,1.5,116.88,6.38,2.66,Sobreobturado
+I,28,Lingual,ninguna,4.58,con_tejido,Bulk,Compuesta,2.0,86.47,10.14,4.49,Equiobturado
+I,24,Bucal,ninguna,4.89,con_tejido,Estratificacion,Fluida,3.5,86.38,10.0,5.08,Equiobturado
+I,13,Oclusal,ninguna,1.06,con_tejido,Estratificacion,Bulk,1.5,86.38,13.43,1.0,Equiobturado
+I,31,Bucal,ninguna,2.32,con_tejido,Bulk,Fluida,3.5,80.54,3.64,2.17,Equiobturado
+I,29,Bucal,ninguna,1.94,limpia,Bulk,Compuesta,2.0,114.31,14.53,2.71,Sobreobturado
+I,15,Bucal,ninguna,4.99,limpia,Estratificacion,Fluida,3.5,107.09,2.43,5.01,Equiobturado
+I,22,Lingual,ninguna,3.76,limpia,Bulk,Con fibra de vidrio,1.0,104.17,5.8,3.93,Equiobturado
+I,15,Bucal,ninguna,1.28,limpia,Bulk,Fluida,3.5,64.71,5.79,1.66,Sobreobturado
+I,4,Lingual,ninguna,3.0,con_tejido,Estratificacion,Compuesta,2.0,84.76,4.86,3.8,Sobreobturado
+I,28,Oclusal,ninguna,1.84,limpia,Estratificacion,Con fibra de vidrio,1.0,84.09,10.15,2.04,Equiobturado
+I,29,Bucal,ninguna,1.92,limpia,Bulk,Bulk,1.5,84.33,0.39,2.01,Equiobturado
+I,3,Lingual,ninguna,3.96,con_tejido,Bulk,Con fibra de vidrio,1.0,91.07,7.56,3.12,Subobturado
+I,19,Lingual,ninguna,2.61,limpia,Bulk,Fluida,3.5,85.1,6.54,3.19,Sobreobturado
+I,18,Bucal,ninguna,4.66,limpia,Estratificacion,Fluida,3.5,82.01,12.5,5.33,Sobreobturado
+I,27,Bucal,ninguna,2.16,con_tejido,Bulk,Bulk,1.5,83.34,2.86,2.07,Equiobturado
+I,26,Bucal,ninguna,1.72,con_tejido,Bulk,Fluida,3.5,101.11,18.07,1.73,Equiobturado
+I,1,Oclusal,ninguna,1.43,limpia,Estratificacion,Con fibra de vidrio,1.0,114.83,15.77,2.06,Sobreobturado
+I,23,Bucal,ninguna,1.8,con_tejido,Estratificacion,Compuesta,2.0,81.09,7.07,0.84,Subobturado
+I,9,Bucal,ninguna,4.58,con_tejido,Estratificacion,Bulk,1.5,111.44,1.74,3.58,Subobturado
+I,13,Oclusal,ninguna,4.05,con_tejido,Bulk,Con fibra de vidrio,1.0,66.12,4.85,4.08,Equiobturado
+I,29,Bucal,ninguna,2.38,con_tejido,Estratificacion,Con fibra de vidrio,1.0,92.19,17.47,2.26,Subobturado
+I,27,Lingual,ninguna,1.66,con_tejido,Estratificacion,Fluida,3.5,97.24,12.88,1.55,Subobturado
+I,12,Lingual,ninguna,4.02,limpia,Bulk,Fluida,3.5,62.16,9.54,3.88,Equiobturado
+I,2,Oclusal,ninguna,3.43,limpia,Estratificacion,Fluida,3.5,75.43,13.19,2.96,Subobturado
+I,10,Bucal,ninguna,2.37,con_tejido,Estratificacion,Con fibra de vidrio,1.0,114.54,10.48,1.6,Subobturado
+I,1,Lingual,ninguna,1.25,con_tejido,Bulk,Compuesta,2.0,72.6,13.29,0.98,Subobturado
+I,27,Bucal,ninguna,3.02,limpia,Bulk,Fluida,3.5,89.66,15.11,2.67,Subobturado
+I,29,Bucal,ninguna,4.64,limpia,Bulk,Con fibra de vidrio,1.0,97.54,6.59,5.15,Sobreobturado
+I,2,Oclusal,ninguna,3.71,con_tejido,Estratificacion,Con fibra de vidrio,1.0,77.85,0.66,4.45,Sobreobturado
+I,29,Oclusal,ninguna,4.91,limpia,Bulk,Con fibra de vidrio,1.0,82.63,15.75,4.88,Equiobturado
+I,2,Bucal,ninguna,4.09,con_tejido,Estratificacion,Con fibra de vidrio,1.0,79.95,14.25,3.18,Subobturado
+I,14,Oclusal,ninguna,2.2,con_tejido,Estratificacion,Con fibra de vidrio,1.0,64.61,7.81,2.15,Equiobturado
+I,16,Bucal,ninguna,2.4,con_tejido,Bulk,Con fibra de vidrio,1.0,100.4,11.64,3.04,Sobreobturado
+I,2,Oclusal,ninguna,3.45,limpia,Estratificacion,Bulk,1.5,62.95,3.09,4.24,Sobreobturado
+I,20,Lingual,ninguna,2.72,limpia,Bulk,Bulk,1.5,69.57,9.79,2.78,Sobreobturado
+I,3,Lingual,ninguna,2.33,con_tejido,Estratificacion,Con fibra de vidrio,1.0,114.2,17.92,2.42,Equiobturado
+I,30,Lingual,ninguna,3.85,limpia,Estratificacion,Fluida,3.5,116.44,3.58,3.95,Equiobturado
+I,32,Oclusal,ninguna,3.14,limpia,Estratificacion,Fluida,3.5,66.71,4.02,3.85,Sobreobturado
+I,4,Oclusal,ninguna,2.62,con_tejido,Estratificacion,Bulk,1.5,68.35,6.5,2.69,Equiobturado
+I,5,Bucal,ninguna,2.33,limpia,Estratificacion,Con fibra de vidrio,1.0,72.81,11.76,1.38,Subobturado
+I,26,Lingual,ninguna,1.19,limpia,Bulk,Bulk,1.5,116.08,12.79,0.92,Subobturado
+I,16,Oclusal,ninguna,2.02,limpia,Estratificacion,Bulk,1.5,75.36,9.8,2.0,Equiobturado
+I,22,Bucal,ninguna,3.34,limpia,Estratificacion,Fluida,3.5,67.79,8.83,3.46,Sobreobturado
+I,12,Bucal,ninguna,4.74,limpia,Estratificacion,Fluida,3.5,109.59,6.42,4.8,Equiobturado
+I,31,Lingual,ninguna,3.22,con_tejido,Bulk,Compuesta,2.0,92.74,0.66,3.4,Equiobturado
+I,15,Bucal,ninguna,3.06,con_tejido,Estratificacion,Compuesta,2.0,116.78,21.69,2.92,Equiobturado
+I,10,Bucal,ninguna,2.45,limpia,Bulk,Bulk,1.5,116.37,15.33,2.53,Equiobturado
+I,21,Bucal,ninguna,4.81,limpia,Bulk,Fluida,3.5,96.34,14.39,5.02,Sobreobturado
+I,15,Lingual,ninguna,2.84,con_tejido,Bulk,Bulk,1.5,100.13,19.95,2.29,Subobturado
+I,20,Lingual,ninguna,4.8,limpia,Estratificacion,Bulk,1.5,71.47,7.59,5.68,Sobreobturado
+I,5,Oclusal,ninguna,3.98,con_tejido,Bulk,Con fibra de vidrio,1.0,99.33,1.51,3.25,Subobturado
+I,7,Lingual,ninguna,1.76,limpia,Bulk,Fluida,3.5,108.46,14.31,1.44,Subobturado
+I,32,Lingual,ninguna,4.08,con_tejido,Bulk,Fluida,3.5,66.97,0.28,4.06,Subobturado
+I,8,Bucal,ninguna,3.47,limpia,Bulk,Fluida,3.5,64.54,9.9,3.45,Subobturado
+I,24,Bucal,ninguna,4.06,con_tejido,Bulk,Compuesta,2.0,105.51,5.68,3.96,Equiobturado
+I,24,Bucal,ninguna,1.01,limpia,Estratificacion,Fluida,3.5,112.36,20.88,0.42,Subobturado
+I,20,Lingual,ninguna,3.32,limpia,Estratificacion,Compuesta,2.0,83.1,8.4,2.85,Subobturado
+I,9,Bucal,ninguna,2.77,limpia,Estratificacion,Bulk,1.5,89.3,14.95,2.36,Subobturado
+I,2,Bucal,ninguna,3.22,limpia,Bulk,Con fibra de vidrio,1.0,98.27,12.2,3.37,Equiobturado
+I,18,Bucal,ninguna,4.29,limpia,Estratificacion,Bulk,1.5,60.06,9.14,5.29,Sobreobturado
+I,17,Oclusal,ninguna,2.79,con_tejido,Estratificacion,Compuesta,2.0,100.13,4.71,2.0,Subobturado
+I,12,Oclusal,ninguna,3.97,limpia,Estratificacion,Fluida,3.5,119.08,2.82,4.87,Sobreobturado
+I,22,Bucal,ninguna,3.48,con_tejido,Bulk,Compuesta,2.0,72.3,7.96,3.33,Subobturado
+I,31,Lingual,ninguna,3.47,con_tejido,Bulk,Bulk,1.5,80.58,0.63,3.34,Subobturado
+I,27,Bucal,ninguna,3.99,con_tejido,Estratificacion,Fluida,3.5,96.96,10.41,4.19,Equiobturado
+I,4,Bucal,ninguna,2.8,con_tejido,Bulk,Compuesta,2.0,65.15,0.49,2.01,Subobturado
+I,16,Lingual,ninguna,1.59,limpia,Bulk,Fluida,3.5,76.66,5.0,1.93,Sobreobturado
+I,3,Bucal,ninguna,1.62,limpia,Bulk,Fluida,3.5,118.47,13.29,1.73,Sobreobturado
+I,2,Bucal,ninguna,3.38,limpia,Bulk,Bulk,1.5,75.87,10.89,3.26,Equiobturado
+I,17,Oclusal,ninguna,1.05,con_tejido,Estratificacion,Fluida,3.5,104.63,10.74,0.35,Subobturado
+I,24,Lingual,ninguna,3.41,con_tejido,Estratificacion,Fluida,3.5,73.07,4.53,3.33,Equiobturado
+I,21,Lingual,ninguna,4.46,limpia,Estratificacion,Con fibra de vidrio,1.0,96.2,17.42,4.55,Equiobturado
+I,32,Oclusal,ninguna,3.7,limpia,Bulk,Bulk,1.5,90.68,1.06,3.43,Subobturado
+I,24,Bucal,ninguna,1.51,con_tejido,Estratificacion,Con fibra de vidrio,1.0,70.48,0.98,2.04,Sobreobturado
+I,13,Oclusal,ninguna,4.68,limpia,Estratificacion,Con fibra de vidrio,1.0,114.61,11.37,4.57,Equiobturado
+I,4,Oclusal,ninguna,2.64,limpia,Estratificacion,Bulk,1.5,70.77,5.06,2.6,Equiobturado
+I,19,Oclusal,ninguna,2.2,con_tejido,Estratificacion,Bulk,1.5,114.76,0.47,2.11,Equiobturado
+I,28,Bucal,ninguna,3.15,con_tejido,Bulk,Con fibra de vidrio,1.0,99.19,5.73,3.56,Sobreobturado
+I,11,Lingual,ninguna,3.92,con_tejido,Bulk,Con fibra de vidrio,1.0,109.68,19.49,4.07,Equiobturado
+I,14,Bucal,ninguna,3.56,con_tejido,Bulk,Bulk,1.5,77.44,11.07,4.17,Sobreobturado
+I,29,Oclusal,ninguna,1.98,limpia,Estratificacion,Compuesta,2.0,98.06,13.04,1.07,Subobturado
+I,12,Oclusal,ninguna,3.61,con_tejido,Estratificacion,Fluida,3.5,87.24,10.7,2.77,Subobturado
+I,9,Bucal,ninguna,1.18,con_tejido,Estratificacion,Compuesta,2.0,97.95,13.49,1.23,Equiobturado
+I,2,Lingual,ninguna,2.54,con_tejido,Estratificacion,Fluida,3.5,117.47,9.6,1.56,Subobturado
+I,19,Bucal,ninguna,1.75,limpia,Estratificacion,Fluida,3.5,69.67,5.89,2.02,Sobreobturado
+I,2,Lingual,ninguna,2.06,con_tejido,Bulk,Bulk,1.5,68.29,9.87,1.59,Subobturado
+I,23,Lingual,ninguna,1.23,con_tejido,Estratificacion,Con fibra de vidrio,1.0,66.97,11.08,1.5,Sobreobturado
+I,18,Lingual,ninguna,3.02,limpia,Estratificacion,Bulk,1.5,65.59,12.69,3.41,Sobreobturado
+I,10,Bucal,ninguna,3.67,limpia,Estratificacion,Compuesta,2.0,76.6,14.65,3.03,Subobturado
+I,15,Bucal,ninguna,4.53,con_tejido,Bulk,Bulk,1.5,92.93,4.48,3.92,Subobturado
+I,28,Lingual,ninguna,3.26,con_tejido,Estratificacion,Compuesta,2.0,82.78,6.78,3.48,Sobreobturado
+I,6,Lingual,ninguna,4.04,limpia,Bulk,Fluida,3.5,102.27,2.36,3.59,Subobturado
+I,31,Bucal,ninguna,3.27,limpia,Bulk,Bulk,1.5,116.9,22.96,4.25,Sobreobturado
+I,17,Bucal,ninguna,1.6,con_tejido,Bulk,Con fibra de vidrio,1.0,76.0,3.26,0.62,Subobturado
+I,2,Oclusal,ninguna,1.47,con_tejido,Bulk,Fluida,3.5,70.6,8.15,1.55,Equiobturado
+I,17,Bucal,ninguna,1.87,limpia,Estratificacion,Con fibra de vidrio,1.0,100.29,17.51,2.02,Sobreobturado
+I,3,Oclusal,ninguna,4.19,limpia,Bulk,Compuesta,2.0,116.39,17.47,3.52,Subobturado
+I,4,Bucal,ninguna,3.37,limpia,Bulk,Bulk,1.5,69.73,10.41,3.37,Equiobturado
+I,14,Lingual,ninguna,1.36,con_tejido,Bulk,Bulk,1.5,74.28,13.64,1.32,Subobturado
+I,12,Oclusal,ninguna,2.24,con_tejido,Estratificacion,Con fibra de vidrio,1.0,111.89,3.36,2.54,Sobreobturado
+I,7,Bucal,ninguna,1.2,con_tejido,Estratificacion,Compuesta,2.0,112.06,15.35,1.35,Sobreobturado
+I,12,Bucal,ninguna,2.73,con_tejido,Estratificacion,Bulk,1.5,103.35,14.26,3.04,Sobreobturado
+I,28,Lingual,ninguna,2.2,con_tejido,Bulk,Fluida,3.5,111.05,5.49,2.91,Sobreobturado
+I,16,Oclusal,ninguna,2.08,limpia,Bulk,Compuesta,2.0,104.95,17.09,1.77,Subobturado
+I,19,Lingual,ninguna,2.43,con_tejido,Estratificacion,Compuesta,2.0,110.83,10.1,2.43,Equiobturado
+I,16,Oclusal,ninguna,2.97,limpia,Bulk,Bulk,1.5,84.29,4.07,3.61,Sobreobturado
+I,14,Lingual,ninguna,1.21,limpia,Estratificacion,Fluida,3.5,91.24,5.14,2.09,Sobreobturado
+I,31,Lingual,ninguna,3.23,con_tejido,Estratificacion,Bulk,1.5,112.6,9.25,3.78,Sobreobturado
+I,18,Oclusal,ninguna,2.27,limpia,Bulk,Con fibra de vidrio,1.0,89.16,16.52,2.32,Equiobturado
+I,11,Bucal,ninguna,3.78,limpia,Bulk,Con fibra de vidrio,1.0,102.91,2.58,4.3,Sobreobturado
+I,32,Oclusal,ninguna,3.54,limpia,Estratificacion,Con fibra de vidrio,1.0,111.15,8.65,3.58,Equiobturado
+I,32,Lingual,ninguna,2.9,limpia,Bulk,Compuesta,2.0,105.45,10.97,3.51,Sobreobturado
+I,15,Lingual,ninguna,1.52,limpia,Estratificacion,Fluida,3.5,95.38,0.9,1.37,Equiobturado
+I,31,Oclusal,ninguna,3.01,limpia,Estratificacion,Bulk,1.5,69.52,2.31,3.53,Sobreobturado
+I,19,Bucal,ninguna,1.59,limpia,Bulk,Bulk,1.5,102.58,5.5,2.07,Sobreobturado
+I,31,Bucal,ninguna,4.52,limpia,Bulk,Bulk,1.5,62.15,6.23,4.63,Equiobturado
+I,1,Lingual,ninguna,2.04,con_tejido,Bulk,Bulk,1.5,76.97,14.82,2.32,Sobreobturado
+I,1,Bucal,ninguna,1.32,con_tejido,Bulk,Con fibra de vidrio,1.0,69.35,4.36,0.69,Subobturado
+I,19,Oclusal,ninguna,4.65,limpia,Bulk,Fluida,3.5,69.3,6.96,4.76,Equiobturado
+I,3,Lingual,ninguna,1.05,con_tejido,Bulk,Fluida,3.5,61.8,11.87,1.87,Sobreobturado
+I,29,Bucal,ninguna,2.38,con_tejido,Bulk,Compuesta,2.0,77.73,1.47,2.36,Equiobturado
+I,30,Lingual,ninguna,4.98,con_tejido,Bulk,Compuesta,2.0,82.29,11.75,4.98,Equiobturado
+I,7,Bucal,ninguna,1.69,con_tejido,Bulk,Fluida,3.5,71.76,7.13,2.57,Sobreobturado
+I,1,Bucal,ninguna,4.5,con_tejido,Estratificacion,Bulk,1.5,76.16,7.5,5.16,Sobreobturado
+I,12,Bucal,ninguna,2.5,limpia,Estratificacion,Bulk,1.5,70.78,4.19,3.02,Sobreobturado
+I,1,Lingual,ninguna,4.18,con_tejido,Bulk,Compuesta,2.0,85.05,13.99,4.67,Sobreobturado
+I,27,Lingual,ninguna,3.62,con_tejido,Estratificacion,Bulk,1.5,92.82,10.69,2.76,Subobturado
+I,2,Lingual,ninguna,3.96,limpia,Estratificacion,Fluida,3.5,89.1,11.05,3.0,Subobturado
+I,13,Lingual,ninguna,4.61,limpia,Estratificacion,Fluida,3.5,106.82,12.53,4.73,Equiobturado
+I,20,Oclusal,ninguna,3.71,con_tejido,Estratificacion,Fluida,3.5,74.34,2.36,4.48,Sobreobturado
+I,4,Lingual,ninguna,3.89,con_tejido,Estratificacion,Compuesta,2.0,66.01,2.17,3.96,Equiobturado
+I,11,Bucal,ninguna,3.3,limpia,Bulk,Fluida,3.5,101.1,17.11,3.59,Sobreobturado
+I,2,Lingual,ninguna,3.59,limpia,Bulk,Con fibra de vidrio,1.0,80.39,11.03,3.44,Equiobturado
+I,2,Bucal,ninguna,2.77,limpia,Bulk,Bulk,1.5,60.94,3.47,2.88,Sobreobturado
+I,26,Lingual,ninguna,1.67,con_tejido,Bulk,Fluida,3.5,97.04,4.75,2.5,Sobreobturado
+I,15,Lingual,ninguna,1.41,con_tejido,Estratificacion,Compuesta,2.0,89.5,1.42,1.43,Equiobturado
+I,18,Bucal,ninguna,3.83,con_tejido,Bulk,Bulk,1.5,76.82,6.84,3.52,Subobturado
+I,19,Oclusal,ninguna,1.61,limpia,Bulk,Con fibra de vidrio,1.0,78.43,6.23,2.52,Sobreobturado
+I,3,Bucal,ninguna,4.29,con_tejido,Estratificacion,Con fibra de vidrio,1.0,119.68,15.1,4.55,Sobreobturado
+I,4,Oclusal,ninguna,4.69,con_tejido,Bulk,Bulk,1.5,110.64,11.07,4.58,Subobturado
+I,21,Bucal,ninguna,3.73,con_tejido,Bulk,Bulk,1.5,76.15,5.5,3.86,Sobreobturado
+I,2,Oclusal,ninguna,2.44,con_tejido,Estratificacion,Bulk,1.5,100.55,10.4,2.45,Equiobturado
+I,19,Bucal,ninguna,4.84,con_tejido,Bulk,Compuesta,2.0,81.42,12.05,5.0,Equiobturado
+I,7,Lingual,ninguna,1.85,con_tejido,Estratificacion,Fluida,3.5,108.87,19.51,1.16,Subobturado
+I,17,Bucal,ninguna,3.05,con_tejido,Bulk,Fluida,3.5,85.54,0.73,3.06,Equiobturado
+I,21,Oclusal,ninguna,2.26,limpia,Estratificacion,Fluida,3.5,82.07,8.07,2.16,Equiobturado
+I,30,Oclusal,ninguna,3.62,con_tejido,Estratificacion,Con fibra de vidrio,1.0,114.03,3.41,3.72,Equiobturado
+I,10,Lingual,ninguna,3.72,con_tejido,Estratificacion,Bulk,1.5,94.94,4.41,3.9,Equiobturado
+I,24,Lingual,ninguna,1.28,limpia,Bulk,Fluida,3.5,103.12,10.6,2.26,Sobreobturado
+I,24,Bucal,ninguna,1.75,limpia,Bulk,Compuesta,2.0,101.63,4.18,1.94,Equiobturado
+I,18,Oclusal,ninguna,2.29,con_tejido,Estratificacion,Bulk,1.5,92.8,3.85,2.92,Sobreobturado
+I,6,Lingual,ninguna,1.19,con_tejido,Estratificacion,Fluida,3.5,92.05,11.43,0.34,Subobturado
+I,10,Bucal,ninguna,2.74,con_tejido,Bulk,Con fibra de vidrio,1.0,78.04,3.62,3.12,Sobreobturado
+I,7,Bucal,ninguna,3.14,con_tejido,Estratificacion,Bulk,1.5,99.92,15.03,3.07,Equiobturado
+I,11,Lingual,ninguna,4.18,limpia,Bulk,Fluida,3.5,119.95,20.62,3.64,Subobturado
+I,12,Oclusal,ninguna,3.88,con_tejido,Bulk,Bulk,1.5,73.22,3.37,3.31,Subobturado
+I,10,Bucal,ninguna,4.78,limpia,Bulk,Compuesta,2.0,90.67,16.17,5.2,Sobreobturado
+I,30,Bucal,ninguna,2.45,limpia,Bulk,Fluida,3.5,80.57,12.93,2.58,Equiobturado
+I,17,Lingual,ninguna,1.46,limpia,Bulk,Compuesta,2.0,63.29,3.88,1.43,Subobturado
+I,1,Oclusal,ninguna,4.26,con_tejido,Bulk,Con fibra de vidrio,1.0,93.36,3.72,4.73,Sobreobturado
+I,16,Oclusal,ninguna,2.84,limpia,Estratificacion,Con fibra de vidrio,1.0,109.9,12.97,2.96,Sobreobturado
+I,4,Lingual,ninguna,3.03,con_tejido,Bulk,Compuesta,2.0,78.1,9.17,3.5,Sobreobturado
+I,7,Bucal,ninguna,4.86,con_tejido,Bulk,Fluida,3.5,102.29,19.67,4.99,Equiobturado
+I,3,Oclusal,ninguna,3.52,limpia,Bulk,Compuesta,2.0,98.75,5.69,2.77,Subobturado
+I,29,Oclusal,ninguna,4.89,limpia,Estratificacion,Fluida,3.5,88.03,2.94,4.3,Subobturado
+I,17,Bucal,ninguna,2.69,limpia,Bulk,Bulk,1.5,78.21,5.32,2.86,Equiobturado
+I,5,Oclusal,ninguna,3.07,con_tejido,Bulk,Con fibra de vidrio,1.0,86.61,12.68,2.99,Subobturado
+I,17,Lingual,ninguna,1.91,con_tejido,Bulk,Bulk,1.5,60.21,7.97,1.79,Equiobturado
+I,1,Oclusal,ninguna,1.67,limpia,Estratificacion,Compuesta,2.0,113.23,14.41,1.64,Equiobturado
+I,7,Bucal,ninguna,1.13,limpia,Estratificacion,Compuesta,2.0,62.03,0.36,1.27,Equiobturado
+I,5,Bucal,ninguna,1.24,con_tejido,Estratificacion,Bulk,1.5,109.0,6.56,1.66,Sobreobturado
+I,21,Lingual,ninguna,2.98,limpia,Estratificacion,Con fibra de vidrio,1.0,95.01,15.39,2.46,Subobturado
+I,6,Lingual,ninguna,2.79,con_tejido,Estratificacion,Compuesta,2.0,113.66,4.65,3.39,Sobreobturado
+I,28,Oclusal,ninguna,2.02,con_tejido,Estratificacion,Con fibra de vidrio,1.0,86.5,13.46,2.85,Sobreobturado
+I,18,Bucal,ninguna,1.43,con_tejido,Estratificacion,Bulk,1.5,72.08,0.24,1.25,Equiobturado
+I,19,Lingual,ninguna,1.74,limpia,Estratificacion,Compuesta,2.0,88.29,5.28,1.9,Equiobturado
+I,12,Lingual,ninguna,3.46,limpia,Bulk,Con fibra de vidrio,1.0,73.75,14.68,3.3,Equiobturado
+I,10,Bucal,ninguna,1.69,limpia,Bulk,Fluida,3.5,91.89,4.3,1.15,Subobturado
+I,11,Lingual,ninguna,1.33,limpia,Bulk,Con fibra de vidrio,1.0,104.0,13.37,0.86,Subobturado
+I,20,Lingual,ninguna,4.72,con_tejido,Bulk,Fluida,3.5,85.16,5.8,3.85,Subobturado
+I,11,Bucal,ninguna,2.36,con_tejido,Bulk,Compuesta,2.0,73.12,2.27,3.05,Sobreobturado
+I,16,Lingual,ninguna,2.86,con_tejido,Bulk,Con fibra de vidrio,1.0,91.27,15.95,3.39,Sobreobturado
+I,21,Bucal,ninguna,2.47,con_tejido,Estratificacion,Bulk,1.5,87.95,3.07,2.28,Equiobturado
+I,18,Bucal,ninguna,4.67,con_tejido,Estratificacion,Fluida,3.5,63.98,11.83,4.71,Equiobturado
+I,9,Lingual,ninguna,1.0,con_tejido,Bulk,Fluida,3.5,89.45,1.73,0.73,Subobturado
+I,25,Bucal,ninguna,2.68,limpia,Estratificacion,Fluida,3.5,69.39,4.31,1.99,Subobturado
+I,5,Oclusal,ninguna,2.99,con_tejido,Bulk,Compuesta,2.0,68.25,6.67,3.7,Sobreobturado
+I,15,Bucal,ninguna,2.25,con_tejido,Bulk,Fluida,3.5,99.19,11.51,2.67,Sobreobturado
+I,12,Lingual,ninguna,1.1,con_tejido,Estratificacion,Bulk,1.5,101.57,17.09,0.97,Subobturado
+I,7,Bucal,ninguna,2.25,limpia,Bulk,Bulk,1.5,94.79,15.67,2.35,Equiobturado
+I,12,Lingual,ninguna,2.36,con_tejido,Bulk,Con fibra de vidrio,1.0,84.48,5.54,2.38,Equiobturado
+I,8,Lingual,ninguna,4.39,con_tejido,Estratificacion,Compuesta,2.0,79.34,15.66,4.47,Equiobturado
+I,16,Lingual,ninguna,3.91,limpia,Bulk,Fluida,3.5,116.02,4.54,3.83,Equiobturado
+I,11,Lingual,ninguna,3.62,con_tejido,Bulk,Con fibra de vidrio,1.0,66.82,1.87,2.67,Subobturado
+I,23,Bucal,ninguna,2.58,limpia,Estratificacion,Bulk,1.5,80.32,13.32,2.69,Sobreobturado
+I,31,Oclusal,ninguna,2.59,con_tejido,Estratificacion,Con fibra de vidrio,1.0,111.28,5.25,2.31,Subobturado
+I,16,Lingual,ninguna,2.56,con_tejido,Estratificacion,Compuesta,2.0,99.73,8.75,3.01,Sobreobturado
+I,7,Lingual,ninguna,1.55,limpia,Estratificacion,Fluida,3.5,109.06,19.93,1.47,Subobturado
+I,25,Bucal,ninguna,3.88,limpia,Estratificacion,Fluida,3.5,109.59,18.31,4.2,Sobreobturado
+I,19,Lingual,ninguna,1.71,con_tejido,Bulk,Compuesta,2.0,94.09,14.48,2.28,Sobreobturado
+I,23,Bucal,ninguna,2.98,limpia,Bulk,Fluida,3.5,60.81,7.4,3.03,Sobreobturado
+I,26,Lingual,ninguna,1.61,limpia,Bulk,Con fibra de vidrio,1.0,114.45,2.33,1.6,Equiobturado
+I,18,Oclusal,ninguna,1.27,con_tejido,Bulk,Con fibra de vidrio,1.0,69.04,5.55,1.26,Equiobturado
+I,27,Bucal,ninguna,1.62,con_tejido,Bulk,Compuesta,2.0,65.32,11.98,1.87,Sobreobturado
+I,29,Bucal,ninguna,1.77,limpia,Estratificacion,Fluida,3.5,112.64,8.75,2.6,Sobreobturado
+I,31,Bucal,ninguna,1.83,limpia,Bulk,Fluida,3.5,113.7,13.35,1.47,Subobturado
+I,3,Lingual,ninguna,4.49,con_tejido,Bulk,Fluida,3.5,60.71,11.09,4.67,Equiobturado
+I,2,Lingual,ninguna,2.36,limpia,Estratificacion,Bulk,1.5,88.23,14.75,2.36,Equiobturado
+I,25,Bucal,ninguna,3.7,con_tejido,Estratificacion,Bulk,1.5,96.33,0.37,4.31,Sobreobturado
+I,22,Bucal,ninguna,1.56,limpia,Estratificacion,Compuesta,2.0,118.67,6.6,1.61,Equiobturado
+I,29,Bucal,ninguna,3.02,limpia,Bulk,Con fibra de vidrio,1.0,117.52,21.13,3.07,Equiobturado
+I,5,Bucal,ninguna,4.67,con_tejido,Estratificacion,Compuesta,2.0,64.63,10.45,4.75,Sobreobturado
+I,19,Oclusal,ninguna,4.72,limpia,Estratificacion,Compuesta,2.0,111.73,9.11,5.59,Sobreobturado
+I,22,Lingual,ninguna,1.77,con_tejido,Bulk,Con fibra de vidrio,1.0,103.2,11.93,2.77,Sobreobturado
+I,1,Lingual,ninguna,3.38,con_tejido,Estratificacion,Con fibra de vidrio,1.0,106.93,12.9,3.55,Equiobturado
+I,14,Oclusal,ninguna,1.33,con_tejido,Estratificacion,Con fibra de vidrio,1.0,77.72,11.36,1.84,Sobreobturado
+I,14,Lingual,ninguna,2.88,limpia,Bulk,Compuesta,2.0,118.05,10.81,3.35,Sobreobturado
+I,31,Bucal,ninguna,4.68,con_tejido,Estratificacion,Bulk,1.5,101.69,9.98,4.83,Sobreobturado
+I,15,Oclusal,ninguna,2.12,con_tejido,Bulk,Con fibra de vidrio,1.0,95.78,17.99,1.66,Subobturado
+I,3,Bucal,ninguna,4.25,limpia,Bulk,Fluida,3.5,87.79,5.05,4.3,Equiobturado
+I,11,Bucal,ninguna,3.31,con_tejido,Bulk,Fluida,3.5,70.45,4.11,3.96,Sobreobturado
+I,25,Bucal,ninguna,3.41,limpia,Estratificacion,Fluida,3.5,74.14,8.74,2.88,Subobturado
+I,10,Bucal,ninguna,2.64,limpia,Estratificacion,Compuesta,2.0,61.09,9.39,3.43,Sobreobturado
+I,22,Lingual,ninguna,3.81,limpia,Bulk,Bulk,1.5,66.18,10.85,3.9,Sobreobturado
+I,5,Bucal,ninguna,1.77,limpia,Bulk,Compuesta,2.0,93.07,3.0,2.3,Sobreobturado
+I,23,Bucal,ninguna,1.27,con_tejido,Bulk,Con fibra de vidrio,1.0,61.56,0.73,1.86,Sobreobturado
+I,32,Bucal,ninguna,1.14,con_tejido,Estratificacion,Fluida,3.5,65.13,10.76,1.19,Sobreobturado
+I,27,Bucal,ninguna,4.77,con_tejido,Bulk,Con fibra de vidrio,1.0,89.47,10.39,4.72,Equiobturado
+I,17,Bucal,ninguna,4.21,limpia,Bulk,Bulk,1.5,108.07,7.16,4.99,Sobreobturado
+I,7,Lingual,ninguna,4.95,con_tejido,Estratificacion,Bulk,1.5,111.68,0.53,5.0,Sobreobturado
+I,14,Oclusal,ninguna,2.0,limpia,Bulk,Compuesta,2.0,61.97,6.77,1.57,Subobturado
+I,24,Lingual,ninguna,2.73,con_tejido,Estratificacion,Bulk,1.5,63.35,8.88,1.82,Subobturado
+I,22,Bucal,ninguna,1.82,limpia,Estratificacion,Fluida,3.5,119.01,22.09,1.23,Subobturado
+I,31,Oclusal,ninguna,1.88,limpia,Bulk,Con fibra de vidrio,1.0,101.22,18.83,2.78,Sobreobturado
+I,30,Bucal,ninguna,4.73,limpia,Estratificacion,Fluida,3.5,108.06,12.12,5.34,Sobreobturado
+I,21,Oclusal,ninguna,3.83,con_tejido,Bulk,Bulk,1.5,61.24,10.27,4.57,Sobreobturado
+I,1,Bucal,ninguna,2.03,limpia,Bulk,Compuesta,2.0,106.09,13.16,2.42,Sobreobturado
+I,1,Lingual,ninguna,2.56,con_tejido,Bulk,Con fibra de vidrio,1.0,77.88,15.16,2.6,Equiobturado
+I,11,Lingual,ninguna,1.49,con_tejido,Bulk,Con fibra de vidrio,1.0,69.27,0.34,1.71,Sobreobturado
+I,21,Bucal,ninguna,3.16,con_tejido,Estratificacion,Fluida,3.5,116.96,12.09,3.05,Equiobturado
+I,8,Lingual,ninguna,2.85,limpia,Estratificacion,Bulk,1.5,70.61,1.86,3.85,Sobreobturado
+I,12,Oclusal,ninguna,4.94,limpia,Bulk,Compuesta,2.0,70.38,9.35,5.02,Equiobturado
+I,6,Lingual,ninguna,4.37,limpia,Bulk,Fluida,3.5,61.99,6.05,3.71,Subobturado
+I,7,Bucal,ninguna,4.69,limpia,Estratificacion,Fluida,3.5,74.53,14.17,5.09,Sobreobturado
+I,2,Oclusal,ninguna,1.8,limpia,Bulk,Con fibra de vidrio,1.0,84.87,9.03,2.46,Sobreobturado
+I,31,Bucal,ninguna,3.31,limpia,Estratificacion,Fluida,3.5,84.56,1.0,4.12,Sobreobturado
+I,15,Oclusal,ninguna,4.96,con_tejido,Bulk,Bulk,1.5,99.66,15.08,4.71,Subobturado
+I,10,Bucal,ninguna,4.17,limpia,Estratificacion,Compuesta,2.0,106.27,20.84,3.25,Subobturado
+I,24,Lingual,ninguna,3.62,limpia,Estratificacion,Bulk,1.5,110.5,15.09,3.49,Subobturado
+I,19,Bucal,ninguna,4.27,limpia,Bulk,Con fibra de vidrio,1.0,110.37,17.18,4.35,Sobreobturado
+I,6,Lingual,ninguna,2.74,con_tejido,Estratificacion,Con fibra de vidrio,1.0,117.99,13.13,3.55,Sobreobturado
+I,14,Lingual,ninguna,4.67,limpia,Bulk,Bulk,1.5,69.35,6.48,4.85,Equiobturado
+I,9,Bucal,ninguna,4.27,con_tejido,Bulk,Bulk,1.5,83.07,7.82,4.34,Equiobturado
+I,30,Oclusal,ninguna,2.47,limpia,Bulk,Compuesta,2.0,111.35,18.22,1.92,Subobturado
+I,29,Bucal,ninguna,3.88,con_tejido,Bulk,Compuesta,2.0,112.09,0.73,3.73,Subobturado
+I,15,Oclusal,ninguna,1.09,limpia,Bulk,Fluida,3.5,119.65,20.91,0.16,Subobturado
+I,12,Lingual,ninguna,1.06,con_tejido,Bulk,Fluida,3.5,86.16,14.13,0.88,Subobturado
+I,11,Bucal,ninguna,2.87,limpia,Estratificacion,Compuesta,2.0,102.67,17.86,3.12,Sobreobturado
+I,8,Lingual,ninguna,1.38,limpia,Bulk,Fluida,3.5,81.87,15.87,1.21,Equiobturado
+I,3,Bucal,ninguna,1.23,limpia,Estratificacion,Bulk,1.5,105.44,9.61,2.14,Sobreobturado
+I,4,Bucal,ninguna,4.83,limpia,Estratificacion,Fluida,3.5,71.24,4.29,5.69,Sobreobturado
+I,28,Lingual,ninguna,3.86,limpia,Estratificacion,Compuesta,2.0,81.62,14.57,4.52,Sobreobturado
+I,19,Lingual,ninguna,1.63,limpia,Bulk,Compuesta,2.0,108.68,1.47,2.51,Sobreobturado
+I,9,Lingual,ninguna,4.31,con_tejido,Estratificacion,Bulk,1.5,115.95,10.7,3.52,Subobturado
+I,11,Lingual,ninguna,3.62,limpia,Estratificacion,Fluida,3.5,99.1,0.79,3.48,Equiobturado
+I,2,Bucal,ninguna,3.48,con_tejido,Bulk,Bulk,1.5,97.11,7.48,4.4,Sobreobturado
+I,20,Bucal,ninguna,1.6,limpia,Estratificacion,Fluida,3.5,87.73,11.18,1.64,Equiobturado
+I,27,Lingual,ninguna,2.55,con_tejido,Estratificacion,Fluida,3.5,105.89,12.59,2.46,Equiobturado
+I,27,Lingual,ninguna,2.91,limpia,Bulk,Con fibra de vidrio,1.0,118.02,7.85,2.77,Equiobturado
+I,29,Lingual,ninguna,2.89,limpia,Bulk,Con fibra de vidrio,1.0,106.59,2.6,2.96,Sobreobturado
+I,18,Bucal,ninguna,2.31,con_tejido,Bulk,Con fibra de vidrio,1.0,67.15,1.39,2.17,Equiobturado
+I,28,Oclusal,ninguna,2.53,con_tejido,Bulk,Bulk,1.5,90.21,10.06,2.73,Sobreobturado
+I,21,Lingual,ninguna,4.16,con_tejido,Estratificacion,Bulk,1.5,89.69,4.55,3.45,Subobturado
+I,17,Oclusal,ninguna,1.83,limpia,Estratificacion,Con fibra de vidrio,1.0,109.5,9.76,1.13,Subobturado
+I,30,Oclusal,ninguna,3.62,con_tejido,Bulk,Compuesta,2.0,118.32,23.39,2.93,Subobturado
+I,29,Bucal,ninguna,1.26,con_tejido,Estratificacion,Fluida,3.5,92.68,13.93,1.46,Sobreobturado
+I,9,Bucal,ninguna,2.81,con_tejido,Bulk,Con fibra de vidrio,1.0,70.69,8.04,3.58,Sobreobturado
+I,26,Bucal,ninguna,2.99,limpia,Bulk,Bulk,1.5,75.85,4.76,2.65,Subobturado
+I,13,Lingual,ninguna,2.2,con_tejido,Bulk,Fluida,3.5,106.29,18.46,1.89,Subobturado
+I,23,Lingual,ninguna,3.0,con_tejido,Estratificacion,Fluida,3.5,75.92,3.23,3.97,Sobreobturado
+I,4,Oclusal,ninguna,1.4,con_tejido,Bulk,Bulk,1.5,106.59,1.38,1.22,Equiobturado
+I,12,Lingual,ninguna,3.56,limpia,Estratificacion,Fluida,3.5,88.52,16.84,2.72,Subobturado
+I,5,Oclusal,ninguna,2.0,limpia,Bulk,Bulk,1.5,111.44,19.06,1.83,Equiobturado
+I,18,Oclusal,ninguna,2.29,con_tejido,Bulk,Con fibra de vidrio,1.0,100.48,18.03,2.31,Equiobturado
+I,3,Bucal,ninguna,4.54,con_tejido,Bulk,Con fibra de vidrio,1.0,99.5,3.59,4.7,Sobreobturado
+I,18,Bucal,ninguna,3.51,limpia,Estratificacion,Compuesta,2.0,92.53,5.82,3.58,Sobreobturado
+I,18,Lingual,ninguna,4.2,limpia,Bulk,Con fibra de vidrio,1.0,78.25,13.31,5.0,Sobreobturado
+I,5,Lingual,ninguna,1.96,limpia,Bulk,Bulk,1.5,60.87,10.56,1.5,Subobturado
+I,11,Bucal,ninguna,4.65,con_tejido,Estratificacion,Bulk,1.5,109.22,16.74,3.94,Subobturado
+I,16,Oclusal,ninguna,2.96,limpia,Estratificacion,Compuesta,2.0,100.96,10.81,2.84,Equiobturado
+I,31,Oclusal,ninguna,3.47,limpia,Bulk,Con fibra de vidrio,1.0,93.57,14.08,3.5,Equiobturado
+I,6,Lingual,ninguna,4.77,con_tejido,Estratificacion,Con fibra de vidrio,1.0,105.17,3.13,4.73,Equiobturado
+I,28,Lingual,ninguna,1.19,limpia,Estratificacion,Con fibra de vidrio,1.0,119.49,18.69,1.31,Equiobturado
+I,22,Lingual,ninguna,2.9,con_tejido,Bulk,Compuesta,2.0,91.58,12.81,1.99,Subobturado
+I,25,Bucal,ninguna,3.95,con_tejido,Bulk,Compuesta,2.0,88.23,7.4,3.06,Subobturado
+I,5,Lingual,ninguna,2.32,con_tejido,Estratificacion,Con fibra de vidrio,1.0,101.27,10.22,2.8,Sobreobturado
+I,19,Oclusal,ninguna,3.35,limpia,Estratificacion,Bulk,1.5,70.34,3.41,3.22,Subobturado
+I,32,Bucal,ninguna,1.62,con_tejido,Bulk,Compuesta,2.0,89.62,15.74,2.05,Sobreobturado
+I,27,Lingual,ninguna,1.18,con_tejido,Estratificacion,Bulk,1.5,97.9,0.35,1.07,Equiobturado
+I,14,Bucal,ninguna,2.31,limpia,Bulk,Fluida,3.5,80.81,3.08,1.63,Subobturado
+I,21,Oclusal,ninguna,2.43,limpia,Bulk,Fluida,3.5,117.78,0.04,1.59,Subobturado
+I,15,Bucal,ninguna,3.1,con_tejido,Bulk,Fluida,3.5,72.52,7.56,3.67,Sobreobturado
+I,6,Bucal,ninguna,4.9,con_tejido,Bulk,Con fibra de vidrio,1.0,106.25,16.98,5.55,Sobreobturado
+I,16,Oclusal,ninguna,2.08,con_tejido,Estratificacion,Bulk,1.5,69.67,2.64,1.91,Subobturado
+I,16,Lingual,ninguna,3.8,limpia,Bulk,Fluida,3.5,77.71,2.15,3.99,Equiobturado
+I,31,Bucal,ninguna,4.79,con_tejido,Estratificacion,Bulk,1.5,84.38,14.15,4.6,Subobturado
+I,4,Lingual,ninguna,2.04,limpia,Estratificacion,Compuesta,2.0,108.78,19.23,2.43,Sobreobturado
+I,7,Lingual,ninguna,1.63,con_tejido,Bulk,Con fibra de vidrio,1.0,101.43,0.39,1.64,Equiobturado
+I,13,Lingual,ninguna,3.47,con_tejido,Estratificacion,Compuesta,2.0,109.63,15.59,4.38,Sobreobturado
+I,32,Lingual,ninguna,4.15,con_tejido,Bulk,Fluida,3.5,72.85,3.2,4.23,Sobreobturado
+I,8,Bucal,ninguna,3.49,con_tejido,Estratificacion,Compuesta,2.0,99.02,15.71,3.65,Equiobturado
+I,30,Lingual,ninguna,2.32,con_tejido,Bulk,Fluida,3.5,101.86,13.19,2.46,Equiobturado
+I,18,Lingual,ninguna,2.3,limpia,Bulk,Compuesta,2.0,111.09,8.43,2.23,Equiobturado
+I,25,Lingual,ninguna,3.54,limpia,Estratificacion,Fluida,3.5,115.67,10.71,3.73,Equiobturado
+I,30,Oclusal,ninguna,4.02,limpia,Estratificacion,Con fibra de vidrio,1.0,106.84,14.9,4.13,Sobreobturado
+I,21,Lingual,ninguna,1.1,con_tejido,Bulk,Compuesta,2.0,85.55,6.26,1.47,Sobreobturado
+I,2,Bucal,ninguna,4.48,con_tejido,Estratificacion,Compuesta,2.0,110.8,5.32,4.36,Subobturado
+I,29,Oclusal,ninguna,1.16,limpia,Bulk,Bulk,1.5,106.54,9.81,1.26,Equiobturado
+I,1,Bucal,ninguna,1.75,limpia,Bulk,Con fibra de vidrio,1.0,91.93,8.4,1.02,Subobturado
+I,20,Oclusal,ninguna,4.16,limpia,Bulk,Con fibra de vidrio,1.0,107.9,11.14,4.25,Equiobturado
+I,14,Oclusal,ninguna,3.57,limpia,Estratificacion,Bulk,1.5,105.49,20.42,3.48,Equiobturado
+I,14,Oclusal,ninguna,3.2,con_tejido,Bulk,Bulk,1.5,85.3,11.79,2.61,Subobturado
+I,1,Bucal,ninguna,4.62,limpia,Bulk,Bulk,1.5,73.64,0.17,4.45,Subobturado
+I,6,Bucal,ninguna,4.1,con_tejido,Bulk,Fluida,3.5,75.86,6.63,3.87,Subobturado
+I,10,Lingual,ninguna,1.83,con_tejido,Bulk,Fluida,3.5,75.12,6.54,2.83,Sobreobturado
+I,7,Lingual,ninguna,3.44,limpia,Estratificacion,Con fibra de vidrio,1.0,91.65,16.49,3.42,Equiobturado
+I,12,Bucal,ninguna,3.44,con_tejido,Estratificacion,Fluida,3.5,63.26,4.12,3.31,Equiobturado
+I,29,Lingual,ninguna,1.31,con_tejido,Bulk,Bulk,1.5,69.78,10.95,1.48,Equiobturado
+I,20,Oclusal,ninguna,2.0,con_tejido,Bulk,Compuesta,2.0,109.19,10.61,2.67,Sobreobturado
+I,18,Lingual,ninguna,2.74,con_tejido,Bulk,Con fibra de vidrio,1.0,65.38,0.29,2.04,Subobturado
+I,14,Bucal,ninguna,4.56,con_tejido,Bulk,Bulk,1.5,69.68,9.95,3.9,Subobturado
+I,32,Bucal,ninguna,4.0,con_tejido,Estratificacion,Fluida,3.5,70.43,3.45,4.86,Sobreobturado
+I,15,Oclusal,ninguna,4.83,limpia,Bulk,Bulk,1.5,115.92,10.49,4.81,Equiobturado
+I,5,Oclusal,ninguna,3.22,con_tejido,Estratificacion,Bulk,1.5,63.04,12.4,2.86,Subobturado
+I,1,Bucal,ninguna,1.55,con_tejido,Bulk,Compuesta,2.0,114.63,6.07,0.55,Subobturado
+I,1,Lingual,ninguna,3.35,con_tejido,Estratificacion,Con fibra de vidrio,1.0,96.59,17.45,3.31,Equiobturado
+I,16,Lingual,ninguna,1.61,con_tejido,Bulk,Compuesta,2.0,62.23,5.33,1.37,Subobturado
+I,16,Bucal,ninguna,4.04,con_tejido,Bulk,Compuesta,2.0,99.99,1.71,3.32,Subobturado
+I,21,Oclusal,ninguna,1.71,limpia,Bulk,Compuesta,2.0,94.86,5.69,1.07,Subobturado
+I,1,Oclusal,ninguna,1.68,limpia,Estratificacion,Fluida,3.5,61.86,4.19,1.0,Subobturado
+I,32,Oclusal,ninguna,3.17,limpia,Bulk,Fluida,3.5,98.5,8.15,2.76,Subobturado
+I,29,Oclusal,ninguna,2.56,con_tejido,Bulk,Con fibra de vidrio,1.0,112.43,8.91,2.74,Sobreobturado
+I,11,Lingual,ninguna,3.8,limpia,Bulk,Fluida,3.5,70.45,4.81,3.75,Equiobturado
+I,26,Lingual,ninguna,4.39,con_tejido,Bulk,Bulk,1.5,82.89,10.69,4.84,Sobreobturado
+I,21,Bucal,ninguna,4.02,con_tejido,Bulk,Bulk,1.5,83.28,2.8,3.42,Subobturado
+I,16,Oclusal,ninguna,2.47,limpia,Estratificacion,Bulk,1.5,95.05,10.03,2.3,Equiobturado
+I,12,Oclusal,ninguna,4.91,con_tejido,Bulk,Bulk,1.5,93.63,12.64,4.1,Subobturado
+I,1,Lingual,ninguna,2.69,con_tejido,Estratificacion,Compuesta,2.0,87.0,15.52,2.12,Subobturado
+I,7,Bucal,ninguna,1.74,con_tejido,Estratificacion,Fluida,3.5,113.13,2.4,1.12,Subobturado
+I,4,Lingual,ninguna,2.84,limpia,Estratificacion,Compuesta,2.0,94.25,15.38,2.26,Subobturado
+I,32,Lingual,ninguna,4.76,con_tejido,Bulk,Fluida,3.5,93.94,10.63,3.9,Subobturado
+I,25,Bucal,ninguna,4.84,limpia,Estratificacion,Fluida,3.5,61.66,8.84,5.36,Sobreobturado
+I,11,Bucal,ninguna,2.87,con_tejido,Estratificacion,Bulk,1.5,99.2,10.25,3.05,Equiobturado
+I,21,Bucal,ninguna,2.15,limpia,Bulk,Bulk,1.5,92.97,18.39,2.11,Equiobturado
+I,8,Bucal,ninguna,1.84,con_tejido,Bulk,Con fibra de vidrio,1.0,83.47,15.08,2.05,Sobreobturado
+I,16,Lingual,ninguna,3.47,limpia,Bulk,Con fibra de vidrio,1.0,92.54,9.45,3.42,Equiobturado
+I,20,Bucal,ninguna,4.86,limpia,Estratificacion,Bulk,1.5,89.46,16.25,5.68,Sobreobturado
+I,14,Oclusal,ninguna,1.33,limpia,Estratificacion,Con fibra de vidrio,1.0,115.6,8.47,1.27,Subobturado
+I,17,Bucal,ninguna,3.44,con_tejido,Estratificacion,Compuesta,2.0,64.23,9.9,3.57,Sobreobturado
+I,4,Lingual,ninguna,4.07,con_tejido,Estratificacion,Con fibra de vidrio,1.0,95.43,11.77,4.2,Equiobturado
+I,12,Bucal,ninguna,3.95,limpia,Estratificacion,Bulk,1.5,112.55,7.05,4.64,Sobreobturado
+I,15,Lingual,ninguna,4.2,con_tejido,Bulk,Fluida,3.5,111.38,14.23,3.66,Subobturado
+I,29,Bucal,ninguna,4.94,limpia,Estratificacion,Fluida,3.5,83.83,4.35,4.8,Subobturado
+I,7,Bucal,ninguna,1.28,con_tejido,Estratificacion,Compuesta,2.0,67.41,7.37,2.28,Sobreobturado
+I,23,Bucal,ninguna,3.78,con_tejido,Bulk,Con fibra de vidrio,1.0,80.64,7.71,4.14,Sobreobturado
+I,18,Lingual,ninguna,3.57,con_tejido,Estratificacion,Bulk,1.5,81.71,3.31,3.54,Equiobturado
+I,19,Lingual,ninguna,2.23,con_tejido,Bulk,Fluida,3.5,77.04,10.72,2.55,Sobreobturado
+I,17,Oclusal,ninguna,3.17,con_tejido,Bulk,Fluida,3.5,81.16,15.82,2.8,Subobturado
+I,28,Oclusal,ninguna,2.87,limpia,Estratificacion,Compuesta,2.0,71.88,12.58,2.3,Subobturado
+I,4,Lingual,ninguna,3.55,con_tejido,Estratificacion,Fluida,3.5,103.84,5.63,3.5,Equiobturado
+I,17,Bucal,ninguna,2.93,limpia,Bulk,Bulk,1.5,115.96,4.82,2.36,Subobturado
+I,6,Lingual,ninguna,3.49,con_tejido,Estratificacion,Bulk,1.5,110.37,5.55,3.38,Equiobturado
+I,26,Bucal,ninguna,2.51,limpia,Bulk,Compuesta,2.0,77.56,12.76,2.35,Equiobturado
+I,7,Lingual,ninguna,2.21,con_tejido,Bulk,Fluida,3.5,77.27,1.47,1.8,Subobturado
+I,14,Bucal,ninguna,2.59,limpia,Estratificacion,Fluida,3.5,76.12,11.27,2.23,Subobturado
+I,31,Lingual,ninguna,2.0,con_tejido,Estratificacion,Fluida,3.5,90.28,10.62,2.2,Equiobturado
+I,21,Lingual,ninguna,3.3,limpia,Estratificacion,Fluida,3.5,74.55,10.48,2.56,Subobturado
+I,14,Oclusal,ninguna,2.84,limpia,Estratificacion,Fluida,3.5,61.44,9.37,3.74,Sobreobturado
+I,16,Lingual,ninguna,2.89,limpia,Bulk,Compuesta,2.0,116.84,14.52,2.82,Subobturado
+I,1,Lingual,ninguna,1.43,con_tejido,Bulk,Fluida,3.5,112.84,15.42,1.36,Equiobturado
+I,31,Oclusal,ninguna,2.96,limpia,Estratificacion,Bulk,1.5,61.11,5.71,2.57,Subobturado
+I,22,Lingual,ninguna,3.02,limpia,Estratificacion,Con fibra de vidrio,1.0,115.11,18.41,2.22,Subobturado
+I,30,Bucal,ninguna,4.86,con_tejido,Bulk,Bulk,1.5,76.46,8.81,4.85,Equiobturado
+I,26,Lingual,ninguna,1.2,limpia,Estratificacion,Bulk,1.5,107.85,18.97,1.01,Subobturado
+I,1,Bucal,ninguna,4.79,limpia,Bulk,Con fibra de vidrio,1.0,94.81,16.35,5.5,Sobreobturado
+I,12,Lingual,ninguna,5.0,limpia,Bulk,Compuesta,2.0,72.57,0.01,5.32,Sobreobturado
+I,16,Oclusal,ninguna,2.81,con_tejido,Estratificacion,Con fibra de vidrio,1.0,92.76,1.48,2.47,Subobturado
+I,16,Oclusal,ninguna,4.15,con_tejido,Bulk,Compuesta,2.0,60.47,7.23,3.72,Subobturado
+I,15,Bucal,ninguna,1.8,con_tejido,Estratificacion,Con fibra de vidrio,1.0,62.95,7.67,1.97,Equiobturado
+I,14,Lingual,ninguna,2.33,con_tejido,Bulk,Fluida,3.5,112.69,8.27,2.21,Subobturado
+I,15,Lingual,ninguna,4.99,limpia,Bulk,Compuesta,2.0,83.79,9.43,5.1,Equiobturado
+I,4,Lingual,ninguna,3.67,con_tejido,Estratificacion,Compuesta,2.0,73.14,14.31,3.29,Subobturado
+I,18,Oclusal,ninguna,2.8,con_tejido,Estratificacion,Fluida,3.5,109.88,4.25,2.54,Subobturado
+I,15,Lingual,ninguna,1.64,con_tejido,Bulk,Bulk,1.5,102.26,3.75,1.75,Equiobturado
+I,32,Bucal,ninguna,1.29,limpia,Bulk,Fluida,3.5,69.08,6.96,2.03,Sobreobturado
+I,23,Lingual,ninguna,1.82,con_tejido,Bulk,Compuesta,2.0,87.42,7.28,1.2,Subobturado
+I,27,Bucal,ninguna,3.7,limpia,Bulk,Compuesta,2.0,76.56,8.46,4.05,Sobreobturado
+I,4,Lingual,ninguna,3.05,con_tejido,Bulk,Bulk,1.5,64.12,10.52,2.12,Subobturado
+I,15,Oclusal,ninguna,4.75,con_tejido,Estratificacion,Con fibra de vidrio,1.0,65.11,7.26,4.66,Equiobturado
+I,27,Bucal,ninguna,2.14,con_tejido,Bulk,Compuesta,2.0,82.12,8.26,2.47,Sobreobturado
+I,16,Bucal,ninguna,4.76,limpia,Estratificacion,Con fibra de vidrio,1.0,79.74,14.47,5.69,Sobreobturado
+I,31,Bucal,ninguna,3.66,limpia,Estratificacion,Bulk,1.5,100.8,5.09,3.6,Equiobturado
+I,28,Bucal,ninguna,4.01,limpia,Bulk,Fluida,3.5,85.88,14.36,4.03,Sobreobturado
+I,29,Lingual,ninguna,4.85,con_tejido,Bulk,Compuesta,2.0,108.46,10.96,4.16,Subobturado
+I,12,Lingual,ninguna,1.43,limpia,Estratificacion,Con fibra de vidrio,1.0,89.32,3.5,1.02,Subobturado
+I,13,Lingual,ninguna,1.02,limpia,Estratificacion,Bulk,1.5,98.25,3.1,1.04,Equiobturado
+I,4,Bucal,ninguna,2.4,con_tejido,Estratificacion,Bulk,1.5,89.26,7.29,2.51,Equiobturado
+I,14,Bucal,ninguna,4.5,con_tejido,Estratificacion,Compuesta,2.0,92.63,4.3,4.66,Equiobturado
+I,32,Oclusal,ninguna,3.25,con_tejido,Bulk,Fluida,3.5,105.57,16.05,3.51,Sobreobturado
+I,25,Lingual,ninguna,3.1,con_tejido,Bulk,Con fibra de vidrio,1.0,82.61,5.88,3.05,Equiobturado
+I,20,Oclusal,ninguna,2.65,con_tejido,Estratificacion,Con fibra de vidrio,1.0,68.01,10.37,3.38,Sobreobturado
+I,14,Oclusal,ninguna,3.53,con_tejido,Bulk,Compuesta,2.0,79.43,9.78,4.32,Sobreobturado
+I,13,Lingual,ninguna,2.79,con_tejido,Bulk,Con fibra de vidrio,1.0,91.29,12.15,2.8,Sobreobturado
+I,31,Oclusal,ninguna,2.42,limpia,Estratificacion,Compuesta,2.0,89.22,13.36,2.75,Sobreobturado
+I,17,Lingual,ninguna,2.88,con_tejido,Bulk,Con fibra de vidrio,1.0,103.26,3.8,3.77,Sobreobturado
+I,30,Oclusal,ninguna,3.9,limpia,Estratificacion,Con fibra de vidrio,1.0,99.19,16.86,3.88,Equiobturado
+I,24,Lingual,ninguna,1.08,con_tejido,Bulk,Bulk,1.5,84.67,1.56,2.03,Sobreobturado
+I,31,Oclusal,ninguna,3.03,limpia,Estratificacion,Bulk,1.5,115.93,2.7,3.37,Sobreobturado
+I,25,Bucal,ninguna,2.39,con_tejido,Bulk,Fluida,3.5,67.15,1.7,3.31,Sobreobturado
+I,29,Bucal,ninguna,4.41,con_tejido,Estratificacion,Con fibra de vidrio,1.0,102.29,1.7,4.52,Equiobturado
+I,21,Oclusal,ninguna,2.34,con_tejido,Bulk,Bulk,1.5,83.76,14.35,2.17,Subobturado
+I,3,Oclusal,ninguna,2.82,con_tejido,Estratificacion,Con fibra de vidrio,1.0,74.19,7.53,3.54,Sobreobturado
+I,3,Lingual,ninguna,3.73,con_tejido,Estratificacion,Con fibra de vidrio,1.0,100.95,7.99,4.54,Sobreobturado
+I,8,Bucal,ninguna,2.56,con_tejido,Estratificacion,Compuesta,2.0,75.63,12.08,2.31,Subobturado
+I,15,Oclusal,ninguna,1.98,limpia,Bulk,Con fibra de vidrio,1.0,119.23,3.88,1.28,Subobturado
+I,30,Lingual,ninguna,4.83,con_tejido,Bulk,Con fibra de vidrio,1.0,68.12,1.75,4.68,Equiobturado
+I,17,Bucal,ninguna,1.76,limpia,Estratificacion,Con fibra de vidrio,1.0,70.14,5.95,2.7,Sobreobturado
+I,15,Lingual,ninguna,2.17,con_tejido,Estratificacion,Bulk,1.5,83.47,2.67,2.01,Equiobturado
+I,30,Lingual,ninguna,2.84,limpia,Bulk,Compuesta,2.0,97.03,1.06,2.96,Equiobturado
+I,21,Bucal,ninguna,2.99,con_tejido,Estratificacion,Con fibra de vidrio,1.0,61.93,6.45,3.13,Sobreobturado
+I,28,Lingual,ninguna,2.53,limpia,Bulk,Compuesta,2.0,112.1,4.53,2.86,Sobreobturado
+I,17,Bucal,ninguna,3.54,limpia,Estratificacion,Fluida,3.5,76.03,1.41,3.77,Sobreobturado
+I,28,Bucal,ninguna,4.85,con_tejido,Estratificacion,Compuesta,2.0,67.65,9.94,5.37,Sobreobturado
+I,23,Lingual,ninguna,4.72,limpia,Estratificacion,Compuesta,2.0,79.76,5.91,3.81,Subobturado
+I,28,Oclusal,ninguna,1.58,limpia,Bulk,Bulk,1.5,110.86,5.19,0.65,Subobturado
+I,5,Oclusal,ninguna,2.79,con_tejido,Estratificacion,Bulk,1.5,76.19,11.39,1.8,Subobturado
+I,13,Lingual,ninguna,1.97,limpia,Bulk,Bulk,1.5,67.31,6.85,1.66,Subobturado
+I,27,Lingual,ninguna,1.27,con_tejido,Bulk,Fluida,3.5,83.97,3.86,1.23,Equiobturado
+I,26,Lingual,ninguna,4.97,con_tejido,Estratificacion,Con fibra de vidrio,1.0,72.39,3.16,5.69,Sobreobturado
+I,18,Oclusal,ninguna,1.79,con_tejido,Bulk,Fluida,3.5,63.19,3.17,2.59,Sobreobturado
+I,32,Bucal,ninguna,4.92,con_tejido,Bulk,Bulk,1.5,78.34,5.28,5.38,Sobreobturado
+I,1,Lingual,ninguna,1.39,limpia,Estratificacion,Fluida,3.5,81.78,8.84,0.59,Subobturado
+I,5,Bucal,ninguna,4.76,limpia,Bulk,Bulk,1.5,118.64,8.54,4.31,Subobturado
+I,7,Lingual,ninguna,3.59,con_tejido,Bulk,Fluida,3.5,66.68,7.66,3.51,Subobturado
+I,13,Bucal,ninguna,4.63,con_tejido,Bulk,Con fibra de vidrio,1.0,80.59,6.81,4.9,Sobreobturado
+I,13,Oclusal,ninguna,1.76,con_tejido,Bulk,Fluida,3.5,69.05,12.73,1.79,Equiobturado
+I,5,Bucal,ninguna,3.67,limpia,Estratificacion,Compuesta,2.0,70.34,4.32,3.5,Equiobturado
+I,18,Lingual,ninguna,1.88,con_tejido,Bulk,Fluida,3.5,80.77,10.81,1.69,Equiobturado
+I,26,Lingual,ninguna,2.31,limpia,Bulk,Compuesta,2.0,114.43,0.27,2.51,Equiobturado
+I,10,Bucal,ninguna,4.36,limpia,Bulk,Compuesta,2.0,110.94,1.45,4.32,Subobturado
+I,25,Lingual,ninguna,2.94,con_tejido,Estratificacion,Bulk,1.5,108.86,15.59,2.41,Subobturado
+I,27,Bucal,ninguna,2.94,limpia,Bulk,Compuesta,2.0,98.92,3.4,3.13,Equiobturado
+I,14,Bucal,ninguna,2.75,con_tejido,Bulk,Compuesta,2.0,119.73,15.37,1.82,Subobturado
+I,23,Lingual,ninguna,2.82,limpia,Bulk,Con fibra de vidrio,1.0,110.16,3.28,2.8,Subobturado
+I,12,Oclusal,ninguna,3.17,limpia,Bulk,Fluida,3.5,110.22,3.26,2.51,Subobturado
+I,14,Lingual,ninguna,4.94,limpia,Estratificacion,Compuesta,2.0,68.32,4.84,5.71,Sobreobturado
+I,5,Lingual,ninguna,4.25,limpia,Bulk,Fluida,3.5,118.32,12.56,4.02,Subobturado
+I,1,Bucal,ninguna,2.6,con_tejido,Bulk,Con fibra de vidrio,1.0,82.49,11.19,2.61,Equiobturado
+I,15,Bucal,ninguna,4.34,con_tejido,Bulk,Bulk,1.5,65.47,4.43,3.51,Subobturado

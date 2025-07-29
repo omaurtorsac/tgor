@@ -1,4 +1,4 @@
-Clase,Pieza,Superficie_1,Superficie_2,Tamanio_cavidad_mm,Estado_cavidad,Tecnica,Tipo_resina,Índice_contracción_%,Peso_resina_inicial_mg,Peso_sobrante_mg,Margen_cavo_mm,Ajuste_margen
+Clase,Pieza,Superficie_1,Superficie_2,Tamanio_cavidad_mm,Estado_cavidad,Tecnica,Tipo_resina,Indice_contraccion_%,Peso_resina_inicial_mg,Peso_sobrante_mg,Margen_cavo_mm,Ajuste_margen
 IV,24,Incisal,Mesial,4.27,limpia,Bulk,Compuesta,2.0,129.37,23.65,4.8,Sobreobturado
 V,17,Bucal,ninguna,4.13,con_tejido,Bulk,Con fibra de vidrio,1.0,103.13,10.48,4.34,Sobreobturado
 II,16,Mesial,ninguna,5.06,limpia,Estratificacion,Fluida,3.5,148.39,18.02,5.12,Equiobturado

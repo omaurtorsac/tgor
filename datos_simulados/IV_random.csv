@@ -1,0 +1,601 @@
+Clase,Pieza,Superficie_1,Superficie_2,Tamanio_cavidad_mm,Estado_cavidad,Tecnica,Tipo_resina,Indice_contraccion_%,Peso_resina_inicial_mg,Peso_sobrante_mg,Margen_cavo_mm,Ajuste_margen
+IV,25,Incisal,Distal,2.14,con_tejido,Bulk,Fluida,3.5,101.17,9.46,2.14,Equiobturado
+IV,11,Incisal,Mesial,4.76,con_tejido,Estratificacion,Compuesta,2.0,90.31,7.55,5.48,Sobreobturado
+IV,11,Incisal,Mesial,2.67,con_tejido,Estratificacion,Bulk,1.5,119.28,12.94,2.19,Subobturado
+IV,8,Incisal,Mesial,3.46,limpia,Bulk,Fluida,3.5,83.18,14.42,3.02,Subobturado
+IV,11,Incisal,Mesial,3.14,limpia,Estratificacion,Compuesta,2.0,98.56,16.35,3.22,Equiobturado
+IV,22,Incisal,Mesial,3.64,con_tejido,Bulk,Con fibra de vidrio,1.0,123.83,3.91,3.8,Sobreobturado
+IV,22,Incisal,Mesial,3.72,limpia,Estratificacion,Bulk,1.5,117.0,17.24,3.64,Equiobturado
+IV,11,Incisal,Mesial,2.05,con_tejido,Bulk,Fluida,3.5,92.99,3.85,2.79,Sobreobturado
+IV,26,Incisal,Mesial,2.65,con_tejido,Estratificacion,Bulk,1.5,110.93,14.48,3.04,Sobreobturado
+IV,27,Incisal,Distal,2.96,con_tejido,Bulk,Compuesta,2.0,81.98,9.54,2.92,Equiobturado
+IV,10,Incisal,Distal,4.91,limpia,Estratificacion,Con fibra de vidrio,1.0,95.53,2.35,4.6,Subobturado
+IV,6,Incisal,Distal,3.01,con_tejido,Bulk,Compuesta,2.0,116.11,1.65,2.57,Subobturado
+IV,22,Incisal,Distal,3.35,limpia,Estratificacion,Compuesta,2.0,108.46,4.24,3.84,Sobreobturado
+IV,22,Incisal,Mesial,4.6,limpia,Bulk,Fluida,3.5,107.22,0.62,3.62,Subobturado
+IV,23,Incisal,Mesial,3.11,con_tejido,Estratificacion,Fluida,3.5,83.51,14.57,3.91,Sobreobturado
+IV,23,Incisal,Mesial,1.53,con_tejido,Estratificacion,Con fibra de vidrio,1.0,111.13,9.18,1.3,Subobturado
+IV,7,Incisal,Distal,3.35,con_tejido,Estratificacion,Fluida,3.5,82.2,7.06,4.18,Sobreobturado
+IV,6,Incisal,Mesial,3.97,limpia,Estratificacion,Con fibra de vidrio,1.0,129.54,12.15,3.29,Subobturado
+IV,22,Incisal,Distal,4.2,limpia,Estratificacion,Bulk,1.5,114.1,15.31,4.7,Sobreobturado
+IV,25,Incisal,Distal,3.44,limpia,Bulk,Con fibra de vidrio,1.0,126.41,10.99,3.63,Equiobturado
+IV,6,Incisal,Distal,4.15,limpia,Bulk,Fluida,3.5,98.37,7.4,3.66,Subobturado
+IV,9,Incisal,Distal,4.77,limpia,Bulk,Compuesta,2.0,89.28,6.06,4.91,Equiobturado
+IV,6,Incisal,Mesial,2.71,con_tejido,Estratificacion,Fluida,3.5,98.63,11.72,2.41,Subobturado
+IV,22,Incisal,Mesial,2.98,limpia,Estratificacion,Con fibra de vidrio,1.0,98.63,0.03,2.4,Subobturado
+IV,7,Incisal,Mesial,3.71,limpia,Bulk,Con fibra de vidrio,1.0,99.66,19.76,3.73,Equiobturado
+IV,7,Incisal,Distal,1.55,limpia,Estratificacion,Bulk,1.5,99.12,1.98,1.73,Equiobturado
+IV,9,Incisal,Distal,3.3,limpia,Estratificacion,Compuesta,2.0,128.24,0.97,2.36,Subobturado
+IV,6,Incisal,Mesial,2.09,con_tejido,Estratificacion,Bulk,1.5,109.46,6.3,1.4,Subobturado
+IV,7,Incisal,Distal,2.2,con_tejido,Estratificacion,Bulk,1.5,129.94,17.0,2.29,Equiobturado
+IV,7,Incisal,Mesial,3.57,limpia,Bulk,Con fibra de vidrio,1.0,128.1,6.16,2.84,Subobturado
+IV,9,Incisal,Distal,2.73,limpia,Bulk,Compuesta,2.0,102.92,0.83,1.74,Subobturado
+IV,10,Incisal,Mesial,2.97,con_tejido,Estratificacion,Compuesta,2.0,128.88,3.14,2.54,Subobturado
+IV,25,Incisal,Distal,3.76,con_tejido,Estratificacion,Con fibra de vidrio,1.0,125.16,21.58,3.58,Equiobturado
+IV,23,Incisal,Distal,4.69,con_tejido,Bulk,Con fibra de vidrio,1.0,124.46,12.72,5.24,Sobreobturado
+IV,10,Incisal,Mesial,2.74,con_tejido,Bulk,Compuesta,2.0,84.65,16.59,3.5,Sobreobturado
+IV,23,Incisal,Mesial,3.68,limpia,Estratificacion,Compuesta,2.0,121.0,11.91,2.94,Subobturado
+IV,9,Incisal,Distal,3.89,con_tejido,Bulk,Compuesta,2.0,113.87,10.04,3.93,Sobreobturado
+IV,26,Incisal,Mesial,1.52,con_tejido,Estratificacion,Con fibra de vidrio,1.0,124.78,16.96,1.61,Equiobturado
+IV,10,Incisal,Distal,5.26,limpia,Bulk,Fluida,3.5,117.99,3.43,5.36,Sobreobturado
+IV,23,Incisal,Distal,2.73,limpia,Bulk,Con fibra de vidrio,1.0,86.14,13.03,2.92,Equiobturado
+IV,11,Incisal,Mesial,4.37,limpia,Bulk,Bulk,1.5,111.73,12.19,4.53,Equiobturado
+IV,6,Incisal,Distal,4.29,limpia,Estratificacion,Bulk,1.5,84.15,7.09,3.32,Subobturado
+IV,10,Incisal,Mesial,2.68,con_tejido,Bulk,Con fibra de vidrio,1.0,94.66,15.76,3.22,Sobreobturado
+IV,6,Incisal,Mesial,4.48,limpia,Estratificacion,Con fibra de vidrio,1.0,86.84,5.62,4.03,Subobturado
+IV,6,Incisal,Mesial,2.3,limpia,Bulk,Fluida,3.5,95.04,11.93,2.13,Equiobturado
+IV,11,Incisal,Distal,2.33,con_tejido,Estratificacion,Con fibra de vidrio,1.0,94.78,5.09,2.7,Sobreobturado
+IV,24,Incisal,Mesial,3.16,con_tejido,Estratificacion,Bulk,1.5,89.66,5.58,3.33,Equiobturado
+IV,27,Incisal,Distal,3.49,limpia,Estratificacion,Bulk,1.5,114.31,5.5,3.33,Equiobturado
+IV,8,Incisal,Distal,3.06,limpia,Bulk,Fluida,3.5,112.36,22.24,3.11,Equiobturado
+IV,10,Incisal,Distal,5.09,limpia,Bulk,Bulk,1.5,128.47,14.73,5.06,Equiobturado
+IV,22,Incisal,Mesial,1.65,limpia,Bulk,Fluida,3.5,94.47,16.36,1.49,Equiobturado
+IV,24,Incisal,Distal,5.23,limpia,Estratificacion,Compuesta,2.0,104.9,7.8,6.14,Sobreobturado
+IV,7,Incisal,Distal,1.99,limpia,Bulk,Con fibra de vidrio,1.0,103.46,17.39,2.42,Sobreobturado
+IV,23,Incisal,Mesial,2.98,limpia,Bulk,Fluida,3.5,127.35,21.94,3.06,Equiobturado
+IV,22,Incisal,Distal,1.67,con_tejido,Bulk,Compuesta,2.0,112.89,10.98,1.86,Sobreobturado
+IV,27,Incisal,Distal,4.9,con_tejido,Estratificacion,Con fibra de vidrio,1.0,101.64,0.43,4.51,Subobturado
+IV,23,Incisal,Distal,3.09,con_tejido,Bulk,Con fibra de vidrio,1.0,100.41,5.01,2.95,Subobturado
+IV,10,Incisal,Distal,2.38,limpia,Estratificacion,Bulk,1.5,95.54,17.46,2.4,Sobreobturado
+IV,23,Incisal,Mesial,1.54,limpia,Estratificacion,Compuesta,2.0,98.45,8.77,2.01,Sobreobturado
+IV,25,Incisal,Distal,2.73,limpia,Estratificacion,Con fibra de vidrio,1.0,93.56,6.09,2.91,Equiobturado
+IV,7,Incisal,Distal,3.39,limpia,Bulk,Fluida,3.5,95.46,12.93,3.33,Equiobturado
+IV,10,Incisal,Distal,3.81,con_tejido,Estratificacion,Con fibra de vidrio,1.0,120.37,0.37,3.09,Subobturado
+IV,10,Incisal,Mesial,4.4,con_tejido,Estratificacion,Bulk,1.5,97.21,1.21,4.3,Subobturado
+IV,9,Incisal,Distal,4.89,con_tejido,Bulk,Fluida,3.5,83.01,15.71,4.94,Sobreobturado
+IV,9,Incisal,Mesial,5.35,con_tejido,Estratificacion,Con fibra de vidrio,1.0,109.79,14.62,5.48,Equiobturado
+IV,10,Incisal,Mesial,3.99,limpia,Bulk,Bulk,1.5,91.97,12.19,3.91,Equiobturado
+IV,8,Incisal,Distal,2.64,limpia,Bulk,Bulk,1.5,96.56,12.15,1.87,Subobturado
+IV,7,Incisal,Mesial,3.43,limpia,Estratificacion,Compuesta,2.0,89.31,13.92,2.59,Subobturado
+IV,23,Incisal,Distal,1.66,con_tejido,Bulk,Con fibra de vidrio,1.0,90.45,7.01,1.63,Equiobturado
+IV,25,Incisal,Distal,4.11,con_tejido,Estratificacion,Compuesta,2.0,98.45,11.79,5.09,Sobreobturado
+IV,9,Incisal,Distal,4.6,limpia,Bulk,Con fibra de vidrio,1.0,108.52,21.59,4.65,Sobreobturado
+IV,7,Incisal,Mesial,4.1,con_tejido,Bulk,Compuesta,2.0,107.3,12.33,4.67,Sobreobturado
+IV,23,Incisal,Distal,2.46,con_tejido,Estratificacion,Bulk,1.5,86.06,4.81,2.34,Equiobturado
+IV,25,Incisal,Distal,4.44,con_tejido,Estratificacion,Fluida,3.5,98.86,0.27,3.78,Subobturado
+IV,24,Incisal,Mesial,2.71,con_tejido,Estratificacion,Fluida,3.5,101.73,5.45,2.33,Subobturado
+IV,27,Incisal,Distal,2.35,limpia,Estratificacion,Bulk,1.5,113.64,11.66,2.37,Sobreobturado
+IV,8,Incisal,Distal,3.76,con_tejido,Bulk,Fluida,3.5,85.61,14.13,3.78,Equiobturado
+IV,11,Incisal,Mesial,2.68,limpia,Estratificacion,Fluida,3.5,99.45,10.22,2.5,Subobturado
+IV,26,Incisal,Distal,5.39,limpia,Estratificacion,Con fibra de vidrio,1.0,108.22,5.63,5.3,Equiobturado
+IV,22,Incisal,Distal,4.37,limpia,Estratificacion,Compuesta,2.0,109.61,18.8,4.26,Subobturado
+IV,25,Incisal,Mesial,1.74,limpia,Estratificacion,Fluida,3.5,82.3,12.33,1.69,Subobturado
+IV,27,Incisal,Mesial,5.03,limpia,Bulk,Bulk,1.5,100.36,9.19,5.81,Sobreobturado
+IV,7,Incisal,Mesial,2.81,con_tejido,Bulk,Con fibra de vidrio,1.0,127.92,0.89,3.27,Sobreobturado
+IV,11,Incisal,Mesial,3.91,limpia,Bulk,Compuesta,2.0,80.93,2.26,3.97,Sobreobturado
+IV,8,Incisal,Mesial,4.98,limpia,Bulk,Con fibra de vidrio,1.0,113.89,7.16,4.4,Subobturado
+IV,26,Incisal,Distal,4.21,limpia,Estratificacion,Con fibra de vidrio,1.0,129.5,15.06,3.76,Subobturado
+IV,26,Incisal,Mesial,5.21,con_tejido,Estratificacion,Con fibra de vidrio,1.0,93.05,2.13,4.53,Subobturado
+IV,25,Incisal,Mesial,2.65,limpia,Estratificacion,Con fibra de vidrio,1.0,109.26,2.36,3.42,Sobreobturado
+IV,11,Incisal,Distal,1.81,con_tejido,Estratificacion,Bulk,1.5,84.44,11.81,1.77,Equiobturado
+IV,23,Incisal,Mesial,4.75,con_tejido,Estratificacion,Bulk,1.5,112.91,14.04,4.62,Equiobturado
+IV,9,Incisal,Mesial,4.77,limpia,Bulk,Con fibra de vidrio,1.0,125.84,5.18,4.75,Subobturado
+IV,9,Incisal,Distal,4.49,con_tejido,Estratificacion,Bulk,1.5,104.35,12.91,4.6,Equiobturado
+IV,26,Incisal,Mesial,2.33,con_tejido,Bulk,Con fibra de vidrio,1.0,118.85,7.58,1.91,Subobturado
+IV,24,Incisal,Mesial,5.45,limpia,Estratificacion,Compuesta,2.0,107.78,5.17,5.25,Equiobturado
+IV,26,Incisal,Distal,3.58,limpia,Bulk,Fluida,3.5,87.88,1.46,4.5,Sobreobturado
+IV,6,Incisal,Mesial,1.67,con_tejido,Estratificacion,Compuesta,2.0,105.18,3.09,1.69,Equiobturado
+IV,7,Incisal,Mesial,2.69,con_tejido,Bulk,Con fibra de vidrio,1.0,82.29,2.24,3.09,Sobreobturado
+IV,8,Incisal,Distal,3.18,con_tejido,Bulk,Bulk,1.5,101.12,17.38,4.14,Sobreobturado
+IV,8,Incisal,Mesial,2.89,limpia,Estratificacion,Fluida,3.5,88.74,17.29,2.69,Subobturado
+IV,23,Incisal,Mesial,3.88,limpia,Estratificacion,Con fibra de vidrio,1.0,108.85,0.67,3.12,Subobturado
+IV,26,Incisal,Mesial,1.75,con_tejido,Estratificacion,Bulk,1.5,103.33,19.6,0.89,Subobturado
+IV,25,Incisal,Mesial,4.95,limpia,Bulk,Bulk,1.5,86.09,4.41,5.26,Sobreobturado
+IV,25,Incisal,Mesial,1.79,con_tejido,Bulk,Bulk,1.5,110.89,13.98,1.63,Equiobturado
+IV,9,Incisal,Distal,1.51,limpia,Estratificacion,Con fibra de vidrio,1.0,87.12,6.15,1.6,Equiobturado
+IV,26,Incisal,Mesial,4.75,limpia,Bulk,Con fibra de vidrio,1.0,125.98,7.15,4.29,Subobturado
+IV,9,Incisal,Mesial,2.74,con_tejido,Estratificacion,Con fibra de vidrio,1.0,101.74,16.54,2.4,Subobturado
+IV,8,Incisal,Distal,4.74,limpia,Estratificacion,Fluida,3.5,122.67,17.7,4.91,Sobreobturado
+IV,10,Incisal,Mesial,3.41,con_tejido,Estratificacion,Fluida,3.5,84.95,12.59,2.67,Subobturado
+IV,6,Incisal,Distal,2.91,con_tejido,Bulk,Fluida,3.5,114.66,16.63,3.82,Sobreobturado
+IV,23,Incisal,Distal,5.46,limpia,Estratificacion,Bulk,1.5,91.64,0.7,4.92,Subobturado
+IV,9,Incisal,Distal,1.97,limpia,Bulk,Fluida,3.5,92.78,3.57,1.49,Subobturado
+IV,27,Incisal,Mesial,3.31,con_tejido,Bulk,Bulk,1.5,118.25,14.89,3.35,Equiobturado
+IV,26,Incisal,Distal,5.28,con_tejido,Bulk,Con fibra de vidrio,1.0,86.92,5.66,6.03,Sobreobturado
+IV,23,Incisal,Distal,2.69,limpia,Bulk,Con fibra de vidrio,1.0,120.21,13.69,3.17,Sobreobturado
+IV,9,Incisal,Mesial,4.05,limpia,Bulk,Bulk,1.5,95.16,13.14,4.28,Sobreobturado
+IV,11,Incisal,Distal,2.63,con_tejido,Estratificacion,Bulk,1.5,97.53,18.43,3.15,Sobreobturado
+IV,22,Incisal,Mesial,2.64,con_tejido,Bulk,Compuesta,2.0,101.77,8.79,3.38,Sobreobturado
+IV,7,Incisal,Mesial,4.97,con_tejido,Estratificacion,Fluida,3.5,123.53,18.77,5.15,Equiobturado
+IV,7,Incisal,Distal,5.44,con_tejido,Bulk,Con fibra de vidrio,1.0,81.18,3.5,5.47,Sobreobturado
+IV,27,Incisal,Distal,4.52,limpia,Bulk,Fluida,3.5,118.28,13.83,4.78,Sobreobturado
+IV,25,Incisal,Distal,5.42,limpia,Bulk,Con fibra de vidrio,1.0,85.41,2.37,4.57,Subobturado
+IV,22,Incisal,Distal,2.75,con_tejido,Estratificacion,Fluida,3.5,129.03,2.91,3.56,Sobreobturado
+IV,24,Incisal,Distal,2.13,limpia,Estratificacion,Fluida,3.5,112.77,20.0,2.0,Subobturado
+IV,11,Incisal,Distal,4.64,con_tejido,Estratificacion,Bulk,1.5,81.38,4.44,3.78,Subobturado
+IV,27,Incisal,Distal,2.14,limpia,Bulk,Compuesta,2.0,94.76,15.25,2.0,Subobturado
+IV,24,Incisal,Distal,3.37,limpia,Estratificacion,Bulk,1.5,121.74,2.25,4.03,Sobreobturado
+IV,24,Incisal,Mesial,2.08,con_tejido,Estratificacion,Bulk,1.5,124.01,2.55,2.2,Equiobturado
+IV,10,Incisal,Distal,3.93,con_tejido,Estratificacion,Compuesta,2.0,86.98,1.56,4.32,Sobreobturado
+IV,8,Incisal,Mesial,3.04,con_tejido,Estratificacion,Bulk,1.5,107.22,3.39,3.3,Sobreobturado
+IV,22,Incisal,Mesial,4.9,con_tejido,Estratificacion,Con fibra de vidrio,1.0,112.65,2.05,4.89,Equiobturado
+IV,8,Incisal,Mesial,1.76,limpia,Bulk,Compuesta,2.0,117.79,16.04,1.63,Equiobturado
+IV,7,Incisal,Mesial,4.65,limpia,Estratificacion,Fluida,3.5,116.7,0.93,4.78,Equiobturado
+IV,6,Incisal,Distal,3.27,con_tejido,Bulk,Fluida,3.5,108.71,13.03,2.58,Subobturado
+IV,23,Incisal,Distal,3.37,limpia,Estratificacion,Fluida,3.5,84.54,4.08,3.97,Sobreobturado
+IV,10,Incisal,Distal,4.54,con_tejido,Estratificacion,Bulk,1.5,86.57,4.03,4.38,Subobturado
+IV,25,Incisal,Distal,2.95,con_tejido,Bulk,Fluida,3.5,105.34,5.12,2.89,Equiobturado
+IV,27,Incisal,Mesial,2.09,con_tejido,Estratificacion,Compuesta,2.0,104.96,12.05,1.11,Subobturado
+IV,25,Incisal,Distal,4.53,limpia,Estratificacion,Fluida,3.5,95.51,16.47,4.92,Sobreobturado
+IV,26,Incisal,Mesial,1.78,con_tejido,Bulk,Con fibra de vidrio,1.0,122.71,3.13,1.8,Equiobturado
+IV,22,Incisal,Distal,3.23,con_tejido,Estratificacion,Compuesta,2.0,114.88,5.46,3.13,Subobturado
+IV,27,Incisal,Distal,4.31,limpia,Estratificacion,Con fibra de vidrio,1.0,92.28,16.3,4.24,Equiobturado
+IV,7,Incisal,Distal,3.44,limpia,Estratificacion,Compuesta,2.0,128.94,21.68,3.58,Equiobturado
+IV,11,Incisal,Mesial,3.48,con_tejido,Bulk,Compuesta,2.0,113.6,21.14,3.6,Equiobturado
+IV,8,Incisal,Mesial,5.48,con_tejido,Bulk,Fluida,3.5,115.78,20.49,5.3,Subobturado
+IV,26,Incisal,Mesial,1.79,con_tejido,Bulk,Fluida,3.5,122.04,18.43,1.45,Subobturado
+IV,24,Incisal,Mesial,2.59,con_tejido,Bulk,Con fibra de vidrio,1.0,95.57,4.85,2.65,Sobreobturado
+IV,10,Incisal,Distal,5.19,limpia,Estratificacion,Compuesta,2.0,97.14,3.02,4.28,Subobturado
+IV,9,Incisal,Mesial,4.89,limpia,Estratificacion,Fluida,3.5,92.1,8.91,5.07,Equiobturado
+IV,25,Incisal,Distal,4.44,con_tejido,Estratificacion,Fluida,3.5,83.26,6.78,4.4,Equiobturado
+IV,11,Incisal,Mesial,2.73,con_tejido,Estratificacion,Bulk,1.5,108.22,15.65,2.55,Equiobturado
+IV,23,Incisal,Distal,3.16,con_tejido,Bulk,Bulk,1.5,86.13,8.27,3.78,Sobreobturado
+IV,27,Incisal,Mesial,4.52,limpia,Estratificacion,Bulk,1.5,116.41,9.48,4.7,Sobreobturado
+IV,7,Incisal,Distal,4.28,limpia,Estratificacion,Fluida,3.5,81.65,14.01,4.22,Subobturado
+IV,22,Incisal,Mesial,5.26,limpia,Bulk,Compuesta,2.0,116.53,16.99,5.38,Equiobturado
+IV,25,Incisal,Mesial,2.82,con_tejido,Bulk,Fluida,3.5,102.03,9.01,1.85,Subobturado
+IV,24,Incisal,Distal,1.78,con_tejido,Estratificacion,Bulk,1.5,81.46,11.45,2.35,Sobreobturado
+IV,25,Incisal,Mesial,4.55,limpia,Estratificacion,Compuesta,2.0,107.53,7.8,4.75,Equiobturado
+IV,27,Incisal,Mesial,3.26,limpia,Bulk,Compuesta,2.0,110.0,3.74,4.02,Sobreobturado
+IV,23,Incisal,Mesial,4.65,limpia,Bulk,Compuesta,2.0,106.06,20.61,5.52,Sobreobturado
+IV,11,Incisal,Mesial,3.47,con_tejido,Bulk,Compuesta,2.0,124.54,16.92,4.23,Sobreobturado
+IV,27,Incisal,Distal,1.94,limpia,Bulk,Bulk,1.5,108.92,6.32,2.68,Sobreobturado
+IV,25,Incisal,Mesial,1.84,limpia,Bulk,Con fibra de vidrio,1.0,93.42,1.17,1.24,Subobturado
+IV,9,Incisal,Mesial,2.54,limpia,Estratificacion,Compuesta,2.0,110.63,7.35,1.61,Subobturado
+IV,6,Incisal,Distal,4.72,limpia,Bulk,Compuesta,2.0,110.53,4.51,4.6,Equiobturado
+IV,6,Incisal,Mesial,1.83,limpia,Estratificacion,Con fibra de vidrio,1.0,117.37,2.62,1.78,Subobturado
+IV,9,Incisal,Distal,5.27,limpia,Bulk,Bulk,1.5,115.12,21.59,4.35,Subobturado
+IV,26,Incisal,Mesial,2.02,con_tejido,Bulk,Compuesta,2.0,90.78,14.95,1.56,Subobturado
+IV,11,Incisal,Mesial,4.15,con_tejido,Bulk,Con fibra de vidrio,1.0,99.95,15.21,3.99,Equiobturado
+IV,9,Incisal,Mesial,2.8,con_tejido,Bulk,Compuesta,2.0,110.62,19.98,3.66,Sobreobturado
+IV,25,Incisal,Distal,1.68,limpia,Estratificacion,Compuesta,2.0,122.41,1.7,1.87,Sobreobturado
+IV,23,Incisal,Mesial,3.59,limpia,Estratificacion,Compuesta,2.0,109.1,3.73,2.93,Subobturado
+IV,6,Incisal,Distal,3.07,limpia,Bulk,Compuesta,2.0,91.45,9.74,2.51,Subobturado
+IV,23,Incisal,Distal,5.44,con_tejido,Estratificacion,Fluida,3.5,122.23,17.84,4.94,Subobturado
+IV,6,Incisal,Distal,4.9,limpia,Estratificacion,Con fibra de vidrio,1.0,108.15,7.45,4.8,Equiobturado
+IV,22,Incisal,Mesial,2.7,limpia,Bulk,Bulk,1.5,120.33,19.76,3.01,Sobreobturado
+IV,24,Incisal,Mesial,4.94,limpia,Bulk,Con fibra de vidrio,1.0,93.27,11.18,4.97,Sobreobturado
+IV,26,Incisal,Mesial,4.36,limpia,Bulk,Compuesta,2.0,100.12,0.51,4.39,Sobreobturado
+IV,6,Incisal,Mesial,4.62,limpia,Bulk,Fluida,3.5,107.64,15.71,4.52,Subobturado
+IV,10,Incisal,Mesial,3.37,con_tejido,Bulk,Compuesta,2.0,116.25,11.63,3.26,Equiobturado
+IV,7,Incisal,Distal,5.04,con_tejido,Estratificacion,Bulk,1.5,84.35,11.03,4.87,Equiobturado
+IV,22,Incisal,Mesial,2.05,limpia,Bulk,Compuesta,2.0,89.5,16.65,2.14,Equiobturado
+IV,9,Incisal,Distal,2.54,con_tejido,Estratificacion,Compuesta,2.0,116.14,5.62,2.0,Subobturado
+IV,24,Incisal,Mesial,2.55,con_tejido,Bulk,Bulk,1.5,118.32,8.99,2.39,Equiobturado
+IV,26,Incisal,Mesial,2.61,con_tejido,Estratificacion,Compuesta,2.0,124.45,16.78,2.76,Equiobturado
+IV,6,Incisal,Mesial,3.51,limpia,Bulk,Bulk,1.5,86.93,4.33,3.39,Equiobturado
+IV,22,Incisal,Distal,5.07,limpia,Bulk,Bulk,1.5,104.85,0.22,4.08,Subobturado
+IV,6,Incisal,Distal,3.49,con_tejido,Bulk,Fluida,3.5,87.25,9.09,3.4,Equiobturado
+IV,23,Incisal,Mesial,2.76,con_tejido,Bulk,Fluida,3.5,107.01,14.76,1.93,Subobturado
+IV,27,Incisal,Mesial,2.27,con_tejido,Bulk,Fluida,3.5,90.45,13.22,2.39,Equiobturado
+IV,24,Incisal,Distal,2.14,limpia,Bulk,Bulk,1.5,88.61,16.52,1.65,Subobturado
+IV,11,Incisal,Distal,4.82,limpia,Estratificacion,Bulk,1.5,86.37,10.69,4.83,Sobreobturado
+IV,11,Incisal,Mesial,2.77,con_tejido,Estratificacion,Bulk,1.5,84.85,15.87,2.69,Equiobturado
+IV,27,Incisal,Mesial,4.81,limpia,Bulk,Compuesta,2.0,86.33,1.92,4.88,Equiobturado
+IV,24,Incisal,Distal,2.88,limpia,Estratificacion,Con fibra de vidrio,1.0,81.76,6.93,3.63,Sobreobturado
+IV,7,Incisal,Mesial,3.44,limpia,Bulk,Con fibra de vidrio,1.0,95.12,6.98,3.63,Equiobturado
+IV,8,Incisal,Distal,3.73,limpia,Estratificacion,Compuesta,2.0,110.27,16.84,3.09,Subobturado
+IV,8,Incisal,Distal,2.78,limpia,Bulk,Compuesta,2.0,86.72,13.75,2.92,Equiobturado
+IV,24,Incisal,Distal,3.14,limpia,Estratificacion,Fluida,3.5,127.65,7.35,3.44,Sobreobturado
+IV,26,Incisal,Distal,2.72,limpia,Bulk,Bulk,1.5,80.92,14.87,3.5,Sobreobturado
+IV,11,Incisal,Distal,1.85,con_tejido,Estratificacion,Con fibra de vidrio,1.0,90.18,17.9,1.09,Subobturado
+IV,6,Incisal,Distal,1.87,limpia,Bulk,Compuesta,2.0,108.12,6.5,1.93,Equiobturado
+IV,26,Incisal,Distal,4.4,limpia,Bulk,Compuesta,2.0,95.53,18.41,4.0,Subobturado
+IV,25,Incisal,Mesial,4.67,limpia,Estratificacion,Con fibra de vidrio,1.0,94.92,18.95,4.66,Equiobturado
+IV,22,Incisal,Mesial,3.91,limpia,Estratificacion,Con fibra de vidrio,1.0,90.68,5.31,3.11,Subobturado
+IV,26,Incisal,Distal,4.38,con_tejido,Estratificacion,Compuesta,2.0,97.47,19.19,4.83,Sobreobturado
+IV,6,Incisal,Distal,4.01,con_tejido,Bulk,Bulk,1.5,115.18,9.4,3.1,Subobturado
+IV,10,Incisal,Distal,2.16,con_tejido,Estratificacion,Con fibra de vidrio,1.0,93.29,0.52,1.88,Subobturado
+IV,9,Incisal,Mesial,4.47,limpia,Estratificacion,Fluida,3.5,129.96,13.8,4.27,Subobturado
+IV,9,Incisal,Distal,1.78,limpia,Bulk,Con fibra de vidrio,1.0,100.61,11.72,1.98,Equiobturado
+IV,27,Incisal,Distal,2.19,limpia,Bulk,Compuesta,2.0,129.86,12.49,1.72,Subobturado
+IV,9,Incisal,Mesial,1.93,con_tejido,Estratificacion,Compuesta,2.0,90.37,5.0,2.0,Equiobturado
+IV,8,Incisal,Distal,4.32,limpia,Estratificacion,Compuesta,2.0,115.84,22.89,5.04,Sobreobturado
+IV,8,Incisal,Mesial,4.9,con_tejido,Bulk,Bulk,1.5,102.27,18.52,4.78,Subobturado
+IV,7,Incisal,Distal,1.92,con_tejido,Bulk,Fluida,3.5,80.96,12.39,1.78,Equiobturado
+IV,8,Incisal,Mesial,3.83,con_tejido,Bulk,Bulk,1.5,99.2,13.37,3.01,Subobturado
+IV,8,Incisal,Mesial,1.94,con_tejido,Estratificacion,Con fibra de vidrio,1.0,113.97,5.65,1.17,Subobturado
+IV,26,Incisal,Distal,4.51,limpia,Bulk,Fluida,3.5,84.86,10.89,4.8,Sobreobturado
+IV,10,Incisal,Mesial,1.9,limpia,Estratificacion,Compuesta,2.0,104.99,2.43,2.61,Sobreobturado
+IV,11,Incisal,Mesial,4.92,limpia,Bulk,Bulk,1.5,101.83,11.11,4.5,Subobturado
+IV,24,Incisal,Mesial,4.88,limpia,Bulk,Con fibra de vidrio,1.0,94.24,2.71,4.63,Subobturado
+IV,27,Incisal,Mesial,5.12,con_tejido,Estratificacion,Compuesta,2.0,119.39,11.63,5.09,Equiobturado
+IV,25,Incisal,Distal,4.63,con_tejido,Bulk,Compuesta,2.0,83.62,0.3,5.39,Sobreobturado
+IV,7,Incisal,Mesial,5.24,con_tejido,Bulk,Con fibra de vidrio,1.0,124.8,16.23,5.25,Equiobturado
+IV,7,Incisal,Mesial,4.64,con_tejido,Estratificacion,Bulk,1.5,84.63,0.44,3.76,Subobturado
+IV,25,Incisal,Mesial,3.36,con_tejido,Estratificacion,Compuesta,2.0,111.59,18.16,3.9,Sobreobturado
+IV,24,Incisal,Distal,5.43,limpia,Estratificacion,Fluida,3.5,119.22,21.33,4.5,Subobturado
+IV,25,Incisal,Mesial,4.76,con_tejido,Estratificacion,Bulk,1.5,90.57,1.79,5.32,Sobreobturado
+IV,7,Incisal,Mesial,4.1,con_tejido,Bulk,Bulk,1.5,96.16,3.72,4.89,Sobreobturado
+IV,7,Incisal,Mesial,3.49,con_tejido,Bulk,Con fibra de vidrio,1.0,101.29,7.93,2.62,Subobturado
+IV,26,Incisal,Distal,4.12,limpia,Bulk,Fluida,3.5,115.95,14.45,4.0,Equiobturado
+IV,11,Incisal,Mesial,3.0,limpia,Estratificacion,Fluida,3.5,86.45,0.39,3.95,Sobreobturado
+IV,25,Incisal,Mesial,2.78,limpia,Bulk,Con fibra de vidrio,1.0,87.03,10.12,2.96,Equiobturado
+IV,9,Incisal,Distal,2.86,limpia,Bulk,Con fibra de vidrio,1.0,123.58,21.72,3.67,Sobreobturado
+IV,6,Incisal,Distal,4.37,con_tejido,Estratificacion,Bulk,1.5,122.67,10.21,3.46,Subobturado
+IV,6,Incisal,Distal,4.26,limpia,Bulk,Bulk,1.5,87.95,9.9,4.95,Sobreobturado
+IV,24,Incisal,Distal,1.64,con_tejido,Bulk,Bulk,1.5,119.13,7.2,1.77,Equiobturado
+IV,22,Incisal,Distal,3.53,con_tejido,Bulk,Compuesta,2.0,92.04,16.91,3.58,Equiobturado
+IV,25,Incisal,Mesial,4.52,con_tejido,Bulk,Bulk,1.5,80.01,6.76,4.86,Sobreobturado
+IV,24,Incisal,Mesial,5.35,con_tejido,Bulk,Bulk,1.5,129.23,11.13,6.27,Sobreobturado
+IV,24,Incisal,Distal,5.1,limpia,Bulk,Con fibra de vidrio,1.0,81.93,2.33,4.92,Equiobturado
+IV,23,Incisal,Distal,3.43,con_tejido,Estratificacion,Bulk,1.5,127.81,9.88,3.23,Subobturado
+IV,8,Incisal,Mesial,3.85,con_tejido,Bulk,Con fibra de vidrio,1.0,105.22,16.16,3.38,Subobturado
+IV,27,Incisal,Distal,3.09,con_tejido,Estratificacion,Fluida,3.5,84.72,13.48,3.89,Sobreobturado
+IV,25,Incisal,Mesial,4.6,limpia,Estratificacion,Fluida,3.5,111.69,3.64,3.93,Subobturado
+IV,25,Incisal,Mesial,3.0,limpia,Estratificacion,Bulk,1.5,117.95,11.76,2.9,Equiobturado
+IV,7,Incisal,Mesial,1.87,con_tejido,Bulk,Bulk,1.5,91.52,16.71,1.98,Equiobturado
+IV,26,Incisal,Mesial,3.69,limpia,Estratificacion,Fluida,3.5,97.32,16.58,3.09,Subobturado
+IV,6,Incisal,Distal,2.59,limpia,Estratificacion,Con fibra de vidrio,1.0,84.09,14.08,3.14,Sobreobturado
+IV,9,Incisal,Mesial,3.94,limpia,Estratificacion,Compuesta,2.0,109.91,16.07,3.99,Equiobturado
+IV,11,Incisal,Distal,4.96,limpia,Estratificacion,Fluida,3.5,123.6,19.82,4.88,Equiobturado
+IV,27,Incisal,Distal,1.9,limpia,Estratificacion,Bulk,1.5,105.98,0.12,2.67,Sobreobturado
+IV,22,Incisal,Distal,2.59,limpia,Bulk,Bulk,1.5,99.02,14.33,2.45,Subobturado
+IV,27,Incisal,Mesial,5.27,con_tejido,Estratificacion,Bulk,1.5,115.65,17.83,5.02,Subobturado
+IV,26,Incisal,Mesial,2.69,limpia,Estratificacion,Con fibra de vidrio,1.0,126.37,9.34,2.49,Subobturado
+IV,10,Incisal,Distal,2.24,limpia,Bulk,Compuesta,2.0,127.35,9.39,1.46,Subobturado
+IV,11,Incisal,Distal,2.68,limpia,Bulk,Fluida,3.5,120.78,9.46,2.77,Equiobturado
+IV,6,Incisal,Mesial,2.39,con_tejido,Estratificacion,Con fibra de vidrio,1.0,125.74,10.57,1.63,Subobturado
+IV,7,Incisal,Distal,2.84,limpia,Bulk,Bulk,1.5,113.27,8.19,3.21,Sobreobturado
+IV,23,Incisal,Distal,3.62,con_tejido,Estratificacion,Fluida,3.5,111.22,3.46,3.49,Equiobturado
+IV,10,Incisal,Distal,3.68,con_tejido,Estratificacion,Con fibra de vidrio,1.0,86.56,1.58,4.05,Sobreobturado
+IV,7,Incisal,Distal,4.96,con_tejido,Bulk,Bulk,1.5,115.08,11.11,4.68,Subobturado
+IV,11,Incisal,Distal,4.14,con_tejido,Estratificacion,Con fibra de vidrio,1.0,99.56,10.47,4.11,Subobturado
+IV,11,Incisal,Distal,3.55,con_tejido,Bulk,Bulk,1.5,129.2,20.69,3.05,Subobturado
+IV,11,Incisal,Distal,4.46,con_tejido,Estratificacion,Con fibra de vidrio,1.0,88.15,16.22,4.56,Sobreobturado
+IV,24,Incisal,Mesial,3.62,limpia,Bulk,Bulk,1.5,119.15,16.49,3.51,Equiobturado
+IV,8,Incisal,Distal,4.82,limpia,Bulk,Compuesta,2.0,97.24,11.65,4.93,Sobreobturado
+IV,11,Incisal,Mesial,3.2,limpia,Estratificacion,Con fibra de vidrio,1.0,84.92,3.92,3.03,Equiobturado
+IV,22,Incisal,Distal,4.78,con_tejido,Estratificacion,Bulk,1.5,85.62,11.9,5.65,Sobreobturado
+IV,24,Incisal,Distal,4.49,limpia,Estratificacion,Compuesta,2.0,95.13,8.67,4.33,Equiobturado
+IV,10,Incisal,Mesial,5.18,limpia,Bulk,Fluida,3.5,100.63,8.5,5.27,Equiobturado
+IV,24,Incisal,Mesial,4.43,con_tejido,Estratificacion,Con fibra de vidrio,1.0,89.82,3.28,5.13,Sobreobturado
+IV,7,Incisal,Distal,3.49,con_tejido,Estratificacion,Bulk,1.5,89.04,13.05,2.92,Subobturado
+IV,24,Incisal,Distal,2.33,con_tejido,Bulk,Con fibra de vidrio,1.0,81.97,2.16,1.66,Subobturado
+IV,7,Incisal,Distal,3.42,con_tejido,Estratificacion,Con fibra de vidrio,1.0,91.53,16.24,2.8,Subobturado
+IV,22,Incisal,Mesial,4.51,limpia,Bulk,Bulk,1.5,96.4,2.52,5.09,Sobreobturado
+IV,25,Incisal,Mesial,3.3,limpia,Bulk,Bulk,1.5,83.1,1.58,3.91,Sobreobturado
+IV,6,Incisal,Mesial,4.89,limpia,Bulk,Bulk,1.5,112.06,17.39,4.94,Equiobturado
+IV,6,Incisal,Mesial,3.6,con_tejido,Estratificacion,Compuesta,2.0,127.59,2.58,2.81,Subobturado
+IV,27,Incisal,Mesial,3.98,con_tejido,Bulk,Bulk,1.5,104.1,20.11,3.84,Equiobturado
+IV,6,Incisal,Distal,3.01,limpia,Estratificacion,Bulk,1.5,125.5,22.77,3.07,Equiobturado
+IV,26,Incisal,Mesial,2.39,con_tejido,Estratificacion,Fluida,3.5,82.37,15.34,3.13,Sobreobturado
+IV,8,Incisal,Distal,4.8,con_tejido,Estratificacion,Bulk,1.5,128.56,21.01,4.11,Subobturado
+IV,27,Incisal,Mesial,4.49,limpia,Estratificacion,Compuesta,2.0,92.29,16.61,4.36,Equiobturado
+IV,22,Incisal,Distal,3.52,con_tejido,Bulk,Bulk,1.5,80.61,4.0,3.27,Subobturado
+IV,10,Incisal,Distal,4.02,con_tejido,Estratificacion,Compuesta,2.0,117.54,2.95,4.0,Equiobturado
+IV,26,Incisal,Distal,4.22,limpia,Bulk,Fluida,3.5,107.15,5.52,4.84,Sobreobturado
+IV,10,Incisal,Distal,4.73,limpia,Estratificacion,Bulk,1.5,124.69,11.46,4.59,Equiobturado
+IV,26,Incisal,Mesial,2.99,limpia,Estratificacion,Bulk,1.5,109.21,1.03,2.71,Subobturado
+IV,26,Incisal,Mesial,3.61,limpia,Bulk,Bulk,1.5,90.27,3.66,4.33,Sobreobturado
+IV,26,Incisal,Distal,4.0,con_tejido,Bulk,Bulk,1.5,111.64,21.67,3.36,Subobturado
+IV,24,Incisal,Mesial,4.83,limpia,Estratificacion,Bulk,1.5,96.86,12.23,4.73,Subobturado
+IV,23,Incisal,Distal,4.63,limpia,Bulk,Compuesta,2.0,100.27,16.38,4.59,Equiobturado
+IV,11,Incisal,Distal,4.8,con_tejido,Estratificacion,Con fibra de vidrio,1.0,83.98,0.46,4.96,Equiobturado
+IV,7,Incisal,Distal,5.31,con_tejido,Bulk,Con fibra de vidrio,1.0,124.84,20.68,5.08,Subobturado
+IV,10,Incisal,Distal,2.59,con_tejido,Estratificacion,Fluida,3.5,104.17,6.29,2.2,Subobturado
+IV,7,Incisal,Distal,3.65,con_tejido,Estratificacion,Fluida,3.5,100.94,1.24,3.62,Equiobturado
+IV,25,Incisal,Mesial,5.4,con_tejido,Bulk,Fluida,3.5,98.97,15.13,5.73,Sobreobturado
+IV,10,Incisal,Distal,5.43,limpia,Estratificacion,Compuesta,2.0,93.0,4.77,6.23,Sobreobturado
+IV,6,Incisal,Mesial,5.39,limpia,Estratificacion,Con fibra de vidrio,1.0,98.6,1.27,5.89,Sobreobturado
+IV,7,Incisal,Mesial,3.64,limpia,Bulk,Bulk,1.5,100.25,10.63,3.41,Subobturado
+IV,6,Incisal,Mesial,2.75,con_tejido,Bulk,Bulk,1.5,81.41,1.17,2.33,Subobturado
+IV,6,Incisal,Distal,5.48,con_tejido,Estratificacion,Bulk,1.5,85.4,9.25,5.67,Equiobturado
+IV,8,Incisal,Mesial,4.78,limpia,Estratificacion,Con fibra de vidrio,1.0,94.91,5.49,4.33,Subobturado
+IV,26,Incisal,Distal,2.58,limpia,Estratificacion,Con fibra de vidrio,1.0,113.81,1.13,2.44,Equiobturado
+IV,26,Incisal,Distal,1.9,limpia,Estratificacion,Compuesta,2.0,112.34,13.03,1.52,Subobturado
+IV,24,Incisal,Distal,4.03,limpia,Estratificacion,Compuesta,2.0,86.27,11.38,4.11,Equiobturado
+IV,8,Incisal,Distal,4.77,limpia,Estratificacion,Compuesta,2.0,118.23,16.13,4.28,Subobturado
+IV,27,Incisal,Distal,2.63,con_tejido,Estratificacion,Con fibra de vidrio,1.0,86.69,16.18,3.27,Sobreobturado
+IV,11,Incisal,Mesial,1.9,limpia,Estratificacion,Con fibra de vidrio,1.0,88.56,4.73,1.9,Equiobturado
+IV,8,Incisal,Mesial,3.98,limpia,Bulk,Compuesta,2.0,99.73,18.08,3.93,Equiobturado
+IV,27,Incisal,Mesial,2.41,con_tejido,Bulk,Con fibra de vidrio,1.0,96.62,7.86,2.68,Sobreobturado
+IV,8,Incisal,Distal,4.4,con_tejido,Bulk,Bulk,1.5,105.78,20.19,4.56,Equiobturado
+IV,22,Incisal,Mesial,2.67,con_tejido,Bulk,Bulk,1.5,117.12,17.62,3.02,Sobreobturado
+IV,6,Incisal,Mesial,3.14,con_tejido,Bulk,Fluida,3.5,117.8,18.92,3.14,Equiobturado
+IV,25,Incisal,Mesial,2.8,con_tejido,Estratificacion,Fluida,3.5,103.25,18.12,2.69,Equiobturado
+IV,27,Incisal,Distal,2.3,limpia,Bulk,Bulk,1.5,81.55,1.22,2.13,Equiobturado
+IV,27,Incisal,Distal,4.76,limpia,Estratificacion,Compuesta,2.0,128.76,3.82,5.34,Sobreobturado
+IV,6,Incisal,Mesial,2.31,limpia,Estratificacion,Bulk,1.5,125.46,17.81,2.51,Equiobturado
+IV,26,Incisal,Mesial,4.95,con_tejido,Estratificacion,Compuesta,2.0,82.14,6.4,4.9,Subobturado
+IV,22,Incisal,Distal,3.63,limpia,Estratificacion,Fluida,3.5,128.94,16.7,3.47,Subobturado
+IV,22,Incisal,Mesial,4.76,limpia,Estratificacion,Bulk,1.5,109.7,7.03,4.77,Equiobturado
+IV,22,Incisal,Mesial,3.93,con_tejido,Estratificacion,Compuesta,2.0,102.74,4.98,3.11,Subobturado
+IV,9,Incisal,Mesial,4.58,con_tejido,Bulk,Bulk,1.5,118.74,17.75,4.72,Sobreobturado
+IV,26,Incisal,Distal,4.49,con_tejido,Estratificacion,Fluida,3.5,96.08,4.79,4.65,Equiobturado
+IV,22,Incisal,Distal,1.54,con_tejido,Bulk,Compuesta,2.0,106.72,16.64,1.02,Subobturado
+IV,7,Incisal,Mesial,3.75,con_tejido,Estratificacion,Compuesta,2.0,123.38,17.0,4.47,Sobreobturado
+IV,23,Incisal,Mesial,3.56,limpia,Bulk,Compuesta,2.0,112.72,13.42,4.02,Sobreobturado
+IV,25,Incisal,Distal,3.81,limpia,Estratificacion,Con fibra de vidrio,1.0,124.82,9.24,2.89,Subobturado
+IV,9,Incisal,Mesial,2.93,con_tejido,Bulk,Compuesta,2.0,96.36,14.31,3.51,Sobreobturado
+IV,8,Incisal,Mesial,4.66,con_tejido,Bulk,Compuesta,2.0,86.69,13.43,4.84,Equiobturado
+IV,26,Incisal,Distal,4.12,limpia,Estratificacion,Con fibra de vidrio,1.0,113.82,1.94,5.04,Sobreobturado
+IV,24,Incisal,Distal,2.39,con_tejido,Estratificacion,Con fibra de vidrio,1.0,89.86,4.83,2.74,Sobreobturado
+IV,23,Incisal,Mesial,4.62,con_tejido,Bulk,Fluida,3.5,83.18,10.31,4.66,Equiobturado
+IV,22,Incisal,Distal,2.09,limpia,Estratificacion,Bulk,1.5,119.15,7.11,2.12,Equiobturado
+IV,26,Incisal,Distal,4.69,con_tejido,Estratificacion,Con fibra de vidrio,1.0,108.75,4.84,5.31,Sobreobturado
+IV,27,Incisal,Mesial,3.28,con_tejido,Bulk,Con fibra de vidrio,1.0,96.12,7.8,3.63,Sobreobturado
+IV,22,Incisal,Mesial,2.31,limpia,Bulk,Compuesta,2.0,129.87,14.7,1.62,Subobturado
+IV,11,Incisal,Mesial,2.07,limpia,Estratificacion,Fluida,3.5,120.52,3.02,1.78,Subobturado
+IV,27,Incisal,Distal,2.26,limpia,Bulk,Con fibra de vidrio,1.0,89.16,11.62,2.15,Equiobturado
+IV,9,Incisal,Mesial,4.6,con_tejido,Bulk,Bulk,1.5,125.44,8.11,4.6,Equiobturado
+IV,11,Incisal,Mesial,4.7,limpia,Estratificacion,Con fibra de vidrio,1.0,128.9,8.87,4.26,Subobturado
+IV,11,Incisal,Distal,5.31,con_tejido,Estratificacion,Bulk,1.5,96.89,13.46,5.12,Subobturado
+IV,25,Incisal,Distal,4.14,con_tejido,Estratificacion,Fluida,3.5,80.23,10.29,3.19,Subobturado
+IV,8,Incisal,Distal,2.07,limpia,Estratificacion,Compuesta,2.0,128.62,0.64,2.33,Sobreobturado
+IV,9,Incisal,Distal,3.41,limpia,Estratificacion,Compuesta,2.0,122.03,22.21,3.58,Equiobturado
+IV,22,Incisal,Distal,1.73,con_tejido,Estratificacion,Fluida,3.5,118.58,3.19,1.61,Equiobturado
+IV,27,Incisal,Distal,2.29,con_tejido,Estratificacion,Compuesta,2.0,96.38,4.95,2.1,Subobturado
+IV,24,Incisal,Distal,1.62,con_tejido,Bulk,Bulk,1.5,91.1,16.47,1.03,Subobturado
+IV,24,Incisal,Distal,3.45,con_tejido,Estratificacion,Bulk,1.5,92.22,8.96,4.3,Sobreobturado
+IV,11,Incisal,Mesial,1.61,con_tejido,Bulk,Con fibra de vidrio,1.0,103.0,4.55,1.63,Equiobturado
+IV,8,Incisal,Distal,5.24,limpia,Bulk,Con fibra de vidrio,1.0,118.22,8.93,5.29,Sobreobturado
+IV,6,Incisal,Mesial,5.2,con_tejido,Bulk,Compuesta,2.0,99.0,10.09,4.95,Subobturado
+IV,6,Incisal,Mesial,2.18,con_tejido,Bulk,Fluida,3.5,86.04,5.94,2.37,Sobreobturado
+IV,9,Incisal,Mesial,3.12,limpia,Estratificacion,Bulk,1.5,126.1,8.89,3.19,Sobreobturado
+IV,6,Incisal,Mesial,1.56,con_tejido,Estratificacion,Bulk,1.5,83.04,3.96,1.58,Equiobturado
+IV,27,Incisal,Mesial,1.69,limpia,Bulk,Con fibra de vidrio,1.0,91.0,11.45,1.34,Subobturado
+IV,9,Incisal,Distal,2.65,limpia,Bulk,Compuesta,2.0,119.09,0.52,2.54,Equiobturado
+IV,26,Incisal,Mesial,1.64,con_tejido,Estratificacion,Fluida,3.5,89.45,2.14,2.05,Sobreobturado
+IV,7,Incisal,Mesial,4.49,con_tejido,Estratificacion,Bulk,1.5,119.72,23.38,4.06,Subobturado
+IV,10,Incisal,Mesial,4.4,con_tejido,Estratificacion,Fluida,3.5,109.33,14.7,4.53,Equiobturado
+IV,22,Incisal,Distal,2.31,limpia,Estratificacion,Fluida,3.5,98.61,1.29,2.15,Equiobturado
+IV,23,Incisal,Mesial,3.61,con_tejido,Bulk,Fluida,3.5,95.42,1.57,3.83,Sobreobturado
+IV,6,Incisal,Distal,5.06,limpia,Estratificacion,Compuesta,2.0,124.3,9.22,5.22,Equiobturado
+IV,11,Incisal,Mesial,4.87,con_tejido,Bulk,Bulk,1.5,129.88,6.16,5.04,Equiobturado
+IV,27,Incisal,Mesial,3.34,con_tejido,Estratificacion,Bulk,1.5,92.59,5.54,3.37,Sobreobturado
+IV,9,Incisal,Distal,2.54,con_tejido,Bulk,Compuesta,2.0,114.27,9.99,2.46,Subobturado
+IV,10,Incisal,Distal,2.35,con_tejido,Estratificacion,Fluida,3.5,119.24,23.03,2.64,Sobreobturado
+IV,10,Incisal,Mesial,2.01,limpia,Estratificacion,Fluida,3.5,114.17,19.25,1.4,Subobturado
+IV,24,Incisal,Distal,5.43,limpia,Estratificacion,Fluida,3.5,87.01,2.34,6.03,Sobreobturado
+IV,25,Incisal,Distal,1.75,limpia,Estratificacion,Bulk,1.5,94.37,12.59,1.9,Equiobturado
+IV,8,Incisal,Distal,5.47,limpia,Estratificacion,Fluida,3.5,105.48,11.95,6.03,Sobreobturado
+IV,25,Incisal,Distal,1.95,limpia,Estratificacion,Compuesta,2.0,112.85,17.37,1.9,Subobturado
+IV,23,Incisal,Mesial,2.79,limpia,Estratificacion,Bulk,1.5,103.05,7.85,2.74,Equiobturado
+IV,10,Incisal,Mesial,4.58,limpia,Estratificacion,Con fibra de vidrio,1.0,120.46,1.62,4.55,Equiobturado
+IV,26,Incisal,Distal,2.01,con_tejido,Estratificacion,Bulk,1.5,80.19,11.35,2.13,Equiobturado
+IV,23,Incisal,Mesial,4.82,con_tejido,Bulk,Fluida,3.5,102.07,2.62,4.64,Subobturado
+IV,10,Incisal,Distal,3.99,limpia,Bulk,Con fibra de vidrio,1.0,113.37,3.84,3.92,Equiobturado
+IV,8,Incisal,Mesial,2.76,limpia,Estratificacion,Compuesta,2.0,81.26,2.29,2.7,Equiobturado
+IV,8,Incisal,Mesial,1.81,con_tejido,Estratificacion,Con fibra de vidrio,1.0,80.98,11.56,2.75,Sobreobturado
+IV,7,Incisal,Distal,3.84,con_tejido,Bulk,Compuesta,2.0,128.83,9.9,3.79,Subobturado
+IV,23,Incisal,Mesial,2.11,con_tejido,Bulk,Bulk,1.5,83.22,7.47,1.48,Subobturado
+IV,23,Incisal,Distal,2.46,limpia,Estratificacion,Fluida,3.5,117.66,2.54,3.34,Sobreobturado
+IV,9,Incisal,Mesial,4.4,limpia,Bulk,Compuesta,2.0,108.68,3.71,4.41,Equiobturado
+IV,10,Incisal,Distal,2.04,con_tejido,Bulk,Fluida,3.5,124.49,3.12,1.99,Equiobturado
+IV,24,Incisal,Mesial,1.65,limpia,Bulk,Con fibra de vidrio,1.0,96.02,17.87,1.36,Subobturado
+IV,27,Incisal,Mesial,3.04,limpia,Estratificacion,Fluida,3.5,123.6,6.93,2.57,Subobturado
+IV,11,Incisal,Mesial,4.88,limpia,Estratificacion,Fluida,3.5,88.36,3.87,4.91,Equiobturado
+IV,27,Incisal,Distal,1.56,con_tejido,Bulk,Compuesta,2.0,113.88,18.66,1.58,Equiobturado
+IV,8,Incisal,Mesial,4.71,limpia,Bulk,Con fibra de vidrio,1.0,88.45,10.23,3.85,Subobturado
+IV,27,Incisal,Distal,4.91,con_tejido,Estratificacion,Compuesta,2.0,93.21,5.96,4.73,Equiobturado
+IV,9,Incisal,Mesial,3.74,limpia,Bulk,Compuesta,2.0,91.46,2.35,4.38,Sobreobturado
+IV,24,Incisal,Mesial,2.0,con_tejido,Bulk,Con fibra de vidrio,1.0,117.97,20.04,1.75,Subobturado
+IV,25,Incisal,Mesial,2.05,limpia,Bulk,Compuesta,2.0,97.95,16.2,2.16,Equiobturado
+IV,23,Incisal,Distal,4.43,con_tejido,Bulk,Compuesta,2.0,123.53,10.05,4.36,Subobturado
+IV,7,Incisal,Distal,5.17,limpia,Bulk,Fluida,3.5,112.34,0.15,6.16,Sobreobturado
+IV,10,Incisal,Mesial,3.36,limpia,Bulk,Fluida,3.5,96.43,10.75,4.07,Sobreobturado
+IV,23,Incisal,Mesial,5.13,con_tejido,Estratificacion,Fluida,3.5,88.84,13.18,5.32,Equiobturado
+IV,25,Incisal,Mesial,3.6,con_tejido,Bulk,Bulk,1.5,116.22,2.43,4.17,Sobreobturado
+IV,24,Incisal,Mesial,3.73,con_tejido,Estratificacion,Con fibra de vidrio,1.0,111.69,21.38,3.6,Equiobturado
+IV,10,Incisal,Mesial,5.33,limpia,Bulk,Compuesta,2.0,122.75,17.99,5.41,Equiobturado
+IV,9,Incisal,Mesial,2.98,limpia,Estratificacion,Compuesta,2.0,108.66,13.29,3.15,Equiobturado
+IV,25,Incisal,Distal,2.52,limpia,Estratificacion,Bulk,1.5,96.04,14.24,3.14,Sobreobturado
+IV,23,Incisal,Distal,2.25,limpia,Estratificacion,Fluida,3.5,85.9,6.27,3.21,Sobreobturado
+IV,23,Incisal,Distal,2.61,con_tejido,Bulk,Fluida,3.5,85.69,5.67,2.91,Sobreobturado
+IV,26,Incisal,Mesial,1.98,limpia,Bulk,Compuesta,2.0,82.05,16.34,2.39,Sobreobturado
+IV,10,Incisal,Distal,3.32,con_tejido,Bulk,Fluida,3.5,104.3,2.74,3.5,Equiobturado
+IV,10,Incisal,Distal,2.4,con_tejido,Estratificacion,Compuesta,2.0,115.63,4.93,2.4,Equiobturado
+IV,11,Incisal,Mesial,3.1,limpia,Bulk,Bulk,1.5,83.98,2.44,3.08,Equiobturado
+IV,8,Incisal,Mesial,1.71,con_tejido,Bulk,Fluida,3.5,89.97,9.19,1.87,Equiobturado
+IV,10,Incisal,Distal,2.03,con_tejido,Bulk,Fluida,3.5,116.09,11.93,2.71,Sobreobturado
+IV,24,Incisal,Mesial,2.6,limpia,Estratificacion,Compuesta,2.0,126.7,17.67,3.22,Sobreobturado
+IV,8,Incisal,Distal,2.51,con_tejido,Estratificacion,Bulk,1.5,105.91,11.92,2.94,Sobreobturado
+IV,26,Incisal,Mesial,4.8,limpia,Bulk,Bulk,1.5,114.55,11.23,4.82,Sobreobturado
+IV,10,Incisal,Mesial,5.07,con_tejido,Bulk,Compuesta,2.0,129.92,25.74,4.89,Equiobturado
+IV,9,Incisal,Mesial,2.94,limpia,Estratificacion,Bulk,1.5,99.17,10.81,3.1,Equiobturado
+IV,25,Incisal,Distal,2.97,con_tejido,Bulk,Fluida,3.5,110.76,4.02,2.84,Equiobturado
+IV,10,Incisal,Distal,2.79,limpia,Bulk,Con fibra de vidrio,1.0,88.34,3.17,3.1,Sobreobturado
+IV,22,Incisal,Mesial,1.7,con_tejido,Bulk,Compuesta,2.0,94.3,16.98,2.21,Sobreobturado
+IV,10,Incisal,Mesial,3.22,con_tejido,Estratificacion,Con fibra de vidrio,1.0,117.8,2.39,2.22,Subobturado
+IV,22,Incisal,Distal,4.91,limpia,Bulk,Con fibra de vidrio,1.0,89.65,13.91,5.76,Sobreobturado
+IV,11,Incisal,Distal,4.34,limpia,Estratificacion,Compuesta,2.0,80.76,3.82,4.03,Subobturado
+IV,9,Incisal,Mesial,3.53,con_tejido,Estratificacion,Bulk,1.5,126.43,23.79,2.81,Subobturado
+IV,10,Incisal,Distal,3.27,limpia,Bulk,Fluida,3.5,108.01,10.33,3.09,Subobturado
+IV,25,Incisal,Mesial,4.34,limpia,Estratificacion,Compuesta,2.0,108.1,9.47,4.33,Equiobturado
+IV,26,Incisal,Distal,4.66,con_tejido,Estratificacion,Compuesta,2.0,115.89,7.12,4.8,Equiobturado
+IV,22,Incisal,Distal,4.33,limpia,Bulk,Con fibra de vidrio,1.0,129.71,21.52,4.3,Equiobturado
+IV,11,Incisal,Distal,2.43,con_tejido,Estratificacion,Bulk,1.5,120.34,4.1,2.21,Subobturado
+IV,11,Incisal,Distal,3.47,con_tejido,Bulk,Fluida,3.5,127.74,16.36,3.66,Equiobturado
+IV,6,Incisal,Distal,1.92,con_tejido,Estratificacion,Bulk,1.5,117.81,3.77,1.92,Equiobturado
+IV,24,Incisal,Mesial,5.42,con_tejido,Bulk,Fluida,3.5,115.36,7.57,5.48,Equiobturado
+IV,10,Incisal,Distal,4.89,limpia,Bulk,Con fibra de vidrio,1.0,111.09,18.24,5.19,Sobreobturado
+IV,23,Incisal,Distal,1.57,limpia,Bulk,Con fibra de vidrio,1.0,99.45,18.18,0.62,Subobturado
+IV,22,Incisal,Distal,4.54,limpia,Bulk,Compuesta,2.0,103.3,3.64,4.84,Sobreobturado
+IV,7,Incisal,Mesial,2.11,limpia,Estratificacion,Fluida,3.5,84.32,9.6,2.23,Equiobturado
+IV,11,Incisal,Mesial,4.92,con_tejido,Bulk,Con fibra de vidrio,1.0,87.09,13.16,4.78,Equiobturado
+IV,22,Incisal,Mesial,2.67,con_tejido,Bulk,Con fibra de vidrio,1.0,121.86,4.25,3.66,Sobreobturado
+IV,6,Incisal,Distal,2.56,con_tejido,Bulk,Bulk,1.5,128.24,2.54,2.72,Equiobturado
+IV,22,Incisal,Distal,2.15,con_tejido,Estratificacion,Bulk,1.5,105.14,12.96,3.08,Sobreobturado
+IV,25,Incisal,Distal,2.19,con_tejido,Estratificacion,Bulk,1.5,80.5,7.94,2.0,Equiobturado
+IV,11,Incisal,Mesial,4.07,con_tejido,Estratificacion,Compuesta,2.0,89.53,6.8,3.31,Subobturado
+IV,6,Incisal,Distal,4.51,limpia,Estratificacion,Bulk,1.5,90.26,17.51,4.31,Subobturado
+IV,26,Incisal,Mesial,5.49,con_tejido,Bulk,Fluida,3.5,110.79,12.75,5.58,Equiobturado
+IV,11,Incisal,Distal,4.76,con_tejido,Bulk,Bulk,1.5,120.5,14.06,3.87,Subobturado
+IV,10,Incisal,Mesial,2.84,con_tejido,Estratificacion,Fluida,3.5,104.77,1.85,3.02,Equiobturado
+IV,9,Incisal,Distal,5.29,limpia,Estratificacion,Fluida,3.5,87.43,3.38,5.23,Equiobturado
+IV,22,Incisal,Mesial,4.98,con_tejido,Estratificacion,Bulk,1.5,96.94,3.9,5.0,Equiobturado
+IV,24,Incisal,Mesial,4.39,limpia,Estratificacion,Fluida,3.5,87.98,10.26,3.66,Subobturado
+IV,23,Incisal,Distal,2.47,con_tejido,Bulk,Bulk,1.5,120.56,12.7,1.51,Subobturado
+IV,10,Incisal,Mesial,2.84,limpia,Bulk,Fluida,3.5,85.61,4.77,2.66,Equiobturado
+IV,9,Incisal,Distal,4.0,con_tejido,Bulk,Bulk,1.5,129.92,4.82,3.49,Subobturado
+IV,27,Incisal,Mesial,2.59,con_tejido,Bulk,Compuesta,2.0,106.67,14.92,2.46,Equiobturado
+IV,8,Incisal,Mesial,3.5,con_tejido,Estratificacion,Bulk,1.5,90.7,17.34,3.9,Sobreobturado
+IV,25,Incisal,Mesial,5.46,con_tejido,Estratificacion,Fluida,3.5,86.29,12.34,5.58,Equiobturado
+IV,26,Incisal,Mesial,3.19,con_tejido,Estratificacion,Bulk,1.5,116.88,21.57,3.1,Equiobturado
+IV,7,Incisal,Mesial,1.51,limpia,Estratificacion,Bulk,1.5,113.26,6.87,1.23,Subobturado
+IV,24,Incisal,Distal,2.81,con_tejido,Estratificacion,Con fibra de vidrio,1.0,117.22,17.2,2.85,Equiobturado
+IV,27,Incisal,Distal,3.12,con_tejido,Bulk,Bulk,1.5,104.97,12.37,2.53,Subobturado
+IV,8,Incisal,Distal,3.95,limpia,Bulk,Con fibra de vidrio,1.0,113.59,2.1,3.31,Subobturado
+IV,22,Incisal,Mesial,2.41,con_tejido,Estratificacion,Con fibra de vidrio,1.0,113.87,22.36,2.95,Sobreobturado
+IV,6,Incisal,Distal,1.69,con_tejido,Estratificacion,Bulk,1.5,125.46,1.13,2.45,Sobreobturado
+IV,24,Incisal,Distal,3.87,con_tejido,Bulk,Compuesta,2.0,118.71,10.28,3.87,Equiobturado
+IV,22,Incisal,Distal,3.32,con_tejido,Bulk,Bulk,1.5,85.39,11.83,3.34,Equiobturado
+IV,9,Incisal,Distal,5.47,limpia,Estratificacion,Compuesta,2.0,97.77,1.74,5.69,Sobreobturado
+IV,8,Incisal,Distal,3.09,con_tejido,Bulk,Fluida,3.5,91.6,16.39,2.93,Equiobturado
+IV,27,Incisal,Mesial,4.22,con_tejido,Bulk,Fluida,3.5,91.83,14.5,4.95,Sobreobturado
+IV,7,Incisal,Distal,1.7,con_tejido,Estratificacion,Con fibra de vidrio,1.0,92.51,2.81,1.67,Equiobturado
+IV,11,Incisal,Distal,2.24,con_tejido,Bulk,Fluida,3.5,106.08,8.55,2.22,Subobturado
+IV,6,Incisal,Mesial,1.88,limpia,Bulk,Fluida,3.5,92.23,16.27,1.14,Subobturado
+IV,24,Incisal,Distal,1.64,con_tejido,Bulk,Con fibra de vidrio,1.0,129.17,6.59,2.18,Sobreobturado
+IV,24,Incisal,Distal,5.06,con_tejido,Estratificacion,Con fibra de vidrio,1.0,94.01,10.94,4.89,Equiobturado
+IV,23,Incisal,Mesial,4.0,con_tejido,Estratificacion,Con fibra de vidrio,1.0,110.45,20.19,3.8,Subobturado
+IV,23,Incisal,Distal,5.07,limpia,Estratificacion,Fluida,3.5,123.96,16.97,4.42,Subobturado
+IV,23,Incisal,Mesial,4.82,limpia,Estratificacion,Con fibra de vidrio,1.0,117.03,13.31,4.66,Subobturado
+IV,10,Incisal,Mesial,5.06,limpia,Estratificacion,Con fibra de vidrio,1.0,92.19,17.46,5.13,Sobreobturado
+IV,27,Incisal,Distal,4.29,con_tejido,Bulk,Compuesta,2.0,124.63,10.16,4.35,Equiobturado
+IV,6,Incisal,Distal,1.76,limpia,Estratificacion,Bulk,1.5,117.66,3.58,2.56,Sobreobturado
+IV,7,Incisal,Mesial,1.94,limpia,Bulk,Bulk,1.5,125.9,25.15,1.0,Subobturado
+IV,7,Incisal,Mesial,2.46,limpia,Bulk,Compuesta,2.0,90.98,1.69,1.75,Subobturado
+IV,8,Incisal,Distal,3.65,con_tejido,Bulk,Bulk,1.5,91.1,13.33,3.53,Equiobturado
+IV,27,Incisal,Distal,5.04,limpia,Bulk,Compuesta,2.0,125.72,16.61,4.99,Equiobturado
+IV,26,Incisal,Distal,3.06,con_tejido,Estratificacion,Bulk,1.5,108.88,4.32,2.98,Subobturado
+IV,22,Incisal,Distal,3.72,con_tejido,Estratificacion,Fluida,3.5,89.01,8.44,3.67,Equiobturado
+IV,26,Incisal,Distal,4.39,con_tejido,Bulk,Compuesta,2.0,89.72,2.62,4.35,Equiobturado
+IV,23,Incisal,Mesial,5.46,con_tejido,Bulk,Fluida,3.5,87.72,1.06,5.75,Sobreobturado
+IV,8,Incisal,Mesial,2.23,con_tejido,Bulk,Con fibra de vidrio,1.0,94.82,11.2,3.22,Sobreobturado
+IV,27,Incisal,Mesial,3.35,con_tejido,Bulk,Bulk,1.5,92.93,3.79,2.58,Subobturado
+IV,11,Incisal,Distal,4.42,limpia,Estratificacion,Compuesta,2.0,100.37,4.6,4.66,Sobreobturado
+IV,10,Incisal,Distal,2.1,limpia,Bulk,Fluida,3.5,83.72,13.05,2.26,Equiobturado
+IV,26,Incisal,Distal,4.68,limpia,Estratificacion,Bulk,1.5,127.33,2.86,5.21,Sobreobturado
+IV,8,Incisal,Distal,4.55,con_tejido,Estratificacion,Con fibra de vidrio,1.0,114.27,14.85,4.9,Sobreobturado
+IV,27,Incisal,Mesial,3.9,limpia,Bulk,Con fibra de vidrio,1.0,103.03,17.55,3.12,Subobturado
+IV,23,Incisal,Distal,4.96,limpia,Estratificacion,Compuesta,2.0,85.67,11.45,4.98,Equiobturado
+IV,9,Incisal,Mesial,5.04,con_tejido,Bulk,Bulk,1.5,127.85,16.78,4.98,Subobturado
+IV,9,Incisal,Distal,5.41,con_tejido,Estratificacion,Fluida,3.5,118.3,15.44,5.46,Equiobturado
+IV,10,Incisal,Mesial,1.92,con_tejido,Estratificacion,Compuesta,2.0,114.84,10.1,1.86,Equiobturado
+IV,9,Incisal,Mesial,5.47,con_tejido,Estratificacion,Con fibra de vidrio,1.0,125.81,6.27,5.39,Equiobturado
+IV,23,Incisal,Distal,4.36,con_tejido,Bulk,Fluida,3.5,81.33,5.62,4.05,Subobturado
+IV,6,Incisal,Mesial,3.47,limpia,Estratificacion,Bulk,1.5,106.1,5.9,3.59,Sobreobturado
+IV,8,Incisal,Mesial,2.76,con_tejido,Estratificacion,Compuesta,2.0,93.62,0.64,2.8,Equiobturado
+IV,8,Incisal,Distal,4.67,limpia,Bulk,Con fibra de vidrio,1.0,127.75,16.24,5.64,Sobreobturado
+IV,11,Incisal,Distal,2.27,con_tejido,Bulk,Con fibra de vidrio,1.0,98.55,11.17,1.38,Subobturado
+IV,7,Incisal,Distal,4.43,limpia,Estratificacion,Compuesta,2.0,104.46,10.65,4.3,Equiobturado
+IV,24,Incisal,Distal,3.54,con_tejido,Estratificacion,Compuesta,2.0,93.94,11.46,3.71,Equiobturado
+IV,9,Incisal,Distal,2.55,con_tejido,Estratificacion,Fluida,3.5,106.26,9.84,2.43,Equiobturado
+IV,23,Incisal,Mesial,5.0,con_tejido,Bulk,Compuesta,2.0,90.73,12.41,5.18,Equiobturado
+IV,9,Incisal,Mesial,3.7,con_tejido,Bulk,Bulk,1.5,116.04,11.73,4.01,Sobreobturado
+IV,25,Incisal,Distal,2.53,con_tejido,Estratificacion,Fluida,3.5,85.14,9.24,2.53,Equiobturado
+IV,24,Incisal,Mesial,3.84,con_tejido,Estratificacion,Compuesta,2.0,113.5,1.84,4.68,Sobreobturado
+IV,6,Incisal,Distal,2.44,con_tejido,Bulk,Bulk,1.5,91.01,0.09,2.86,Sobreobturado
+IV,24,Incisal,Distal,2.26,con_tejido,Estratificacion,Con fibra de vidrio,1.0,110.32,19.34,2.26,Equiobturado
+IV,10,Incisal,Mesial,2.36,con_tejido,Estratificacion,Bulk,1.5,95.2,12.95,1.42,Subobturado
+IV,22,Incisal,Distal,2.24,limpia,Bulk,Con fibra de vidrio,1.0,88.86,4.92,2.12,Equiobturado
+IV,26,Incisal,Mesial,2.82,con_tejido,Bulk,Fluida,3.5,114.32,5.95,2.82,Equiobturado
+IV,24,Incisal,Mesial,1.6,con_tejido,Bulk,Compuesta,2.0,81.52,6.63,1.24,Subobturado
+IV,7,Incisal,Mesial,1.91,con_tejido,Bulk,Compuesta,2.0,122.23,1.5,1.68,Subobturado
+IV,26,Incisal,Distal,3.76,con_tejido,Bulk,Fluida,3.5,127.03,15.94,3.93,Sobreobturado
+IV,26,Incisal,Distal,1.98,con_tejido,Bulk,Bulk,1.5,88.91,12.8,2.3,Sobreobturado
+IV,22,Incisal,Distal,4.58,con_tejido,Estratificacion,Bulk,1.5,93.48,16.5,3.74,Subobturado
+IV,7,Incisal,Distal,3.59,limpia,Estratificacion,Bulk,1.5,106.47,3.11,3.6,Sobreobturado
+IV,27,Incisal,Mesial,4.2,con_tejido,Bulk,Fluida,3.5,95.74,8.55,4.11,Subobturado
+IV,23,Incisal,Mesial,2.58,limpia,Estratificacion,Compuesta,2.0,101.91,16.08,2.89,Sobreobturado
+IV,7,Incisal,Distal,5.14,limpia,Bulk,Bulk,1.5,125.67,1.31,5.1,Equiobturado
+IV,27,Incisal,Distal,3.12,limpia,Bulk,Con fibra de vidrio,1.0,100.51,17.22,3.23,Equiobturado
+IV,26,Incisal,Mesial,3.49,limpia,Bulk,Con fibra de vidrio,1.0,83.05,3.41,3.39,Equiobturado
+IV,24,Incisal,Mesial,5.11,con_tejido,Estratificacion,Bulk,1.5,126.35,10.29,4.65,Subobturado
+IV,10,Incisal,Mesial,4.21,limpia,Bulk,Fluida,3.5,105.67,1.34,5.04,Sobreobturado
+IV,24,Incisal,Distal,1.53,con_tejido,Bulk,Fluida,3.5,124.19,23.59,1.7,Equiobturado
+IV,8,Incisal,Mesial,2.39,limpia,Estratificacion,Fluida,3.5,123.38,12.74,3.24,Sobreobturado
+IV,22,Incisal,Mesial,1.93,limpia,Estratificacion,Bulk,1.5,128.32,0.27,2.08,Sobreobturado
+IV,25,Incisal,Distal,1.67,con_tejido,Bulk,Bulk,1.5,94.74,2.04,0.94,Subobturado
+IV,8,Incisal,Distal,2.5,limpia,Bulk,Con fibra de vidrio,1.0,88.76,4.45,2.55,Equiobturado
+IV,11,Incisal,Distal,4.98,limpia,Bulk,Bulk,1.5,107.12,8.09,4.62,Subobturado
+IV,6,Incisal,Mesial,4.92,limpia,Estratificacion,Compuesta,2.0,98.51,15.51,5.38,Sobreobturado
+IV,27,Incisal,Mesial,4.7,limpia,Bulk,Compuesta,2.0,82.49,5.45,4.5,Equiobturado
+IV,22,Incisal,Mesial,1.95,con_tejido,Estratificacion,Bulk,1.5,83.77,2.2,1.66,Subobturado
+IV,7,Incisal,Distal,5.22,con_tejido,Estratificacion,Compuesta,2.0,101.58,16.45,5.39,Equiobturado
+IV,24,Incisal,Mesial,2.08,con_tejido,Bulk,Compuesta,2.0,123.83,19.92,2.42,Sobreobturado
+IV,8,Incisal,Mesial,2.29,con_tejido,Bulk,Bulk,1.5,93.1,14.54,3.09,Sobreobturado
+IV,23,Incisal,Mesial,3.3,con_tejido,Bulk,Con fibra de vidrio,1.0,103.45,4.91,3.38,Sobreobturado
+IV,23,Incisal,Distal,3.77,limpia,Estratificacion,Bulk,1.5,125.65,11.52,3.62,Subobturado
+IV,10,Incisal,Mesial,2.0,con_tejido,Estratificacion,Fluida,3.5,102.48,0.81,2.16,Equiobturado
+IV,27,Incisal,Distal,2.9,limpia,Bulk,Bulk,1.5,82.19,9.45,2.74,Subobturado
+IV,7,Incisal,Distal,3.46,limpia,Bulk,Bulk,1.5,102.53,18.66,3.37,Equiobturado
+IV,9,Incisal,Distal,4.35,con_tejido,Estratificacion,Fluida,3.5,81.77,7.65,4.77,Sobreobturado
+IV,24,Incisal,Mesial,4.4,con_tejido,Bulk,Bulk,1.5,81.82,14.51,4.3,Subobturado
+IV,25,Incisal,Distal,2.71,con_tejido,Bulk,Fluida,3.5,95.33,6.5,2.83,Sobreobturado
+IV,7,Incisal,Mesial,3.47,limpia,Bulk,Fluida,3.5,100.74,8.24,4.32,Sobreobturado
+IV,25,Incisal,Distal,1.78,con_tejido,Bulk,Compuesta,2.0,94.18,8.82,1.76,Subobturado
+IV,6,Incisal,Distal,4.88,limpia,Bulk,Con fibra de vidrio,1.0,126.73,15.38,4.39,Subobturado
+IV,11,Incisal,Distal,2.09,con_tejido,Estratificacion,Fluida,3.5,126.28,2.17,1.14,Subobturado
+IV,25,Incisal,Distal,5.14,con_tejido,Estratificacion,Compuesta,2.0,101.85,16.44,5.38,Sobreobturado
+IV,11,Incisal,Mesial,3.47,limpia,Estratificacion,Con fibra de vidrio,1.0,108.69,3.04,2.75,Subobturado
+IV,27,Incisal,Mesial,2.21,limpia,Bulk,Compuesta,2.0,109.54,11.02,2.13,Subobturado
+IV,27,Incisal,Mesial,5.5,con_tejido,Bulk,Compuesta,2.0,126.21,6.73,6.05,Sobreobturado
+IV,23,Incisal,Distal,2.24,con_tejido,Bulk,Con fibra de vidrio,1.0,123.01,1.42,1.31,Subobturado
+IV,25,Incisal,Mesial,5.2,limpia,Estratificacion,Bulk,1.5,117.86,0.82,5.05,Equiobturado
+IV,8,Incisal,Mesial,3.96,limpia,Estratificacion,Con fibra de vidrio,1.0,109.23,5.83,3.82,Subobturado
+IV,25,Incisal,Mesial,3.48,con_tejido,Estratificacion,Con fibra de vidrio,1.0,93.59,9.44,2.57,Subobturado
+IV,8,Incisal,Distal,2.94,con_tejido,Estratificacion,Bulk,1.5,100.41,8.28,3.05,Equiobturado
+IV,9,Incisal,Distal,1.69,limpia,Bulk,Bulk,1.5,116.68,22.96,1.8,Equiobturado
+IV,8,Incisal,Mesial,3.19,limpia,Bulk,Fluida,3.5,105.07,7.65,3.27,Sobreobturado
+IV,11,Incisal,Distal,3.85,con_tejido,Bulk,Bulk,1.5,126.33,18.2,2.85,Subobturado
+IV,6,Incisal,Mesial,1.97,con_tejido,Estratificacion,Bulk,1.5,103.31,10.25,2.64,Sobreobturado
+IV,9,Incisal,Distal,1.84,con_tejido,Estratificacion,Bulk,1.5,113.35,16.04,1.97,Equiobturado
+IV,8,Incisal,Distal,2.54,con_tejido,Estratificacion,Compuesta,2.0,87.3,16.17,2.6,Equiobturado
+IV,24,Incisal,Distal,3.31,limpia,Bulk,Bulk,1.5,90.48,10.22,3.27,Equiobturado
+IV,23,Incisal,Mesial,3.51,limpia,Estratificacion,Fluida,3.5,99.45,7.49,3.91,Sobreobturado
+IV,25,Incisal,Distal,4.25,limpia,Estratificacion,Fluida,3.5,117.26,17.61,4.36,Equiobturado
+IV,7,Incisal,Mesial,4.0,limpia,Estratificacion,Bulk,1.5,94.76,14.93,4.18,Equiobturado
+IV,25,Incisal,Mesial,5.21,con_tejido,Bulk,Compuesta,2.0,98.57,11.61,4.57,Subobturado
+IV,6,Incisal,Distal,4.33,con_tejido,Estratificacion,Compuesta,2.0,115.81,19.81,4.32,Equiobturado
+IV,10,Incisal,Mesial,5.02,limpia,Estratificacion,Con fibra de vidrio,1.0,117.67,3.33,4.98,Equiobturado
+IV,23,Incisal,Distal,2.73,limpia,Estratificacion,Con fibra de vidrio,1.0,103.94,12.47,2.63,Subobturado
+IV,24,Incisal,Mesial,5.26,con_tejido,Bulk,Bulk,1.5,87.13,4.39,5.23,Subobturado
+IV,11,Incisal,Distal,4.11,limpia,Estratificacion,Compuesta,2.0,122.24,14.52,3.99,Subobturado
+IV,22,Incisal,Mesial,4.41,con_tejido,Bulk,Fluida,3.5,88.0,0.57,4.54,Equiobturado
+IV,10,Incisal,Mesial,3.28,con_tejido,Bulk,Bulk,1.5,80.72,10.96,4.16,Sobreobturado
+IV,27,Incisal,Distal,2.66,limpia,Estratificacion,Compuesta,2.0,125.24,15.72,3.05,Sobreobturado
+IV,26,Incisal,Mesial,4.42,con_tejido,Estratificacion,Compuesta,2.0,119.56,14.09,4.0,Subobturado
+IV,6,Incisal,Mesial,2.25,limpia,Bulk,Compuesta,2.0,129.91,20.96,1.36,Subobturado
+IV,11,Incisal,Distal,5.38,con_tejido,Bulk,Con fibra de vidrio,1.0,80.16,5.89,5.51,Sobreobturado
+IV,9,Incisal,Mesial,5.29,con_tejido,Bulk,Bulk,1.5,95.02,9.81,5.43,Equiobturado
+IV,22,Incisal,Mesial,4.62,con_tejido,Estratificacion,Con fibra de vidrio,1.0,88.2,8.61,5.6,Sobreobturado
+IV,22,Incisal,Distal,5.34,con_tejido,Estratificacion,Compuesta,2.0,92.59,5.03,5.88,Sobreobturado
+IV,27,Incisal,Mesial,3.47,limpia,Bulk,Con fibra de vidrio,1.0,126.76,6.98,3.64,Equiobturado
+IV,9,Incisal,Mesial,2.43,con_tejido,Estratificacion,Con fibra de vidrio,1.0,116.28,3.11,1.46,Subobturado
+IV,8,Incisal,Mesial,4.94,limpia,Bulk,Compuesta,2.0,120.84,2.49,4.98,Equiobturado
+IV,8,Incisal,Distal,4.43,limpia,Estratificacion,Fluida,3.5,107.53,17.21,4.93,Sobreobturado
+IV,27,Incisal,Distal,3.86,con_tejido,Estratificacion,Bulk,1.5,125.97,8.38,2.94,Subobturado
+IV,23,Incisal,Mesial,4.44,con_tejido,Estratificacion,Compuesta,2.0,104.24,12.03,4.86,Sobreobturado
+IV,24,Incisal,Mesial,1.71,limpia,Bulk,Compuesta,2.0,102.81,16.75,1.61,Subobturado
+IV,22,Incisal,Mesial,4.44,limpia,Estratificacion,Fluida,3.5,129.08,16.38,5.04,Sobreobturado
+IV,26,Incisal,Distal,5.32,con_tejido,Estratificacion,Compuesta,2.0,105.2,17.66,5.07,Subobturado
+IV,26,Incisal,Distal,5.21,limpia,Estratificacion,Con fibra de vidrio,1.0,103.46,18.15,5.1,Subobturado
+IV,9,Incisal,Distal,2.54,con_tejido,Bulk,Compuesta,2.0,98.62,8.33,2.49,Subobturado
+IV,6,Incisal,Mesial,3.17,con_tejido,Estratificacion,Bulk,1.5,110.65,11.97,3.52,Sobreobturado
+IV,25,Incisal,Mesial,1.99,limpia,Bulk,Compuesta,2.0,119.08,0.52,1.14,Subobturado
+IV,9,Incisal,Mesial,3.2,con_tejido,Bulk,Bulk,1.5,116.79,17.67,3.09,Equiobturado
+IV,7,Incisal,Mesial,2.48,limpia,Estratificacion,Con fibra de vidrio,1.0,90.43,6.29,1.96,Subobturado
+IV,7,Incisal,Distal,1.74,con_tejido,Bulk,Compuesta,2.0,106.41,7.6,1.78,Equiobturado
